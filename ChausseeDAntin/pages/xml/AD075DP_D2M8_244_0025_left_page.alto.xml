@@ -1,0 +1,114 @@
+<ns0:alto xmlns:ns0="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://schema.ccs-gmbh.com/docworks/version20/alto-1-4.xsd">
+    <ns0:Description>
+        <ns0:MeasurementUnit>pixel</ns0:MeasurementUnit>
+        <ns0:sourceImageInformation>
+            <ns0:fileName>AD075DP_D2M8_244_0025_left_page.tif</ns0:fileName>
+        </ns0:sourceImageInformation>
+    </ns0:Description>
+    <ns0:Styles>
+        <ns0:TextStyle FONTFAMILY="Times New Roman" FONTSIZE="20" ID="TXT_0" />
+        <ns0:ParagraphStyle ALIGN="Block" ID="PAR_BLOCK" />
+    </ns0:Styles>
+    <ns0:Layout>
+        <ns0:Page HEIGHT="1908" ID="P8" PHYSICAL_IMG_NR="1" WIDTH="1236">
+            <ns0:TopMargin HEIGHT="0" HPOS="0" ID="TM_8" VPOS="0" WIDTH="1236" />
+            <ns0:LeftMargin HEIGHT="1908" HPOS="0" ID="LM_8" VPOS="0" WIDTH="0" />
+            <ns0:RightMargin HEIGHT="1908" HPOS="0" ID="RM_8" VPOS="0" WIDTH="0" />
+            <ns0:BottomMargin HEIGHT="0" HPOS="0" ID="BM_8" VPOS="0" WIDTH="1908" />
+            <ns0:PrintSpace HEIGHT="1908" HPOS="0" ID="PS_8" VPOS="0" WIDTH="1236">
+                <ns0:TextBlock HEIGHT="1908" HPOS="0" ID="TB_8" STYLEREFS="TXT_0_PAR_BLOCK" VPOS="0" WIDTH="1236">
+                    <ns0:TextLine HEIGHT="66" HPOS="272" ID="TL_284" VPOS="191" WIDTH="963">
+                        <ns0:String CONTENT="Dubois/L&#233;a/89/Somme/&#164;/D/&#164;/&#164;/Couturi&#232;re/9132" HEIGHT="66" HPOS="272" ID="TEXT_284" VPOS="191" WIDTH="963" />
+                    </ns0:TextLine>
+                    <ns0:TextLine HEIGHT="66" HPOS="272" ID="TL_285" VPOS="247" WIDTH="963">
+                        <ns0:String CONTENT="Muratorio/C&#233;sar/97/Italie/&#164;/m/Chef/&#164;/E/18377" HEIGHT="66" HPOS="272" ID="TEXT_285" VPOS="247" WIDTH="963" />
+                    </ns0:TextLine>
+                    <ns0:TextLine HEIGHT="66" HPOS="272" ID="TL_286" VPOS="302" WIDTH="963">
+                        <ns0:String CONTENT="&#164;/Lucienne/98/Loiret/&#164;/m/Ep/&#164;/E /18377" HEIGHT="66" HPOS="272" ID="TEXT_286" VPOS="302" WIDTH="963" />
+                    </ns0:TextLine>
+                    <ns0:TextLine HEIGHT="66" HPOS="272" ID="TL_287" VPOS="359" WIDTH="963">
+                        <ns0:String CONTENT="Landais/Madeleine/1885/Palignac/&#164;/&#164;/&#164;/&#164;/E /18377" HEIGHT="66" HPOS="272" ID="TEXT_287" VPOS="359" WIDTH="963" />
+                    </ns0:TextLine>
+                    <ns0:TextLine HEIGHT="66" HPOS="272" ID="TL_288" VPOS="414" WIDTH="963">
+                        <ns0:String CONTENT="Pitoiset/Val&#233;rie/67/C d'or/&#164;/&#164;/&#164;/&#164;/cuisini&#232;re/18372" HEIGHT="66" HPOS="272" ID="TEXT_288" VPOS="414" WIDTH="963" />
+                    </ns0:TextLine>
+                    <ns0:TextLine HEIGHT="66" HPOS="272" ID="TL_289" VPOS="471" WIDTH="963">
+                        <ns0:String CONTENT="Ludescher/Jn Bte/57/Allemagne/&#164;/&#164;/&#164;/&#164;/o tailleur/9132" HEIGHT="66" HPOS="272" ID="TEXT_289" VPOS="471" WIDTH="963" />
+                    </ns0:TextLine>
+                    <ns0:TextLine HEIGHT="66" HPOS="272" ID="TL_290" VPOS="526" WIDTH="963">
+                        <ns0:String CONTENT="Bastien/Simon/55/Moselle/&#164;/m/Chef/&#164;/Gon magin/16352" HEIGHT="66" HPOS="272" ID="TEXT_290" VPOS="526" WIDTH="963" />
+                    </ns0:TextLine>
+                    <ns0:TextLine HEIGHT="66" HPOS="272" ID="TL_291" VPOS="581" WIDTH="963">
+                        <ns0:String CONTENT="&#164;/Marie/58/Luxembourg/&#164;/m/Ep/&#164;/&#164;/&#164;" HEIGHT="66" HPOS="272" ID="TEXT_291" VPOS="581" WIDTH="963" />
+                    </ns0:TextLine>
+                    <ns0:TextLine HEIGHT="66" HPOS="272" ID="TL_292" VPOS="639" WIDTH="963">
+                        <ns0:String CONTENT="&#164;/Marie/1900/P/&#164;/&#164;/fil/&#164;/E /18377" HEIGHT="66" HPOS="272" ID="TEXT_292" VPOS="639" WIDTH="963" />
+                    </ns0:TextLine>
+                    <ns0:TextLine HEIGHT="66" HPOS="272" ID="TL_293" VPOS="697" WIDTH="963">
+                        <ns0:String CONTENT="Gelly/Marius/79/ard&#232;che/&#164;/m/Chef/&#164;/E /18377" HEIGHT="66" HPOS="272" ID="TEXT_293" VPOS="697" WIDTH="963" />
+                    </ns0:TextLine>
+                    <ns0:TextLine HEIGHT="66" HPOS="272" ID="TL_294" VPOS="753" WIDTH="963">
+                        <ns0:String CONTENT="&#164;/Antoinette/81/Jura/&#164;/m/Ep/&#164;/&#164;/18377" HEIGHT="66" HPOS="272" ID="TEXT_294" VPOS="753" WIDTH="963" />
+                    </ns0:TextLine>
+                    <ns0:TextLine HEIGHT="66" HPOS="272" ID="TL_295" VPOS="809" WIDTH="963">
+                        <ns0:String CONTENT="Gesmier/MArguerite/94/&#164;/&#164;/&#164;/&#164;/&#164;/E /18377" HEIGHT="66" HPOS="272" ID="TEXT_295" VPOS="809" WIDTH="963" />
+                    </ns0:TextLine>
+                    <ns0:TextLine HEIGHT="66" HPOS="272" ID="TL_296" VPOS="864" WIDTH="963">
+                        <ns0:String CONTENT="Lacoste/Raymonde/99/P/&#164;/&#164;/&#164;/&#164;/Chaufr/12307" HEIGHT="66" HPOS="272" ID="TEXT_296" VPOS="864" WIDTH="963" />
+                    </ns0:TextLine>
+                    <ns0:TextLine HEIGHT="66" HPOS="272" ID="TL_297" VPOS="920" WIDTH="963">
+                        <ns0:String CONTENT="Cl&#233;ment/Arnamnd/79/P/&#164;/D/&#164;/&#164;/dentiste/19381" HEIGHT="66" HPOS="272" ID="TEXT_297" VPOS="920" WIDTH="963" />
+                    </ns0:TextLine>
+                    <ns0:TextLine HEIGHT="66" HPOS="272" ID="TL_298" VPOS="978" WIDTH="963">
+                        <ns0:String CONTENT="St Laurent/Louis/97/Hte Gar/&#164;/&#164;/&#164;/&#164;/E /18377" HEIGHT="66" HPOS="272" ID="TEXT_298" VPOS="978" WIDTH="963" />
+                    </ns0:TextLine>
+                    <ns0:TextLine HEIGHT="66" HPOS="272" ID="TL_299" VPOS="1033" WIDTH="963">
+                        <ns0:String CONTENT="Girard/BArth&#233;lemy/62/Is&#232;re/&#164;/m/Chef/&#164;/gardien/21399" HEIGHT="66" HPOS="272" ID="TEXT_299" VPOS="1033" WIDTH="963" />
+                    </ns0:TextLine>
+                    <ns0:TextLine HEIGHT="66" HPOS="272" ID="TL_300" VPOS="1087" WIDTH="963">
+                        <ns0:String CONTENT="&#164;/Eug&#233;nie/66/ain/&#164;/m /Ep/&#164;/&#164;/&#164;" HEIGHT="66" HPOS="272" ID="TEXT_300" VPOS="1087" WIDTH="963" />
+                    </ns0:TextLine>
+                    <ns0:TextLine HEIGHT="66" HPOS="272" ID="TL_301" VPOS="1145" WIDTH="963">
+                        <ns0:String CONTENT="&#164;/Louise/1921/P/&#164;/&#164;/fil/&#164;/&#164;/&#164;" HEIGHT="66" HPOS="272" ID="TEXT_301" VPOS="1145" WIDTH="963" />
+                    </ns0:TextLine>
+                    <ns0:TextLine HEIGHT="66" HPOS="272" ID="TL_302" VPOS="1203" WIDTH="963">
+                        <ns0:String CONTENT="Voiret/firmin/85/oise/&#164;/m/Chef/&#164;/Concierge/21399" HEIGHT="66" HPOS="272" ID="TEXT_302" VPOS="1203" WIDTH="963" />
+                    </ns0:TextLine>
+                    <ns0:TextLine HEIGHT="66" HPOS="272" ID="TL_303" VPOS="1258" WIDTH="963">
+                        <ns0:String CONTENT="&#164;/Louise/90/aisne/&#164;/m/Ep/&#164;/d&#176;/21399" HEIGHT="66" HPOS="272" ID="TEXT_303" VPOS="1258" WIDTH="963" />
+                    </ns0:TextLine>
+                    <ns0:TextLine HEIGHT="66" HPOS="272" ID="TL_304" VPOS="1316" WIDTH="963">
+                        <ns0:String CONTENT="&#164;/Louis/1911/oise/&#164;/&#164;/fils/&#164;/&#164;/21399" HEIGHT="66" HPOS="272" ID="TEXT_304" VPOS="1316" WIDTH="963" />
+                    </ns0:TextLine>
+                    <ns0:TextLine HEIGHT="66" HPOS="272" ID="TL_305" VPOS="1370" WIDTH="963">
+                        <ns0:String CONTENT="JAndot/Jn Bte/79/alpes mmes/&#164;/m/Chef/&#164;/E /18377" HEIGHT="66" HPOS="272" ID="TEXT_305" VPOS="1370" WIDTH="963" />
+                    </ns0:TextLine>
+                    <ns0:TextLine HEIGHT="66" HPOS="272" ID="TL_306" VPOS="1427" WIDTH="963">
+                        <ns0:String CONTENT="&#164;/Georgette/87/Alg&#233;rie/&#164;/m/Ep/&#164;/&#164;/18377" HEIGHT="66" HPOS="272" ID="TEXT_306" VPOS="1427" WIDTH="963" />
+                    </ns0:TextLine>
+                    <ns0:TextLine HEIGHT="66" HPOS="272" ID="TL_307" VPOS="1482" WIDTH="963">
+                        <ns0:String CONTENT="Amiot/Auguste/69/C d'or/&#164;/m/Chef/&#164;/mtre d'h&#244;tel/18373" HEIGHT="66" HPOS="272" ID="TEXT_307" VPOS="1482" WIDTH="963" />
+                    </ns0:TextLine>
+                    <ns0:TextLine HEIGHT="66" HPOS="272" ID="TL_308" VPOS="1538" WIDTH="963">
+                        <ns0:String CONTENT="&#164;/Catherine/62/Belgique/&#164;/m/Ep/&#164;/couturi&#232;re/9132" HEIGHT="66" HPOS="272" ID="TEXT_308" VPOS="1538" WIDTH="963" />
+                    </ns0:TextLine>
+                    <ns0:TextLine HEIGHT="66" HPOS="272" ID="TL_309" VPOS="1594" WIDTH="963">
+                        <ns0:String CONTENT="Groja/Claire/72/Cher/&#164;/V/Chef/&#164;/fabt robes/9132" HEIGHT="66" HPOS="272" ID="TEXT_309" VPOS="1594" WIDTH="963" />
+                    </ns0:TextLine>
+                    <ns0:TextLine HEIGHT="66" HPOS="272" ID="TL_310" VPOS="1648" WIDTH="963">
+                        <ns0:String CONTENT="&#164;/Blanche/95/Gironde/&#164;/&#164;/fil/&#164;/&#164;/9132" HEIGHT="66" HPOS="272" ID="TEXT_310" VPOS="1648" WIDTH="963" />
+                    </ns0:TextLine>
+                    <ns0:TextLine HEIGHT="66" HPOS="272" ID="TL_311" VPOS="1704" WIDTH="963">
+                        <ns0:String CONTENT="BAchelerie/Albertine/86/MAnche/&#164;/&#164;/D/&#164;/cuisini&#232;re/18372" HEIGHT="66" HPOS="272" ID="TEXT_311" VPOS="1704" WIDTH="963" />
+                    </ns0:TextLine>
+                    <ns0:TextLine HEIGHT="66" HPOS="272" ID="TL_312" VPOS="1760" WIDTH="963">
+                        <ns0:String CONTENT="&#164;/Jean/86/Corr&#232;ze/&#164;/&#164;/&#164;/&#164;/E /18377" HEIGHT="66" HPOS="272" ID="TEXT_312" VPOS="1760" WIDTH="963" />
+                    </ns0:TextLine>
+                    <ns0:TextLine HEIGHT="66" HPOS="272" ID="TL_313" VPOS="1814" WIDTH="963">
+                        <ns0:String CONTENT="Vergne/Antoine/79/P/&#164;/&#164;/chef/&#164;/profesr/19385" HEIGHT="66" HPOS="272" ID="TEXT_313" VPOS="1814" WIDTH="963" />
+                    </ns0:TextLine>
+                    </ns0:TextBlock>
+            </ns0:PrintSpace>
+        </ns0:Page>
+    </ns0:Layout>
+</ns0:alto>

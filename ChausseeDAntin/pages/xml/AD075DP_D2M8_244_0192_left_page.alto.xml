@@ -1,0 +1,114 @@
+<ns0:alto xmlns:ns0="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://schema.ccs-gmbh.com/docworks/version20/alto-1-4.xsd">
+    <ns0:Description>
+        <ns0:MeasurementUnit>pixel</ns0:MeasurementUnit>
+        <ns0:sourceImageInformation>
+            <ns0:fileName>AD075DP_D2M8_244_0192_left_page.tif</ns0:fileName>
+        </ns0:sourceImageInformation>
+    </ns0:Description>
+    <ns0:Styles>
+        <ns0:TextStyle FONTFAMILY="Times New Roman" FONTSIZE="20" ID="TXT_0" />
+        <ns0:ParagraphStyle ALIGN="Block" ID="PAR_BLOCK" />
+    </ns0:Styles>
+    <ns0:Layout>
+        <ns0:Page HEIGHT="2364" WIDTH="1520" ID="P12" PHYSICAL_IMG_NR="1">
+            <ns0:TopMargin ID="TM_12" HPOS="0" VPOS="0" HEIGHT="0" WIDTH="1520" />
+            <ns0:LeftMargin ID="LM_12" HPOS="0" VPOS="0" HEIGHT="2364" WIDTH="0" />
+            <ns0:RightMargin ID="RM_12" HPOS="0" VPOS="0" HEIGHT="2364" WIDTH="0" />
+            <ns0:BottomMargin ID="BM_12" HPOS="0" VPOS="0" HEIGHT="0" WIDTH="2364" />
+            <ns0:PrintSpace ID="PS_12" HEIGHT="2364" WIDTH="1520" VPOS="0" HPOS="0">
+                <ns0:TextBlock ID="TB_12" HEIGHT="2364" WIDTH="1520" VPOS="0" HPOS="0" STYLEREFS="TXT_0_PAR_BLOCK">
+                    <ns0:TextLine ID="TL_360" HEIGHT="89" WIDTH="1196" VPOS="227" HPOS="324">
+                        <ns0:String ID="TEXT_360" HEIGHT="89" WIDTH="1196" VPOS="227" HPOS="324" CONTENT="-w /Henri/14/Loiret/&#164;/&#164;/f /&#164;/&#164;/&#164;" />
+                    </ns0:TextLine>
+                    <ns0:TextLine ID="TL_361" HEIGHT="89" WIDTH="1196" VPOS="296" HPOS="324">
+                        <ns0:String ID="TEXT_361" HEIGHT="89" WIDTH="1196" VPOS="296" HPOS="324" CONTENT="Perret /Fernand/96/P/&#164;/m/ch/e quincaillerie/183742" />
+                    </ns0:TextLine>
+                    <ns0:TextLine ID="TL_362" HEIGHT="90" WIDTH="1196" VPOS="366" HPOS="324">
+                        <ns0:String ID="TEXT_362" HEIGHT="90" WIDTH="1196" VPOS="366" HPOS="324" CONTENT="&#164;/Genevi&#232;ve/98/Seine/&#164;/m/ep /&#164;/&#164;/18374" />
+                    </ns0:TextLine>
+                    <ns0:TextLine ID="TL_363" HEIGHT="89" WIDTH="1196" VPOS="436" HPOS="324">
+                        <ns0:String ID="TEXT_363" HEIGHT="89" WIDTH="1196" VPOS="436" HPOS="324" CONTENT="&#164;/Janine/23/P/&#164;/&#164;/f/&#164;/&#164;/&#164;" />
+                    </ns0:TextLine>
+                    <ns0:TextLine ID="TL_364" HEIGHT="90" WIDTH="1196" VPOS="505" HPOS="324">
+                        <ns0:String ID="TEXT_364" HEIGHT="90" WIDTH="1196" VPOS="505" HPOS="324" CONTENT="&#164;/Claude/25/P/&#164;/&#164;/f /&#164;/&#164;/&#164;" />
+                    </ns0:TextLine>
+                    <ns0:TextLine ID="TL_365" HEIGHT="89" WIDTH="1196" VPOS="575" HPOS="324">
+                        <ns0:String ID="TEXT_365" HEIGHT="89" WIDTH="1196" VPOS="575" HPOS="324" CONTENT="Perret/Henri/65/P/&#164;/m/ch /&#164;/p quicaillier/183741" />
+                    </ns0:TextLine>
+                    <ns0:TextLine ID="TL_366" HEIGHT="90" WIDTH="1196" VPOS="644" HPOS="324">
+                        <ns0:String ID="TEXT_366" HEIGHT="90" WIDTH="1196" VPOS="644" HPOS="324" CONTENT="-w-/Henriette /73/P/&#164;/m/ep /&#164;/&#164;/18374 f" />
+                    </ns0:TextLine>
+                    <ns0:TextLine ID="TL_367" HEIGHT="89" WIDTH="1196" VPOS="714" HPOS="324">
+                        <ns0:String ID="TEXT_367" HEIGHT="89" WIDTH="1196" VPOS="714" HPOS="324" CONTENT="Jonier/Marie/04 /S Infre/&#164;/&#164;/ch /&#164;/d bonne &#224; tt faire/21399 f" />
+                    </ns0:TextLine>
+                    <ns0:TextLine ID="TL_368" HEIGHT="90" WIDTH="1196" VPOS="783" HPOS="324">
+                        <ns0:String ID="TEXT_368" HEIGHT="90" WIDTH="1196" VPOS="783" HPOS="324" CONTENT="Archambault/Achille/44/S /&#164;/m/ch /&#164;/p architecte/143212" />
+                    </ns0:TextLine>
+                    <ns0:TextLine ID="TL_369" HEIGHT="89" WIDTH="1196" VPOS="853" HPOS="324">
+                        <ns0:String ID="TEXT_369" HEIGHT="89" WIDTH="1196" VPOS="853" HPOS="324" CONTENT="-w-/Camille/70/Ni&#232;vre/&#164;/m/&#233;p /&#164;/&#164;/14321" />
+                    </ns0:TextLine>
+                    <ns0:TextLine ID="TL_370" HEIGHT="90" WIDTH="1196" VPOS="922" HPOS="324">
+                        <ns0:String ID="TEXT_370" HEIGHT="90" WIDTH="1196" VPOS="922" HPOS="324" CONTENT="Lejeune/Marguerite/03 /P/&#164;/&#164;/ch/&#164;/d fem chambre/21399" />
+                    </ns0:TextLine>
+                    <ns0:TextLine ID="TL_371" HEIGHT="89" WIDTH="1196" VPOS="992" HPOS="324">
+                        <ns0:String ID="TEXT_371" HEIGHT="89" WIDTH="1196" VPOS="992" HPOS="324" CONTENT="Delplanque/Pierre/62/Nord /&#164;/m/ch /&#164;/Dr m&#233;decin/193821" />
+                    </ns0:TextLine>
+                    <ns0:TextLine ID="TL_372" HEIGHT="89" WIDTH="1196" VPOS="1061" HPOS="324">
+                        <ns0:String ID="TEXT_372" HEIGHT="89" WIDTH="1196" VPOS="1061" HPOS="324" CONTENT="-w-/H&#233;l&#232;ne/58/w-/&#164;/m/ep /&#164;/&#164;/14382 f" />
+                    </ns0:TextLine>
+                    <ns0:TextLine ID="TL_373" HEIGHT="90" WIDTH="1196" VPOS="1130" HPOS="324">
+                        <ns0:String ID="TEXT_373" HEIGHT="90" WIDTH="1196" VPOS="1130" HPOS="324" CONTENT="Schmitt /Marie/57/P/&#164;/&#164;/ch/&#164;/&#164;/&#164;" />
+                    </ns0:TextLine>
+                    <ns0:TextLine ID="TL_374" HEIGHT="89" WIDTH="1196" VPOS="1200" HPOS="324">
+                        <ns0:String ID="TEXT_374" HEIGHT="89" WIDTH="1196" VPOS="1200" HPOS="324" CONTENT="-w-/Elisabeth/92/S /&#164;/&#164;/f /&#164;/&#164;/22408" />
+                    </ns0:TextLine>
+                    <ns0:TextLine ID="TL_375" HEIGHT="89" WIDTH="1196" VPOS="1270" HPOS="324">
+                        <ns0:String ID="TEXT_375" HEIGHT="89" WIDTH="1196" VPOS="1270" HPOS="324" CONTENT="Morice/Alice/61/Constantine/&#164;/V /ch /&#164;/&#164;/&#164;" />
+                    </ns0:TextLine>
+                    <ns0:TextLine ID="TL_376" HEIGHT="89" WIDTH="1196" VPOS="1340" HPOS="324">
+                        <ns0:String ID="TEXT_376" HEIGHT="89" WIDTH="1196" VPOS="1340" HPOS="324" CONTENT="Giraud/Philippine/40 /Ht Rhin/&#164;/V /ch /&#164;/&#164;/&#164;" />
+                    </ns0:TextLine>
+                    <ns0:TextLine ID="TL_377" HEIGHT="90" WIDTH="1196" VPOS="1409" HPOS="324">
+                        <ns0:String ID="TEXT_377" HEIGHT="90" WIDTH="1196" VPOS="1409" HPOS="324" CONTENT="Nauzille/Celine/74/Eure /&#164;/v/ch /&#164;/e caissi&#232;re/18375 f" />
+                    </ns0:TextLine>
+                    <ns0:TextLine ID="TL_378" HEIGHT="89" WIDTH="1196" VPOS="1479" HPOS="324">
+                        <ns0:String ID="TEXT_378" HEIGHT="89" WIDTH="1196" VPOS="1479" HPOS="324" CONTENT="-w-/Eva /92/P/&#164;/&#164;/f /&#164;/-w-/18375 f" />
+                    </ns0:TextLine>
+                    <ns0:TextLine ID="TL_379" HEIGHT="90" WIDTH="1196" VPOS="1549" HPOS="324">
+                        <ns0:String ID="TEXT_379" HEIGHT="90" WIDTH="1196" VPOS="1549" HPOS="324" CONTENT="Marcellier/Jacques /97 /P /&#164;/m/ch /&#164;/e clerc notaire/193802" />
+                    </ns0:TextLine>
+                    <ns0:TextLine ID="TL_380" HEIGHT="90" WIDTH="1196" VPOS="1618" HPOS="324">
+                        <ns0:String ID="TEXT_380" HEIGHT="90" WIDTH="1196" VPOS="1618" HPOS="324" CONTENT="&#164;/Madeleine/00/P/&#164;/m/ep /&#164;/&#164;/19380 f" />
+                    </ns0:TextLine>
+                    <ns0:TextLine ID="TL_381" HEIGHT="89" WIDTH="1196" VPOS="1689" HPOS="324">
+                        <ns0:String ID="TEXT_381" HEIGHT="89" WIDTH="1196" VPOS="1689" HPOS="324" CONTENT="&#164;/Th&#233;r&#232;se/22/P/&#164;/&#164;/f/&#164;/&#164;/&#164;" />
+                    </ns0:TextLine>
+                    <ns0:TextLine ID="TL_382" HEIGHT="89" WIDTH="1196" VPOS="1759" HPOS="324">
+                        <ns0:String ID="TEXT_382" HEIGHT="89" WIDTH="1196" VPOS="1759" HPOS="324" CONTENT="&#164;/Jean/24/P/&#164;/&#164;/f /&#164;/&#164;/&#164;" />
+                    </ns0:TextLine>
+                    <ns0:TextLine ID="TL_383" HEIGHT="90" WIDTH="1196" VPOS="1827" HPOS="324">
+                        <ns0:String ID="TEXT_383" HEIGHT="90" WIDTH="1196" VPOS="1827" HPOS="324" CONTENT="Picot /Joseph/73/Hte Marne/&#164;/m/ch /&#164;/p libraire/1183741" />
+                    </ns0:TextLine>
+                    <ns0:TextLine ID="TL_384" HEIGHT="89" WIDTH="1196" VPOS="1895" HPOS="324">
+                        <ns0:String ID="TEXT_384" HEIGHT="89" WIDTH="1196" VPOS="1895" HPOS="324" CONTENT="&#164;/Gabrielle/74/P /&#164;/m/ep /&#164;/-w-/18374 f" />
+                    </ns0:TextLine>
+                    <ns0:TextLine ID="TL_385" HEIGHT="90" WIDTH="1196" VPOS="1962" HPOS="324">
+                        <ns0:String ID="TEXT_385" HEIGHT="90" WIDTH="1196" VPOS="1962" HPOS="324" CONTENT="&#164;/Marcel/99/P/&#164;/&#164;/f/&#164;/e librairie/18374 2" />
+                    </ns0:TextLine>
+                    <ns0:TextLine ID="TL_386" HEIGHT="89" WIDTH="1196" VPOS="2031" HPOS="324">
+                        <ns0:String ID="TEXT_386" HEIGHT="89" WIDTH="1196" VPOS="2031" HPOS="324" CONTENT="&#164;/Jean/01/P/&#164;/&#164;/f/&#164;/o imprimeur/7922" />
+                    </ns0:TextLine>
+                    <ns0:TextLine ID="TL_387" HEIGHT="89" WIDTH="1196" VPOS="2099" HPOS="324">
+                        <ns0:String ID="TEXT_387" HEIGHT="89" WIDTH="1196" VPOS="2099" HPOS="324" CONTENT="&#164;/Odette /03/P/&#164;/&#164;/f/&#164;/e librairie/18374 f" />
+                    </ns0:TextLine>
+                    <ns0:TextLine ID="TL_388" HEIGHT="89" WIDTH="1196" VPOS="2168" HPOS="324">
+                        <ns0:String ID="TEXT_388" HEIGHT="89" WIDTH="1196" VPOS="2168" HPOS="324" CONTENT="Bayer/Roger/05/P /&#164;/m/ch/&#164;/clerc d'avou&#233;/193802" />
+                    </ns0:TextLine>
+                    <ns0:TextLine ID="TL_389" HEIGHT="89" WIDTH="1196" VPOS="2239" HPOS="324">
+                        <ns0:String ID="TEXT_389" HEIGHT="89" WIDTH="1196" VPOS="2239" HPOS="324" CONTENT="-w-/Madeleine/04/P/&#164;/m/&#233;p /&#164;/&#164;/19380 fs" />
+                    </ns0:TextLine>
+                </ns0:TextBlock>
+            </ns0:PrintSpace>
+        </ns0:Page>
+    </ns0:Layout>
+</ns0:alto>

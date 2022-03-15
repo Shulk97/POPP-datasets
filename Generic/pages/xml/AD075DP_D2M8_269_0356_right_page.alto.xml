@@ -1,0 +1,114 @@
+<ns0:alto xmlns:ns0="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://schema.ccs-gmbh.com/docworks/version20/alto-1-4.xsd">
+    <ns0:Description>
+        <ns0:MeasurementUnit>pixel</ns0:MeasurementUnit>
+        <ns0:sourceImageInformation>
+            <ns0:fileName>AD075DP_D2M8_269_0356_right_page.tif</ns0:fileName>
+        </ns0:sourceImageInformation>
+    </ns0:Description>
+    <ns0:Styles>
+        <ns0:TextStyle FONTFAMILY="Times New Roman" FONTSIZE="20" ID="TXT_0" />
+        <ns0:ParagraphStyle ALIGN="Block" ID="PAR_BLOCK" />
+    </ns0:Styles>
+    <ns0:Layout>
+        <ns0:Page HEIGHT="1903" ID="P109" PHYSICAL_IMG_NR="1" WIDTH="1229">
+            <ns0:TopMargin HEIGHT="0" HPOS="0" ID="TM_109" VPOS="0" WIDTH="1229" />
+            <ns0:LeftMargin HEIGHT="1903" HPOS="0" ID="LM_109" VPOS="0" WIDTH="0" />
+            <ns0:RightMargin HEIGHT="1903" HPOS="0" ID="RM_109" VPOS="0" WIDTH="0" />
+            <ns0:BottomMargin HEIGHT="0" HPOS="0" ID="BM_109" VPOS="0" WIDTH="1903" />
+            <ns0:PrintSpace HEIGHT="1903" HPOS="0" ID="PS_109" VPOS="0" WIDTH="1229">
+                <ns0:TextBlock HEIGHT="1903" HPOS="0" ID="TB_109" STYLEREFS="TXT_0_PAR_BLOCK" VPOS="0" WIDTH="1229">
+                    <ns0:TextLine HEIGHT="67" HPOS="271" ID="TL_4978" VPOS="189" WIDTH="957">
+                        <ns0:String CONTENT="Gros/Jenny/83/aisne/&#164;/m/&#233;p/&#164;/n&#233;ant/12174" HEIGHT="67" HPOS="271" ID="TEXT_4978" VPOS="189" WIDTH="957" />
+                    </ns0:TextLine>
+                    <ns0:TextLine HEIGHT="67" HPOS="271" ID="TL_4979" VPOS="246" WIDTH="957">
+                        <ns0:String CONTENT="d&#176;/Georges/1908/P /&#164;/&#164;/f/&#164;/&#233;tudiant/12174" HEIGHT="67" HPOS="271" ID="TEXT_4979" VPOS="246" WIDTH="957" />
+                    </ns0:TextLine>
+                    <ns0:TextLine HEIGHT="67" HPOS="271" ID="TL_4980" VPOS="302" WIDTH="957">
+                        <ns0:String CONTENT="Davot/Marguerite/90/Yonne/&#164;/&#164;/ch/&#164;/n&#233;ant/22408" HEIGHT="67" HPOS="271" ID="TEXT_4980" VPOS="302" WIDTH="957" />
+                    </ns0:TextLine>
+                    <ns0:TextLine HEIGHT="67" HPOS="271" ID="TL_4981" VPOS="358" WIDTH="957">
+                        <ns0:String CONTENT="Picaud/Louis/80/Gironde/&#164;/&#164;/ch/&#164;/infirmier/20392" HEIGHT="67" HPOS="271" ID="TEXT_4981" VPOS="358" WIDTH="957" />
+                    </ns0:TextLine>
+                    <ns0:TextLine HEIGHT="67" HPOS="271" ID="TL_4982" VPOS="415" WIDTH="957">
+                        <ns0:String CONTENT="d&#176;/am&#233;lie/47/Gironde/&#164;/V/Par /&#164;/n&#233;ant/&#164;" HEIGHT="67" HPOS="271" ID="TEXT_4982" VPOS="415" WIDTH="957" />
+                    </ns0:TextLine>
+                    <ns0:TextLine HEIGHT="67" HPOS="271" ID="TL_4983" VPOS="471" WIDTH="957">
+                        <ns0:String CONTENT="Ragnaud/&#164;/&#164;/&#164;/&#164;/&#164;/&#164;/&#164;/Voyr de Cce/(absente)" HEIGHT="67" HPOS="271" ID="TEXT_4983" VPOS="471" WIDTH="957" />
+                    </ns0:TextLine>
+                    <ns0:TextLine HEIGHT="67" HPOS="271" ID="TL_4984" VPOS="527" WIDTH="957">
+                        <ns0:String CONTENT="d&#176;/&#164;/&#164;/&#164;/&#164;/&#164;/&#164;/&#164;/n&#233;ant/(absente)" HEIGHT="67" HPOS="271" ID="TEXT_4984" VPOS="527" WIDTH="957" />
+                    </ns0:TextLine>
+                    <ns0:TextLine HEIGHT="67" HPOS="271" ID="TL_4985" VPOS="584" WIDTH="957">
+                        <ns0:String CONTENT="Poulin/Marcel/95/S /&#164;/m/ch/&#164;/o tourneur/12254" HEIGHT="67" HPOS="271" ID="TEXT_4985" VPOS="584" WIDTH="957" />
+                    </ns0:TextLine>
+                    <ns0:TextLine HEIGHT="67" HPOS="271" ID="TL_4986" VPOS="640" WIDTH="957">
+                        <ns0:String CONTENT="d&#176;/Charlotte/95/Gironde/&#164;/m/&#233;p/&#164;/n&#233;ant/12254" HEIGHT="67" HPOS="271" ID="TEXT_4986" VPOS="640" WIDTH="957" />
+                    </ns0:TextLine>
+                    <ns0:TextLine HEIGHT="67" HPOS="271" ID="TL_4987" VPOS="696" WIDTH="957">
+                        <ns0:String CONTENT="Extrem/Jean/91/Htes Pyr /&#164;/&#164;/ch /&#164;/Emp cuisine/18372" HEIGHT="67" HPOS="271" ID="TEXT_4987" VPOS="696" WIDTH="957" />
+                    </ns0:TextLine>
+                    <ns0:TextLine HEIGHT="67" HPOS="271" ID="TL_4988" VPOS="752" WIDTH="957">
+                        <ns0:String CONTENT="Petiot/Alphonsine/68/Cher/&#164;/D /ch/&#164;/femme de m&#233;nage/21399" HEIGHT="67" HPOS="271" ID="TEXT_4988" VPOS="752" WIDTH="957" />
+                    </ns0:TextLine>
+                    <ns0:TextLine HEIGHT="67" HPOS="271" ID="TL_4989" VPOS="808" WIDTH="957">
+                        <ns0:String CONTENT="Besson/Justine/79/s et O /&#164;/V/ch/&#164;/e echo de la mode/18377" HEIGHT="67" HPOS="271" ID="TEXT_4989" VPOS="808" WIDTH="957" />
+                    </ns0:TextLine>
+                    <ns0:TextLine HEIGHT="67" HPOS="271" ID="TL_4990" VPOS="865" WIDTH="957">
+                        <ns0:String CONTENT="Bertin/Ren&#233;/88/Eure/&#164;/m/ch/&#164;/o m&#233;canicien/22260" HEIGHT="67" HPOS="271" ID="TEXT_4990" VPOS="865" WIDTH="957" />
+                    </ns0:TextLine>
+                    <ns0:TextLine HEIGHT="67" HPOS="271" ID="TL_4991" VPOS="921" WIDTH="957">
+                        <ns0:String CONTENT="d&#176;/Pauline/92/S et M/&#164;/m/&#233;p/&#164;/concierge/21399" HEIGHT="67" HPOS="271" ID="TEXT_4991" VPOS="921" WIDTH="957" />
+                    </ns0:TextLine>
+                    <ns0:TextLine HEIGHT="67" HPOS="271" ID="TL_4992" VPOS="976" WIDTH="957">
+                        <ns0:String CONTENT="d&#176;/Pierre/1914/P /&#164;/&#164;/f/&#164;/n&#233;ant/&#164;" HEIGHT="67" HPOS="271" ID="TEXT_4992" VPOS="976" WIDTH="957" />
+                    </ns0:TextLine>
+                    <ns0:TextLine HEIGHT="67" HPOS="271" ID="TL_4993" VPOS="1032" WIDTH="957">
+                        <ns0:String CONTENT="d&#176;/Robert/1916/P /&#164;/&#164;/f/&#164;/n&#233;ant/&#164;" HEIGHT="67" HPOS="271" ID="TEXT_4993" VPOS="1032" WIDTH="957" />
+                    </ns0:TextLine>
+                    <ns0:TextLine HEIGHT="67" HPOS="271" ID="TL_4994" VPOS="1088" WIDTH="957">
+                        <ns0:String CONTENT="d&#176;/Marcelle/1923/P/&#164;/&#164;/f/&#164;/n&#233;ant/&#164;" HEIGHT="67" HPOS="271" ID="TEXT_4994" VPOS="1088" WIDTH="957" />
+                    </ns0:TextLine>
+                    <ns0:TextLine HEIGHT="67" HPOS="271" ID="TL_4995" VPOS="1146" WIDTH="957">
+                        <ns0:String CONTENT="Faudon/Ren&#233;/93/S et O/&#164;/m/ch/&#164;/e banque/18377" HEIGHT="67" HPOS="271" ID="TEXT_4995" VPOS="1146" WIDTH="957" />
+                    </ns0:TextLine>
+                    <ns0:TextLine HEIGHT="67" HPOS="271" ID="TL_4996" VPOS="1201" WIDTH="957">
+                        <ns0:String CONTENT="d&#176;/Blanche/91/Somme/&#164;/m/&#233;p/&#164;/Mde parapluie/9139" HEIGHT="67" HPOS="271" ID="TEXT_4996" VPOS="1201" WIDTH="957" />
+                    </ns0:TextLine>
+                    <ns0:TextLine HEIGHT="67" HPOS="271" ID="TL_4997" VPOS="1257" WIDTH="957">
+                        <ns0:String CONTENT="Dufour/Ren&#233;/1901/Vosges/&#164;/&#164;/ch/&#164;/professeur/19389" HEIGHT="67" HPOS="271" ID="TEXT_4997" VPOS="1257" WIDTH="957" />
+                    </ns0:TextLine>
+                    <ns0:TextLine HEIGHT="67" HPOS="271" ID="TL_4998" VPOS="1314" WIDTH="957">
+                        <ns0:String CONTENT="Jourdan/Victor/82/Manche/&#164;/m/ch/&#164;/pr coiffeur/10390" HEIGHT="67" HPOS="271" ID="TEXT_4998" VPOS="1314" WIDTH="957" />
+                    </ns0:TextLine>
+                    <ns0:TextLine HEIGHT="67" HPOS="271" ID="TL_4999" VPOS="1370" WIDTH="957">
+                        <ns0:String CONTENT="d&#176;/Henriette/86/P /&#164;/m/&#233;p/&#164;/pr coiffeuse/20390" HEIGHT="67" HPOS="271" ID="TEXT_4999" VPOS="1370" WIDTH="957" />
+                    </ns0:TextLine>
+                    <ns0:TextLine HEIGHT="67" HPOS="271" ID="TL_5000" VPOS="1426" WIDTH="957">
+                        <ns0:String CONTENT="d&#176;/Simone/1907/S /&#164;/&#164;/f /&#164;/e coiffeuse/20390" HEIGHT="67" HPOS="271" ID="TEXT_5000" VPOS="1426" WIDTH="957" />
+                    </ns0:TextLine>
+                    <ns0:TextLine HEIGHT="67" HPOS="271" ID="TL_5001" VPOS="1481" WIDTH="957">
+                        <ns0:String CONTENT="Dutot/Ernestine/62/S Inferieure/&#164;/V/Par /&#164;/n&#233;ant/&#164;" HEIGHT="67" HPOS="271" ID="TEXT_5001" VPOS="1481" WIDTH="957" />
+                    </ns0:TextLine>
+                    <ns0:TextLine HEIGHT="67" HPOS="271" ID="TL_5002" VPOS="1536" WIDTH="957">
+                        <ns0:String CONTENT="Trouv&#233;/Emmanuel/87/aisne/&#164;/&#164;/ch /&#164;/n&#233;gociant/18374" HEIGHT="67" HPOS="271" ID="TEXT_5002" VPOS="1536" WIDTH="957" />
+                    </ns0:TextLine>
+                    <ns0:TextLine HEIGHT="67" HPOS="271" ID="TL_5003" VPOS="1591" WIDTH="957">
+                        <ns0:String CONTENT="Jacques/Jeanne/82/aisne/&#164;/V/ch/&#164;/n&#233;ant/18374" HEIGHT="67" HPOS="271" ID="TEXT_5003" VPOS="1591" WIDTH="957" />
+                    </ns0:TextLine>
+                    <ns0:TextLine HEIGHT="67" HPOS="271" ID="TL_5004" VPOS="1645" WIDTH="957">
+                        <ns0:String CONTENT="d&#176;/Germaine/1910/P /&#164;/&#164;/f/&#164;/n&#233;ant/18374" HEIGHT="67" HPOS="271" ID="TEXT_5004" VPOS="1645" WIDTH="957" />
+                    </ns0:TextLine>
+                    <ns0:TextLine HEIGHT="67" HPOS="271" ID="TL_5005" VPOS="1700" WIDTH="957">
+                        <ns0:String CONTENT="Nicolas/Marie/83/Loire/&#164;/&#164;/ch/&#164;/Infirmi&#232;re/20392" HEIGHT="67" HPOS="271" ID="TEXT_5005" VPOS="1700" WIDTH="957" />
+                    </ns0:TextLine>
+                    <ns0:TextLine HEIGHT="67" HPOS="271" ID="TL_5006" VPOS="1754" WIDTH="957">
+                        <ns0:String CONTENT="Schreider/Lydie/98/Kostoff/Russie/&#164;/amie/&#164;/Infirmi&#232;re/20392" HEIGHT="67" HPOS="271" ID="TEXT_5006" VPOS="1754" WIDTH="957" />
+                    </ns0:TextLine>
+                    <ns0:TextLine HEIGHT="67" HPOS="271" ID="TL_5007" VPOS="1811" WIDTH="957">
+                        <ns0:String CONTENT="Grosbois/Lucie/85/P/&#164;/V/ch/&#164;/Institutrice/&#164;" HEIGHT="67" HPOS="271" ID="TEXT_5007" VPOS="1811" WIDTH="957" />
+                    </ns0:TextLine>
+                </ns0:TextBlock>
+            </ns0:PrintSpace>
+        </ns0:Page>
+    </ns0:Layout>
+</ns0:alto>

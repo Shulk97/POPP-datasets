@@ -1,0 +1,2354 @@
+{
+    "charset": [" ", "\"", "&", "'", ")", "-", "/", "0", "1", "2", "3", "4", "5", "6", "7", "8", "9", ":", "A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z", "a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z", "\u00a4", "\u00b0", "\u00e0", "\u00e2", "\u00e7", "\u00e8", "\u00e9", "\u00ea", "\u00eb", "\u00f4", "\u00f6"],
+    "nb_train": 623,
+    "nb_val": 78,
+    "nb_test": 78,
+    "ground_truth": {
+        "train": {
+            "AD075DP_D2M8_244_0021_right_page_00.png": {
+                "text": "L\u00e9vy/Charles/76/P/\u00a4/m/Chef/\u00a4/hotelier/18371"
+            },
+            "AD075DP_D2M8_244_0021_right_page_01.png": {
+                "text": "\u00a4/Jos\u00e9phine/88/Hte Savoie/\u00a4/m/Ep/\u00a4/\u00a4/18371"
+            },
+            "AD075DP_D2M8_244_0021_right_page_02.png": {
+                "text": "\u00a4/Diane/1912/P/\u00a4/\u00a4/fille/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0021_right_page_03.png": {
+                "text": "\u00a4/Raymonde/1921/P/\u00a4/\u00a4/fille/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0021_right_page_05.png": {
+                "text": "Bertelot/Charles/91/\u00a4/\u00a4/m/chef/\u00a4/h\u00f4telier/18371"
+            },
+            "AD075DP_D2M8_244_0021_right_page_06.png": {
+                "text": "\u00a4/Blanche/76/\u00a4/\u00a4/m/Ep/\u00a4/\u00a4/18371"
+            },
+            "AD075DP_D2M8_244_0021_right_page_07.png": {
+                "text": "Huet/Etienne/86/Ille Vil/\u00a4/m/Chef/\u00a4/Gardien/21399"
+            },
+            "AD075DP_D2M8_244_0021_right_page_08.png": {
+                "text": "\u00a4/Anne/91/finist\u00e8re/\u00a4/m/Ep/\u00a4/\u00a4/21399"
+            },
+            "AD075DP_D2M8_244_0021_right_page_09.png": {
+                "text": "\u00a4/Ren\u00e9/1920/S /\u00a4/\u00a4/fils/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0021_right_page_11.png": {
+                "text": "\u00a4/Eug\u00e9nie/77/d\u00b0/\u00a4/V/chef/\u00a4/Concierge/21399"
+            },
+            "AD075DP_D2M8_244_0021_right_page_12.png": {
+                "text": "Groc/Louis/71/H\u00e9rault/\u00a4/m/chef/\u00a4/Ee/18377"
+            },
+            "AD075DP_D2M8_244_0021_right_page_13.png": {
+                "text": "\u00a4/Pauline/69/P/\u00a4/m/Ep/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0021_right_page_14.png": {
+                "text": "Disqu\u00e9/Eleonore/38/P/\u00a4/V/belle m\u00e8re/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0021_right_page_15.png": {
+                "text": "\u00a4/ad\u00e8le/67/P/\u00a4/\u00a4/belle soeur/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0021_right_page_16.png": {
+                "text": "Le Marchand/Marguerite/87/S/\u00a4/m/Ep/\u00a4/arte dram/19388"
+            },
+            "AD075DP_D2M8_244_0021_right_page_17.png": {
+                "text": "Buytendorp/Andr\u00e9e/94/S/hollandaise/m/soeur/\u00a4/modiste/9139"
+            },
+            "AD075DP_D2M8_244_0021_right_page_19.png": {
+                "text": "Buytendorp/\u00a4/\u00a4/\u00a4/\u00a4/\u00a4/beau fr\u00e8re/\u00a4/\u00a4/abs"
+            },
+            "AD075DP_D2M8_244_0021_right_page_20.png": {
+                "text": "Ritof/Wladimir/79/Russie/\u00a4/m/chef/\u00a4/\u00a4/12408"
+            },
+            "AD075DP_D2M8_244_0021_right_page_21.png": {
+                "text": "\u00a4/Stephanie/92/Pologne/\u00a4/m/Ep/\u00a4/Ee/18377"
+            },
+            "AD075DP_D2M8_244_0021_right_page_22.png": {
+                "text": "\u00a4/Alba/1920/Russie/\u00a4/\u00a4/fils/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0021_right_page_23.png": {
+                "text": "Netter/William/81/Gironde/\u00a4/m/Chef/\u00a4/hotelier/18375"
+            },
+            "AD075DP_D2M8_244_0021_right_page_24.png": {
+                "text": "\u00a4/C\u00e9leste/79/Italie/\u00a4/m/Ep/\u00a4/\u00a4/18371"
+            },
+            "AD075DP_D2M8_244_0021_right_page_26.png": {
+                "text": "\u00a4/Germaine/1905/P/\u00a4/\u00a4/fils/\u00a4/St\u00e9no/18376"
+            },
+            "AD075DP_D2M8_244_0021_right_page_27.png": {
+                "text": "S\u00e9mo/Saulo/78/Bulgarie/\u00a4/m/Chef/\u00a4/Ing\u00e9nieur/12174"
+            },
+            "AD075DP_D2M8_244_0021_right_page_28.png": {
+                "text": "\u00a4/Olga/79/norv-ge/\u00a4/m/Ep/\u00a4/\u00a4/12174"
+            },
+            "AD075DP_D2M8_244_0021_right_page_29.png": {
+                "text": "Millet/am\u00e9lie/81/Anglais/\u00a4/m/Chef/\u00a4/\u00a4/22408"
+            },
+            "AD075DP_D2M8_244_0022_left_page_00.png": {
+                "text": "Millet/Georges/1901/Anglais/\u00a4/\u00a4/fils/\u00a4/\u00a4/22408"
+            },
+            "AD075DP_D2M8_244_0022_left_page_01.png": {
+                "text": "Groult/ferdinand/61/orne/\u00a4/m/Chef/\u00a4/h\u00f4telier/\u00a4"
+            },
+            "AD075DP_D2M8_244_0022_left_page_02.png": {
+                "text": "\u00a4/Marie/68/Meuse/\u00a4/m/Ep/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0022_left_page_03.png": {
+                "text": "Wormeligton/frida/1903/Belgique/\u00a4/m/D/\u00a4/E h\u00f4tel/18375"
+            },
+            "AD075DP_D2M8_244_0022_left_page_04.png": {
+                "text": "Xastre/Marguerite/1890/Dordogne/\u00a4/V/D/\u00a4/bonne/21399"
+            },
+            "AD075DP_D2M8_244_0022_left_page_05.png": {
+                "text": "Kousnetsoff/Wladimir/95/Russie/\u00a4/\u00a4/\u00a4/\u00a4/chafr/17356"
+            },
+            "AD075DP_D2M8_244_0022_left_page_06.png": {
+                "text": "Kousnetsoff/Nicolas/94/d\u00b0/\u00a4/V/\u00a4/\u00a4/o massuer/20394"
+            },
+            "AD075DP_D2M8_244_0022_left_page_07.png": {
+                "text": "Pouzache/Benjamin/1901/ard\u00e8che/\u00a4/\u00a4/\u00a4/\u00a4/Gar caf\u00e9 /18373"
+            },
+            "AD075DP_D2M8_244_0022_left_page_08.png": {
+                "text": "Seyrat/Benjamin/75/Dordogne/\u00a4/m/\u00a4/\u00a4/E /18377"
+            },
+            "AD075DP_D2M8_244_0022_left_page_10.png": {
+                "text": "\u00a4/Lydie/\u00a4/\u00a4/\u00a4/m/Ep/\u00a4/\u00a4/abs"
+            },
+            "AD075DP_D2M8_244_0022_left_page_11.png": {
+                "text": "\u00a4/odette/\u00a4/\u00a4/\u00a4/\u00a4/fils/\u00a4/\u00a4/abs"
+            },
+            "AD075DP_D2M8_244_0022_left_page_12.png": {
+                "text": "\u00a4/Jeanne/\u00a4/\u00a4/\u00a4/\u00a4/fils/\u00a4/secr\u00e9tre/abs"
+            },
+            "AD075DP_D2M8_244_0022_left_page_13.png": {
+                "text": "\u00a4/Simone/\u00a4/\u00a4/\u00a4/\u00a4/fils/\u00a4/gardienne/abs"
+            },
+            "AD075DP_D2M8_244_0022_left_page_14.png": {
+                "text": "\u00a4/France/\u00a4/\u00a4/\u00a4/\u00a4/fils/\u00a4/Etudte/abs"
+            },
+            "AD075DP_D2M8_244_0022_left_page_15.png": {
+                "text": "Bahr/Paul/1903/allemagne/\u00a4/\u00a4/\u00a4/\u00a4/o patissier/437"
+            },
+            "AD075DP_D2M8_244_0022_left_page_16.png": {
+                "text": "Andreozzi/Giochimo/1895/Suisse/\u00a4/\u00a4/\u00a4/\u00a4/argentier/12260"
+            },
+            "AD075DP_D2M8_244_0022_left_page_18.png": {
+                "text": "Buga/Edoardo/98/Italie/\u00a4/\u00a4/\u00a4/\u00a4/o p\u00e2rissier/437"
+            },
+            "AD075DP_D2M8_244_0022_left_page_19.png": {
+                "text": "Sbolei/Angelo/90/Italie/\u00a4/\u00a4/\u00a4/\u00a4/o d\u00b0/437"
+            },
+            "AD075DP_D2M8_244_0022_left_page_20.png": {
+                "text": "Paradis/Lucien/1901/Loz\u00e8re/\u00a4/\u00a4/\u00a4/\u00a4/o cuisinier/18372"
+            },
+            "AD075DP_D2M8_244_0022_left_page_21.png": {
+                "text": "Boy/Jean/76/Puy de D/\u00a4/m/Chef/\u00a4/\u00a4/16352"
+            },
+            "AD075DP_D2M8_244_0022_left_page_22.png": {
+                "text": "\u00a4/francisqua/74/d\u00b0/\u00a4/m/Ep/\u00a4/concierge/21399"
+            },
+            "AD075DP_D2M8_244_0022_left_page_24.png": {
+                "text": "Stegman/Valor/73/Russie/\u00a4/\u00a4/ami/\u00a4/chaufr taxi/17356"
+            },
+            "AD075DP_D2M8_244_0022_left_page_25.png": {
+                "text": "Dessart/M\u00e9lanie/91/Belgique/\u00a4/\u00a4/\u00a4/\u00a4/vestiaire/18377"
+            },
+            "AD075DP_D2M8_244_0022_left_page_26.png": {
+                "text": "Coche/anna/65/Luxembourg/\u00a4/V/Chef/\u00a4/E/18377"
+            },
+            "AD075DP_D2M8_244_0022_left_page_27.png": {
+                "text": "\u00a4/Jeanne/97/P/\u00a4/\u00a4/fille/\u00a4/\u00a4/18377"
+            },
+            "AD075DP_D2M8_244_0022_left_page_28.png": {
+                "text": "Ulmer/Victor/72/alsace/\u00a4/m/\u00a4/\u00a4/Gon boucher/436"
+            },
+            "AD075DP_D2M8_244_0022_right_page_00.png": {
+                "text": "Demantes/L\u00e9on/85/Sne & o/\u00a4/m/chef/\u00a4/chauf/12307"
+            },
+            "AD075DP_D2M8_244_0022_right_page_01.png": {
+                "text": "\u00a4/Lisa/85/Luxembourg/\u00a4/m/Ep/\u00a4/\u00a4/12307"
+            },
+            "AD075DP_D2M8_244_0022_right_page_02.png": {
+                "text": "\u00a4/Max/1917/P/\u00a4/\u00a4/fils/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0022_right_page_03.png": {
+                "text": "Strachli/Charles/53/Bs Rhin/\u00a4/m/Chef/\u00a4/veilleur de nuit/21399"
+            },
+            "AD075DP_D2M8_244_0022_right_page_04.png": {
+                "text": "\u00a4/Erminie/59/Vienne/\u00a4/m/Ep/\u00a4/Concierge/21399"
+            },
+            "AD075DP_D2M8_244_0022_right_page_06.png": {
+                "text": "Galley/Gustave/76/Mexique/\u00a4/m/chef/\u00a4/o m\u00e9cn/12260"
+            },
+            "AD075DP_D2M8_244_0022_right_page_07.png": {
+                "text": "\u00a4/L\u00e9onie/79/finist\u00e8re/\u00a4/m/Ep/\u00a4/\u00a4/12260"
+            },
+            "AD075DP_D2M8_244_0022_right_page_08.png": {
+                "text": "Veillon/Pierre/64/Charente/\u00a4/\u00a4/\u00a4/\u00a4/avocat/19378"
+            },
+            "AD075DP_D2M8_244_0022_right_page_09.png": {
+                "text": "Gerst/Rachel/67/\u00a4/\u00a4/\u00a4/Chef/\u00a4/o modiste/9139"
+            },
+            "AD075DP_D2M8_244_0022_right_page_10.png": {
+                "text": "\u00a4/Berthe/63/P/\u00a4/\u00a4/soeur/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0022_right_page_11.png": {
+                "text": "Hubschmann/Elsa/82/Alsace/natur/\u00a4/Chef/\u00a4/Dactylo/18376"
+            },
+            "AD075DP_D2M8_244_0022_right_page_12.png": {
+                "text": "\u00a4/Alfred/1911/P/\u00a4/\u00a4/fils/\u00a4/\u00a4/18376"
+            },
+            "AD075DP_D2M8_244_0022_right_page_13.png": {
+                "text": "Gallois/Marie/60/Bas pyr\u00e9es/\u00a4/V/\u00a4/\u00a4/fe m\u00e9nage/21399"
+            },
+            "AD075DP_D2M8_244_0022_right_page_14.png": {
+                "text": "Sarnette/Lovely/58/Belgique/\u00a4/V/chef/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0022_right_page_18.png": {
+                "text": "Tholusset/Augte/52/Hte Sa\u00f4ne/\u00a4/m/Chef/\u00a4/d\u00b0/21399"
+            },
+            "AD075DP_D2M8_244_0022_right_page_19.png": {
+                "text": "\u00a4/Adrienne/57/orne/\u00a4/m/Ep/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0022_right_page_20.png": {
+                "text": "Pr\u00e9cy/Emile/55/Yonne/\u00a4/\u00a4/\u00a4/\u00a4/Gon bur/16352"
+            },
+            "AD075DP_D2M8_244_0022_right_page_22.png": {
+                "text": "\u00a4/Jeanne/69/S /\u00a4/m/Ep/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0022_right_page_23.png": {
+                "text": "\u00a4/Robert/98/\u00a4/\u00a4/\u00a4/fils/\u00a4/\u00a4/abs"
+            },
+            "AD075DP_D2M8_244_0022_right_page_27.png": {
+                "text": "Bruy\u00e8re/Elise/93/Hte Savoie/\u00a4/\u00a4/D/\u00a4/d\u00b0/21399"
+            },
+            "AD075DP_D2M8_244_0022_right_page_29.png": {
+                "text": "Nortier/Nelly/65/P/\u00a4/V/chef/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0023_left_page_00.png": {
+                "text": "Proux/Pauline/71/oise/\u00a4/\u00a4/D /\u00a4/dom/21399"
+            },
+            "AD075DP_D2M8_244_0023_left_page_01.png": {
+                "text": "Delangeat/Elia/79/Dordogne/\u00a4/V/D/\u00a4/dom/21399"
+            },
+            "AD075DP_D2M8_244_0023_left_page_02.png": {
+                "text": "Bassot/Gaston/63/C d'or/\u00a4/m/Chef/\u00a4/Industriel/22408"
+            },
+            "AD075DP_D2M8_244_0023_left_page_03.png": {
+                "text": "\u00a4/Marie/71/Eure & L/\u00a4/m/Ep/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0023_left_page_05.png": {
+                "text": "Balleignot/Marie/67/Puy de D/\u00a4/\u00a4/D/\u00a4/cuisini\u00e8re/18372"
+            },
+            "AD075DP_D2M8_244_0023_left_page_06.png": {
+                "text": "Gavoty/Philippe/91/P/\u00a4/m/Chef/\u00a4/\u00a4/22408"
+            },
+            "AD075DP_D2M8_244_0023_left_page_07.png": {
+                "text": "\u00a4/Suzanne/95/P/\u00a4/m/Ep/\u00a4/\u00a4/22408"
+            },
+            "AD075DP_D2M8_244_0023_left_page_08.png": {
+                "text": "\u00a4/Georges/1922/P/\u00a4/\u00a4/fils/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0023_left_page_09.png": {
+                "text": "\u00a4/Marie/1923/Eure & Loir/\u00a4/\u00a4/fille/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0023_left_page_10.png": {
+                "text": "\u00a4/Pierre/1925/d\u00b0/\u00a4/\u00a4/fils/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0023_left_page_11.png": {
+                "text": "Hirtz/Elise/1906/Luxembourg/\u00a4/\u00a4/D/\u00a4/bonne/21399"
+            },
+            "AD075DP_D2M8_244_0023_left_page_12.png": {
+                "text": "Boivin/Emile/62/Yonne/\u00a4/m/Chef/\u00a4/Concierge/21399"
+            },
+            "AD075DP_D2M8_244_0023_left_page_13.png": {
+                "text": "\u00a4/Victorine/62/oise/\u00a4/m/Ep/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0023_left_page_15.png": {
+                "text": "\u00a4/Alice/84/SUisse/Natur/m/Ep/\u00a4/\u00a4/18374"
+            },
+            "AD075DP_D2M8_244_0023_left_page_16.png": {
+                "text": "Dutter/Mathilde/1904/alsace/\u00a4/\u00a4/D/\u00a4/bonne/21399"
+            },
+            "AD075DP_D2M8_244_0023_left_page_17.png": {
+                "text": "D\u00e9ron/Alice/72/nord/\u00a4/V/Chef/\u00a4/manutent/16352"
+            },
+            "AD075DP_D2M8_244_0023_left_page_18.png": {
+                "text": "\u00a4/Raymond/1900/S /\u00a4/\u00a4/fils/o/m\u00e9cn dentiste/20395"
+            },
+            "AD075DP_D2M8_244_0023_left_page_20.png": {
+                "text": "\u00a4/L2ontine/83/Indre/\u00a4/m/Ep/\u00a4/\u00a4/17356"
+            },
+            "AD075DP_D2M8_244_0023_left_page_21.png": {
+                "text": "\u00a4/Madeleine/1904/d\u00b0/\u00a4/\u00a4/fille/\u00a4/vendeuse/18377"
+            },
+            "AD075DP_D2M8_244_0023_left_page_23.png": {
+                "text": "\u00a4/Anna/89/\u00a4/\u00a4/m/Ep/\u00a4/\u00a4/18372"
+            },
+            "AD075DP_D2M8_244_0023_left_page_24.png": {
+                "text": "\u00a4/Pierre/1920/\u00a4/\u00a4/\u00a4/fils/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0023_left_page_25.png": {
+                "text": "\u00a4/Robert/1924/\u00a4/\u00a4/\u00a4/fils/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0023_left_page_26.png": {
+                "text": "Pauthier/fr\u00e9d\u00e9ric/92/Ni\u00e8vre/\u00a4/m/Chef/\u00a4/gon magin/18354"
+            },
+            "AD075DP_D2M8_244_0023_left_page_27.png": {
+                "text": "\u00a4/Maria/93/C du Nord/\u00a4/m/Ep/\u00a4/\u00a4/16354"
+            },
+            "AD075DP_D2M8_244_0023_left_page_28.png": {
+                "text": "\u00a4/atnoine/1908/P/\u00a4/\u00a4/fils/\u00a4/o ferronnier/12251"
+            },
+            "AD075DP_D2M8_244_0023_left_page_29.png": {
+                "text": "\u00a4/Raymond/1920/P/\u00a4/\u00a4/fils/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0023_right_page_00.png": {
+                "text": "Trabulsy/Joseph/88/Syrie/\u00a4/m/Chef/\u00a4/o mecn/12260"
+            },
+            "AD075DP_D2M8_244_0023_right_page_02.png": {
+                "text": "Lacoste/Jeanne/86/Bses pyr\u00e9es/\u00a4/\u00a4/\u00a4/\u00a4/cuisini\u00e8re/18372"
+            },
+            "AD075DP_D2M8_244_0023_right_page_03.png": {
+                "text": "Bri\u00e8re/Lucienne/1909/Sne & o/\u00a4/\u00a4/\u00a4/\u00a4/fille de salle/18373"
+            },
+            "AD075DP_D2M8_244_0023_right_page_05.png": {
+                "text": "Pavard/ALbert/86/S /\u00a4/m/Chef/\u00a4/o peintre/14331"
+            },
+            "AD075DP_D2M8_244_0023_right_page_06.png": {
+                "text": "\u00a4/Aur\u00e9lie/89/Loire Infre/\u00a4/m/Ep/\u00a4/Concierge/21399"
+            },
+            "AD075DP_D2M8_244_0023_right_page_09.png": {
+                "text": "Ch\u00e9ranis/Louise/95/P/\u00a4/\u00a4/\u00a4/\u00a4/E/18377"
+            },
+            "AD075DP_D2M8_244_0023_right_page_10.png": {
+                "text": "Thibault/Edmond/88/Eure & Loir/\u00a4/\u00a4/\u00a4/\u00a4/Gon bur/18352"
+            },
+            "AD075DP_D2M8_244_0023_right_page_11.png": {
+                "text": "Allou/Jean/1902/Belgique/\u00a4/\u00a4/\u00a4/\u00a4/Gon d'h\u00f4tel/18373"
+            },
+            "AD075DP_D2M8_244_0023_right_page_12.png": {
+                "text": "Allou/Hermine/1904/d\u00b0/\u00a4/\u00a4/\u00a4/\u00a4/cantini\u00e8re/18373"
+            },
+            "AD075DP_D2M8_244_0023_right_page_13.png": {
+                "text": "Pavard/\u00a4/\u00a4/\u00a4/\u00a4/\u00a4/\u00a4/\u00a4/\u00a4/abs"
+            },
+            "AD075DP_D2M8_244_0023_right_page_14.png": {
+                "text": "Roblin/C\u00e9lestin/71/Ni\u00e8vre/\u00a4/m/Chef/\u00a4/Concierge/21399"
+            },
+            "AD075DP_D2M8_244_0023_right_page_15.png": {
+                "text": "\u00a4/Marie/71/d\u00b0/\u00a4/m/Ep/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0023_right_page_18.png": {
+                "text": "Bichon/fran\u00e7ois/75/Loire Infre/\u00a4/\u00a4/D/\u00a4/valet ch/21399"
+            },
+            "AD075DP_D2M8_244_0023_right_page_20.png": {
+                "text": "Poirier/Emile/55/P/\u00a4/m/Chef/\u00a4/arbitre/19389"
+            },
+            "AD075DP_D2M8_244_0023_right_page_21.png": {
+                "text": "\u00a4/Henriette/62/P/\u00a4/m/Ep/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0023_right_page_22.png": {
+                "text": "Bidet/Agn\u00e8s/91/Mne & Loire/\u00a4/\u00a4/D/\u00a4/Cuisini\u00e8re/18372"
+            },
+            "AD075DP_D2M8_244_0023_right_page_23.png": {
+                "text": "Fouquet/Georges/62/P/\u00a4/m/Chef/\u00a4/Industriel/22408"
+            },
+            "AD075DP_D2M8_244_0023_right_page_26.png": {
+                "text": "Quintel/Marie/1894/finist\u00e8re/\u00a4/\u00a4/D/\u00a4/cuisini\u00e8re/18372"
+            },
+            "AD075DP_D2M8_244_0023_right_page_27.png": {
+                "text": "Leboss\u00e9/Marcel/84/orne/\u00a4/m/Chef/\u00a4/valet ch /21399"
+            },
+            "AD075DP_D2M8_244_0023_right_page_29.png": {
+                "text": "\u00a4/Ren\u00e9/1911/d\u00b0/\u00a4/\u00a4/fils/\u00a4/m\u00e9cn dentiste/\u00a4"
+            },
+            "AD075DP_D2M8_244_0024_left_page_00.png": {
+                "text": "Bidet/Marie/1904/Mne & Loire/\u00a4/\u00a4/\u00a4/\u00a4/Couturi\u00e8re/9132"
+            },
+            "AD075DP_D2M8_244_0024_left_page_02.png": {
+                "text": "\u00a4/Albertine/96/MAnche/\u00a4/m/Ep/\u00a4/\u00a4/21399"
+            },
+            "AD075DP_D2M8_244_0024_left_page_03.png": {
+                "text": "\u00a4/Georgette/1920/P/\u00a4/\u00a4/fille/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0024_left_page_04.png": {
+                "text": "Moreau/Rosalie/89/Hte Vienne/\u00a4/\u00a4/\u00a4/\u00a4/E /18377"
+            },
+            "AD075DP_D2M8_244_0024_left_page_05.png": {
+                "text": "Renoir/Jean/87/Cher/\u00a4/m/Chef/\u00a4/gon restt/18373"
+            },
+            "AD075DP_D2M8_244_0024_left_page_06.png": {
+                "text": "\u00a4/Mathilde/90/d\u00b0/\u00a4/m/Ep/\u00a4/\u00a4/18373"
+            },
+            "AD075DP_D2M8_244_0024_left_page_07.png": {
+                "text": "Koegler/Albert/1901/Bs Rhin/\u00a4/\u00a4/\u00a4/\u00a4/comptable/18375"
+            },
+            "AD075DP_D2M8_244_0024_left_page_08.png": {
+                "text": "Vanhoutte/Robert/1902/S /\u00a4/m/Chef/\u00a4/gon garag/17353"
+            },
+            "AD075DP_D2M8_244_0024_left_page_09.png": {
+                "text": "\u00a4/Paulette/1906/S /\u00a4/m/Ep/\u00a4/\u00a4/17353"
+            },
+            "AD075DP_D2M8_244_0024_left_page_10.png": {
+                "text": "M\u00e9nach\u00e9/Albert/1902/Turquie/\u00a4/m/Chef/\u00a4/E /18377"
+            },
+            "AD075DP_D2M8_244_0024_left_page_11.png": {
+                "text": "\u00a4/Marie/97/d\u00b0/\u00a4/m/Ep/\u00a4/\u00a4/18377"
+            },
+            "AD075DP_D2M8_244_0024_left_page_12.png": {
+                "text": "\u00a4/Ren\u00e9e/1924/P/\u00a4/\u00a4/fil/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0024_left_page_13.png": {
+                "text": "Castaing/Eloi/79/Lot & Gar/\u00a4/\u00a4/\u00a4/\u00a4/Gon recettes/18375"
+            },
+            "AD075DP_D2M8_244_0024_left_page_16.png": {
+                "text": "\u00a4/\u00a4/1921/\u00a4/\u00a4/\u00a4/fil/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0024_left_page_17.png": {
+                "text": "Lacroix/Prosper/94/\u00a4/\u00a4/\u00a4/\u00a4/\u00a4/E /18377"
+            },
+            "AD075DP_D2M8_244_0024_left_page_18.png": {
+                "text": "Deban/Marie/68/\u00a4/\u00a4/V/\u00a4/\u00a4/m\u00e9nag\u00e8re/21399"
+            },
+            "AD075DP_D2M8_244_0024_left_page_19.png": {
+                "text": "Trussmann/Ren\u00e9/94/Belgique/\u00a4/\u00a4/\u00a4/\u00a4/o plombier/12241"
+            },
+            "AD075DP_D2M8_244_0024_left_page_20.png": {
+                "text": "Dolqu\u00e8s/Lucien/1905/H\u00e9rault/\u00a4/\u00a4/\u00a4/\u00a4/E /18377"
+            },
+            "AD075DP_D2M8_244_0024_left_page_21.png": {
+                "text": "Appert/Jeanne/1901/ni\u00e8vre/\u00a4/\u00a4/Chef/\u00a4/dactylo/18376"
+            },
+            "AD075DP_D2M8_244_0024_left_page_22.png": {
+                "text": "\u00a4/\u00a4/1917/\u00a4/\u00a4/\u00a4/fils/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0024_left_page_24.png": {
+                "text": "\u00a4/Emilienne/95/allier/\u00a4/m/Ep/\u00a4/\u00a4/18377"
+            },
+            "AD075DP_D2M8_244_0024_left_page_25.png": {
+                "text": "\u00a4/Georges/1919/P/\u00a4/\u00a4/fils/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0024_left_page_26.png": {
+                "text": "\u00a4/Odette/1920/P/\u00a4/\u00a4/fil/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0024_left_page_27.png": {
+                "text": "Pallot/Robert/95/allier/\u00a4/m/chef/\u00a4/gon recettes/18375"
+            },
+            "AD075DP_D2M8_244_0024_left_page_28.png": {
+                "text": "\u00a4/Sidonie/1900/D)/\u00a4/m/Ep/\u00a4/\u00a4/18375"
+            },
+            "AD075DP_D2M8_244_0024_left_page_29.png": {
+                "text": "Laroche/Maurice/92/\u00a4/\u00a4/m/Ep /\u00a4/o boulanger/437"
+            },
+            "AD075DP_D2M8_244_0024_right_page_00.png": {
+                "text": "Laroche/Jeanne/90/C d'Or/\u00a4/m/Ep/\u00a4/concierge/21399"
+            },
+            "AD075DP_D2M8_244_0024_right_page_01.png": {
+                "text": "Bouch\u00e9/Adrien/95/ni\u00e8vre/\u00a4/m/Chef/\u00a4/facteur/\u00a4"
+            },
+            "AD075DP_D2M8_244_0024_right_page_02.png": {
+                "text": "\u00a4/Lucie/97/St Brisson/\u00a4/m/Ep/\u00a4/\u00a4/22408"
+            },
+            "AD075DP_D2M8_244_0024_right_page_03.png": {
+                "text": "Richard/Edrd/88/Lot/\u00a4/D/\u00a4/\u00a4/Inspr Police/\u00a4"
+            },
+            "AD075DP_D2M8_244_0024_right_page_04.png": {
+                "text": "Lachaume/Irma/55/aube/\u00a4/Vve/\u00a4/\u00a4/concierge/21399"
+            },
+            "AD075DP_D2M8_244_0024_right_page_06.png": {
+                "text": "Hasard/\u00a4/\u00a4/\u00a4/\u00a4/\u00a4/\u00a4/\u00a4/\u00a4/abs"
+            },
+            "AD075DP_D2M8_244_0024_right_page_07.png": {
+                "text": "Poszymski/Roger/79/Gironde/\u00a4/m/Chef/\u00a4/s/chef Cie Orl\u00e9ans"
+            },
+            "AD075DP_D2M8_244_0024_right_page_08.png": {
+                "text": "\u00a4/Louise/83/Cher/\u00a4/m/Ep /\u00a4/pr corseti\u00e8re/9133"
+            },
+            "AD075DP_D2M8_244_0024_right_page_10.png": {
+                "text": "\u00a4/olga/1917/P/\u00a4/\u00a4/fil/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0024_right_page_11.png": {
+                "text": "Rouillac/M\u00e9lanie/99/C du Nord/\u00a4/\u00a4/D/\u00a4/Dom/21399"
+            },
+            "AD075DP_D2M8_244_0024_right_page_12.png": {
+                "text": "Maillet/\u00a4/\u00a4/\u00a4/\u00a4/\u00a4/\u00a4/\u00a4/\u00a4/abs"
+            },
+            "AD075DP_D2M8_244_0024_right_page_13.png": {
+                "text": "Maillet/\u00a4/\u00a4/\u00a4/\u00a4/\u00a4/\u00a4/\u00a4/\u00a4/abs"
+            },
+            "AD075DP_D2M8_244_0024_right_page_14.png": {
+                "text": "Zula Crosse/L\u00e9onidas/71/Angleterre/\u00a4/m/Chef/\u00a4/dentiste/19381"
+            },
+            "AD075DP_D2M8_244_0024_right_page_15.png": {
+                "text": "\u00a4/Jane/76/P/anglaise/m/Ep/\u00a4/d\u00b0/19381"
+            },
+            "AD075DP_D2M8_244_0024_right_page_16.png": {
+                "text": "\u00a4/Harold/1910/P/d\u00b0/\u00a4/fil/\u00a4/Etudt/19389"
+            },
+            "AD075DP_D2M8_244_0024_right_page_17.png": {
+                "text": "Berger/Marthe/96/P/\u00a4/\u00a4/\u00a4/\u00a4/g\u00e9rante/18374"
+            },
+            "AD075DP_D2M8_244_0024_right_page_18.png": {
+                "text": "Mouroux/Marie/1904/Loiret/\u00a4/\u00a4/\u00a4/\u00a4/Ee/18377"
+            },
+            "AD075DP_D2M8_244_0024_right_page_19.png": {
+                "text": "Bor\u00e9/Suzanne/1906/Indre/\u00a4/\u00a4/\u00a4/\u00a4/E/18377"
+            },
+            "AD075DP_D2M8_244_0024_right_page_20.png": {
+                "text": "Kauffer/Marie/98/Bs Rhin/fr/\u00a4/\u00a4/\u00a4/E/18377"
+            },
+            "AD075DP_D2M8_244_0024_right_page_22.png": {
+                "text": "Lefebvre/Louis/78/\u00a4/\u00a4/D/\u00a4/\u00a4/E/18377"
+            },
+            "AD075DP_D2M8_244_0024_right_page_23.png": {
+                "text": "Debray/Louis/70/Ille Vil/\u00a4/\u00a4/\u00a4/\u00a4/E /18377"
+            },
+            "AD075DP_D2M8_244_0024_right_page_24.png": {
+                "text": "Berthier/fran\u00e7ois/72/ni\u00e8vre/\u00a4/\u00a4/\u00a4/\u00a4/E /18377"
+            },
+            "AD075DP_D2M8_244_0024_right_page_25.png": {
+                "text": "Malliet/Anne/65/Ille Vil/\u00a4/V/\u00a4/\u00a4/E /18377"
+            },
+            "AD075DP_D2M8_244_0024_right_page_26.png": {
+                "text": "Th\u00e9au/Jean/56/Loiret/\u00a4/V/\u00a4/\u00a4/Concierge/21399"
+            },
+            "AD075DP_D2M8_244_0024_right_page_27.png": {
+                "text": "Dalec/Maria/72/Yonne/\u00a4/D/chef/\u00a4/md Journaux/18374"
+            },
+            "AD075DP_D2M8_244_0024_right_page_28.png": {
+                "text": "\u00a4/Charles/1906/P/\u00a4/\u00a4/fils/\u00a4/E /18377"
+            },
+            "AD075DP_D2M8_244_0024_right_page_29.png": {
+                "text": "Paguet/Paul/1900/Mayenne/\u00a4/\u00a4/\u00a4/\u00a4/E/18377"
+            },
+            "AD075DP_D2M8_244_0025_left_page_00.png": {
+                "text": "Dubois/L\u00e9a/89/Somme/\u00a4/D/\u00a4/\u00a4/Couturi\u00e8re/9132"
+            },
+            "AD075DP_D2M8_244_0025_left_page_01.png": {
+                "text": "Muratorio/C\u00e9sar/97/Italie/\u00a4/m/Chef/\u00a4/E/18377"
+            },
+            "AD075DP_D2M8_244_0025_left_page_02.png": {
+                "text": "\u00a4/Lucienne/98/Loiret/\u00a4/m/Ep/\u00a4/E /18377"
+            },
+            "AD075DP_D2M8_244_0025_left_page_03.png": {
+                "text": "Landais/Madeleine/1885/Palignac/\u00a4/\u00a4/\u00a4/\u00a4/E /18377"
+            },
+            "AD075DP_D2M8_244_0025_left_page_04.png": {
+                "text": "Pitoiset/Val\u00e9rie/67/C d'or/\u00a4/\u00a4/\u00a4/\u00a4/cuisini\u00e8re/18372"
+            },
+            "AD075DP_D2M8_244_0025_left_page_05.png": {
+                "text": "Ludescher/Jn Bte/57/Allemagne/\u00a4/\u00a4/\u00a4/\u00a4/o tailleur/9132"
+            },
+            "AD075DP_D2M8_244_0025_left_page_07.png": {
+                "text": "\u00a4/Marie/58/Luxembourg/\u00a4/m/Ep/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0025_left_page_10.png": {
+                "text": "\u00a4/Antoinette/81/Jura/\u00a4/m/Ep/\u00a4/\u00a4/18377"
+            },
+            "AD075DP_D2M8_244_0025_left_page_11.png": {
+                "text": "Gesmier/MArguerite/94/\u00a4/\u00a4/\u00a4/\u00a4/\u00a4/E /18377"
+            },
+            "AD075DP_D2M8_244_0025_left_page_12.png": {
+                "text": "Lacoste/Raymonde/99/P/\u00a4/\u00a4/\u00a4/\u00a4/Chaufr/12307"
+            },
+            "AD075DP_D2M8_244_0025_left_page_14.png": {
+                "text": "St Laurent/Louis/97/Hte Gar/\u00a4/\u00a4/\u00a4/\u00a4/E /18377"
+            },
+            "AD075DP_D2M8_244_0025_left_page_15.png": {
+                "text": "Girard/BArth\u00e9lemy/62/Is\u00e8re/\u00a4/m/Chef/\u00a4/gardien/21399"
+            },
+            "AD075DP_D2M8_244_0025_left_page_16.png": {
+                "text": "\u00a4/Eug\u00e9nie/66/ain/\u00a4/m /Ep/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0025_left_page_17.png": {
+                "text": "\u00a4/Louise/1921/P/\u00a4/\u00a4/fil/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0025_left_page_18.png": {
+                "text": "Voiret/firmin/85/oise/\u00a4/m/Chef/\u00a4/Concierge/21399"
+            },
+            "AD075DP_D2M8_244_0025_left_page_20.png": {
+                "text": "\u00a4/Louis/1911/oise/\u00a4/\u00a4/fils/\u00a4/\u00a4/21399"
+            },
+            "AD075DP_D2M8_244_0025_left_page_21.png": {
+                "text": "JAndot/Jn Bte/79/alpes mmes/\u00a4/m/Chef/\u00a4/E /18377"
+            },
+            "AD075DP_D2M8_244_0025_left_page_23.png": {
+                "text": "Amiot/Auguste/69/C d'or/\u00a4/m/Chef/\u00a4/mtre d'h\u00f4tel/18373"
+            },
+            "AD075DP_D2M8_244_0025_left_page_24.png": {
+                "text": "\u00a4/Catherine/62/Belgique/\u00a4/m/Ep/\u00a4/couturi\u00e8re/9132"
+            },
+            "AD075DP_D2M8_244_0025_left_page_25.png": {
+                "text": "Groja/Claire/72/Cher/\u00a4/V/Chef/\u00a4/fabt robes/9132"
+            },
+            "AD075DP_D2M8_244_0025_left_page_26.png": {
+                "text": "\u00a4/Blanche/95/Gironde/\u00a4/\u00a4/fil/\u00a4/\u00a4/9132"
+            },
+            "AD075DP_D2M8_244_0025_left_page_27.png": {
+                "text": "BAchelerie/Albertine/86/MAnche/\u00a4/\u00a4/D/\u00a4/cuisini\u00e8re/18372"
+            },
+            "AD075DP_D2M8_244_0025_left_page_28.png": {
+                "text": "\u00a4/Jean/86/Corr\u00e8ze/\u00a4/\u00a4/\u00a4/\u00a4/E /18377"
+            },
+            "AD075DP_D2M8_244_0025_left_page_29.png": {
+                "text": "Vergne/Antoine/79/P/\u00a4/\u00a4/chef/\u00a4/profesr/19385"
+            },
+            "AD075DP_D2M8_244_0025_right_page_00.png": {
+                "text": "Boscher/Ren\u00e9e/1903/Calvados/\u00a4/\u00a4/D/\u00a4/dom/21399"
+            },
+            "AD075DP_D2M8_244_0025_right_page_01.png": {
+                "text": "Bisson/MArie/97/d\u00b0/\u00a4/\u00a4/D/\u00a4/d/21399"
+            },
+            "AD075DP_D2M8_244_0025_right_page_02.png": {
+                "text": "Thiery/Alphonse/48/oise/\u00a4/m/Chef/\u00a4/h de peine/16352"
+            },
+            "AD075DP_D2M8_244_0025_right_page_03.png": {
+                "text": "\u00a4/Juliette/60/Sne & o/\u00a4/m/Ep/\u00a4/fe m\u00e9nage/21399"
+            },
+            "AD075DP_D2M8_244_0025_right_page_04.png": {
+                "text": "Fijakowski/Jean/1901/Pologne/\u00a4/\u00a4/\u00a4/\u00a4/Ingr/12174"
+            },
+            "AD075DP_D2M8_244_0025_right_page_05.png": {
+                "text": "Marien/Jn Bte/78/Indre/\u00a4/m/Chef/\u00a4/Gon bur/16352"
+            },
+            "AD075DP_D2M8_244_0025_right_page_07.png": {
+                "text": "\u00a4/Georgette/1918/d\u00b0/\u00a4/\u00a4/fil/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0025_right_page_08.png": {
+                "text": "Wargnier/Maurice/1903/Eure & L/\u00a4/m/Chef/\u00a4/Gon bur/16352"
+            },
+            "AD075DP_D2M8_244_0025_right_page_09.png": {
+                "text": "\u00a4/Victoire/1904/Morbihan/\u00a4/m/Ep/\u00a4/\u00a4/16352"
+            },
+            "AD075DP_D2M8_244_0025_right_page_10.png": {
+                "text": "P\u00e9richon/Victor/63/allier/\u00a4/V/oncle/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0025_right_page_12.png": {
+                "text": "\u00a4/Julia/90/d\u00b0/\u00a4/m/Ep/\u00a4/d\u00b0/21399"
+            },
+            "AD075DP_D2M8_244_0025_right_page_14.png": {
+                "text": "Leblanc/Charles/82/Belgique/\u00a4/\u00a4/chef/\u00a4/Ing\u00e9nieur/12174"
+            },
+            "AD075DP_D2M8_244_0025_right_page_17.png": {
+                "text": "Wolf/Charles/60/Ht Rhin/\u00a4/V/Chef/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0025_right_page_19.png": {
+                "text": "Villedieu/Joseph/1902/Indre/\u00a4/\u00a4/\u00a4/\u00a4/Gon boucher/436"
+            },
+            "AD075DP_D2M8_244_0025_right_page_20.png": {
+                "text": "Chartier/Paul/74/\u00a4/\u00a4/m/Chef/\u00a4/\u00a4/22408"
+            },
+            "AD075DP_D2M8_244_0025_right_page_22.png": {
+                "text": "\u00a4/Raymonde/1902/P/\u00a4/\u00a4/fil/\u00a4/\u00a4/22408"
+            },
+            "AD075DP_D2M8_244_0025_right_page_23.png": {
+                "text": "Rayet/Octavie/67/Creuse/\u00a4/\u00a4/D/\u00a4/cuisini\u00e8re/18372"
+            },
+            "AD075DP_D2M8_244_0025_right_page_24.png": {
+                "text": "Blin/Marthe/91/oise/\u00a4/\u00a4/D/\u00a4/fe chambre/21399"
+            },
+            "AD075DP_D2M8_244_0025_right_page_25.png": {
+                "text": "Becquard/Andr\u00e9/83/Nord/\u00a4/m/Chef/\u00a4/directr/18374"
+            },
+            "AD075DP_D2M8_244_0025_right_page_26.png": {
+                "text": "\u00a4/MArie/92/d\u00b0/\u00a4/m/Ep/\u00a4/\u00a4/18374"
+            },
+            "AD075DP_D2M8_244_0025_right_page_27.png": {
+                "text": "\u00a4/Jacqueline/1912/d\u00b0/\u00a4/\u00a4/fil/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0025_right_page_28.png": {
+                "text": "Bauer/Emma/1901/Bs Rhin/\u00a4/\u00a4/D/\u00a4/dom/21399"
+            },
+            "AD075DP_D2M8_244_0025_right_page_29.png": {
+                "text": "Bonin/Henri/86/Hte Marne/\u00a4/m/Chef/\u00a4/Gon bur/16352"
+            },
+            "AD075DP_D2M8_244_0081_left_page_01.png": {
+                "text": "\u00a4/Jeanne/92/I&V/\u00a4/m/ep/\u00a4/spr/18377"
+            },
+            "AD075DP_D2M8_244_0081_left_page_02.png": {
+                "text": "Godel/Cl\u00e9mentine/67/d\u00b0/\u00a4/v/ch/\u00a4/concierge/21399"
+            },
+            "AD075DP_D2M8_244_0081_left_page_04.png": {
+                "text": "\u00a4/Germaine/\u00a4/\u00a4/\u00a4/m/Ep/\u00a4/\u00a4/Abs"
+            },
+            "AD075DP_D2M8_244_0081_left_page_05.png": {
+                "text": "Meslin/Helene/\u00a4/\u00a4/\u00a4/\u00a4/d/\u00a4/\u00a4/Abs"
+            },
+            "AD075DP_D2M8_244_0081_left_page_06.png": {
+                "text": "Araemer/Benjamin/65/B R /\u00a4/\u00a4/ch /antiquaire/183741"
+            },
+            "AD075DP_D2M8_244_0081_left_page_08.png": {
+                "text": "Codines/Isidore/85/Espagnol/\u00a4/\u00a4/ch /\u00a4/\u00a4/22408"
+            },
+            "AD075DP_D2M8_244_0081_left_page_09.png": {
+                "text": "Decker/Louis/03/d /\u00a4/\u00a4/ch/Emp Cremier/450"
+            },
+            "AD075DP_D2M8_244_0081_left_page_10.png": {
+                "text": "Coudrier/Marie Louise/55 /Allier/\u00a4/ch /\u00a4/Cuisini\u00e8re/213992"
+            },
+            "AD075DP_D2M8_244_0081_left_page_11.png": {
+                "text": "Jochault/Georges/99 /P /\u00a4/\u00a4/Ch /\u00a4/Emp /183772"
+            },
+            "AD075DP_D2M8_244_0081_left_page_12.png": {
+                "text": "Tassin/Marie/04 /S /\u00a4/\u00a4/Ch /\u00a4/Reprt/183741"
+            },
+            "AD075DP_D2M8_244_0081_left_page_13.png": {
+                "text": "L\u00e9vy/Andr\u00e9/78 /P /\u00a4/V /ch /\u00a4/Sp /224081"
+            },
+            "AD075DP_D2M8_244_0081_left_page_14.png": {
+                "text": "Huguet/Louis/66 /Vienne/\u00a4/M/Ch /\u00a4/g burx/16352"
+            },
+            "AD075DP_D2M8_244_0081_left_page_16.png": {
+                "text": "Crank/Marguerite/46/Gironde/\u00a4/V /Ch /\u00a4/Sp/\u00a4"
+            },
+            "AD075DP_D2M8_244_0081_left_page_17.png": {
+                "text": "Cammas/Suzanne/95/P /\u00a4/m/Ep/\u00a4/sp/224081"
+            },
+            "AD075DP_D2M8_244_0081_left_page_18.png": {
+                "text": "\u00a4/Jean/79/Vend\u00e9e/\u00a4/m/ch /Docteur/193822"
+            },
+            "AD075DP_D2M8_244_0081_left_page_19.png": {
+                "text": "Sire/Abel/96/Vend\u00e9/\u00a4/\u00a4/d/\u00a4/domest/213992"
+            },
+            "AD075DP_D2M8_244_0081_left_page_20.png": {
+                "text": "Girault/Louis/02/Loiret/\u00a4/m/ch/Empl/18377"
+            },
+            "AD075DP_D2M8_244_0081_left_page_22.png": {
+                "text": "Ornassi/Marguerite/86/S Inf/\u00a4/\u00a4/Ch /\u00a4/Empl/18377"
+            },
+            "AD075DP_D2M8_244_0081_left_page_23.png": {
+                "text": "Deschaseau/Joseph/71/Vosges/\u00a4/m/ch /\u00a4/Gn Bur/16352"
+            },
+            "AD075DP_D2M8_244_0081_left_page_24.png": {
+                "text": "\u00a4/Marie/71/Vosges/\u00a4/m/Ep/\u00a4/Sp/\u00a4"
+            },
+            "AD075DP_D2M8_244_0081_left_page_25.png": {
+                "text": "Chauvin/Victoria/67/Somme/\u00a4/V/Ch/\u00a4/Hoteli\u00e8re/18372"
+            },
+            "AD075DP_D2M8_244_0081_left_page_26.png": {
+                "text": "Dolin/Charles/67/d\u00b0/\u00a4/D/par/\u00a4/d\u00b0/\u00a4"
+            },
+            "AD075DP_D2M8_244_0081_left_page_27.png": {
+                "text": "Dolin/Ren\u00e9/12/d\u00b0/\u00a4/\u00a4/par/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0081_left_page_28.png": {
+                "text": "des Hameaux/Guy/88/Calvados/\u00a4/\u00a4/ch/\u00a4/Indust /224052"
+            },
+            "AD075DP_D2M8_244_0081_left_page_29.png": {
+                "text": "Gr\u00e9goire/Jean/02/P /\u00a4/\u00a4/Ch /\u00a4/Linotyp/7932"
+            },
+            "AD075DP_D2M8_244_0108_right_page_00.png": {
+                "text": "Barbier/Marie/68/Meuse/\u00a4/D/Ch/\u00a4/Caissi\u00e8re/18375"
+            },
+            "AD075DP_D2M8_244_0108_right_page_01.png": {
+                "text": "Bertrand/Henri/99/Pyren\u00e9es Ories/\u00a4/\u00a4/Ch a/\u00a4/Employ\u00e9/18377"
+            },
+            "AD075DP_D2M8_244_0108_right_page_02.png": {
+                "text": "Provost/Andr\u00e9/78/P /\u00a4/M/Ch/\u00a4/Md Vins/18371"
+            },
+            "AD075DP_D2M8_244_0108_right_page_03.png": {
+                "text": "\" \"/Marguerite/81/Seine Marne/\u00a4/M/Ep/\u00a4/\" \"/18371"
+            },
+            "AD075DP_D2M8_244_0108_right_page_05.png": {
+                "text": "Boucheron/\u00a4/\u00a4/\u00a4/\u00a4/\u00a4/\u00a4/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0108_right_page_06.png": {
+                "text": "Mourier/Henriette/1900/\u00a4/\u00a4/\u00a4/\u00a4/\u00a4/Caissi\u00e8re/18375"
+            },
+            "AD075DP_D2M8_244_0108_right_page_07.png": {
+                "text": "Astruc/Antoine/73/Ard\u00e8che/\u00a4/M/Ch/\u00a4/Concierge/21399"
+            },
+            "AD075DP_D2M8_244_0108_right_page_08.png": {
+                "text": "\" \"/Antoinette/75/Rh\u00f4ne/\u00a4/M/Ep/\u00a4/f menage/21399"
+            },
+            "AD075DP_D2M8_244_0108_right_page_10.png": {
+                "text": "\u00a4/Marie L /96/P /\u00a4/M/Ep/\u00a4/Employ\u00e9e/18377"
+            },
+            "AD075DP_D2M8_244_0108_right_page_11.png": {
+                "text": "Buffard/Octave/87/Deux S\u00e8vres/\u00a4/M/Ch/Employ\u00e9/18377"
+            },
+            "AD075DP_D2M8_244_0108_right_page_12.png": {
+                "text": "\u00a4/Irma/81/S/\u00a4/M/Ep/\u00a4/Employ\u00e9e/18377"
+            },
+            "AD075DP_D2M8_244_0108_right_page_13.png": {
+                "text": "Carral/Jean/79/Aveyron/\u00a4/M/Ch/\u00a4/Hotelier/18371"
+            },
+            "AD075DP_D2M8_244_0108_right_page_14.png": {
+                "text": "\" \"/Maria/85/P /\u00a4/M/Ep/\u00a4/Sp/18371"
+            },
+            "AD075DP_D2M8_244_0108_right_page_16.png": {
+                "text": "Caral/Adrien/83/Aveyron/\u00a4/\u00a4/par/\u00a4/Employ\u00e9/18377"
+            },
+            "AD075DP_D2M8_244_0108_right_page_17.png": {
+                "text": "Bolut/Gabriel/86/Alp Mari/\u00a4/M/Ch/\u00a4/Representant/18374"
+            },
+            "AD075DP_D2M8_244_0108_right_page_19.png": {
+                "text": "Zadvidgie/Joseph/94/Polonais/\u00a4/Ch/\u00a4/Coiffeur o/20390"
+            },
+            "AD075DP_D2M8_244_0108_right_page_21.png": {
+                "text": "Zratellini/Louis/99/\" \"/\"/\u00a4/Ch/\u00a4/Employ\u00e9/18377"
+            },
+            "AD075DP_D2M8_244_0108_right_page_22.png": {
+                "text": "Szanianski/Miecilas/66/Polonais/\u00a4/\u00a4/Ch/\u00a4/Sp/\u00a4"
+            },
+            "AD075DP_D2M8_244_0108_right_page_23.png": {
+                "text": "Molteni/Leopolito/97/Italien/\u00a4/M/Ch/\u00a4/Gon caf\u00e9/18373"
+            },
+            "AD075DP_D2M8_244_0108_right_page_24.png": {
+                "text": "\" \" /Anna/99/Italienne/\u00a4/M/Ep/\u00a4/Sp/18373"
+            },
+            "AD075DP_D2M8_244_0108_right_page_25.png": {
+                "text": "Courdacher/Eug\u00e8ne/74/Puy de D\u00f4me/\u00a4/M/Ch /\u00a4/Boucher O/4 36"
+            },
+            "AD075DP_D2M8_244_0108_right_page_26.png": {
+                "text": "\" \" Fran\u00e7oise/76/Hte Savoie/\u00a4/M/Ep/\u00a4/Concierge/21399"
+            },
+            "AD075DP_D2M8_244_0108_right_page_27.png": {
+                "text": "Goffin/Mathieu/72/Belgique/Naturalis\u00e9/\u00a4/Ch/\u00a4/Imprimeur o/792"
+            },
+            "AD075DP_D2M8_244_0108_right_page_28.png": {
+                "text": "\" \" /Marie Anne/64/\" \"/\" \"/\u00a4/par/\u00a4/Modiste/9139"
+            },
+            "AD075DP_D2M8_244_0111_left_page_01.png": {
+                "text": "Delivassilogloy/Georges/03/Turquie/\u00a4/\u00a4/ch/\u00a4/Employ\u00e9/18377"
+            },
+            "AD075DP_D2M8_244_0111_left_page_02.png": {
+                "text": "Ficagne/Jacques/99/Bse Pyr\u00e9n\u00e9es/\u00a4/\u00a4/ch/gar\u00e7on de /18373"
+            },
+            "AD075DP_D2M8_244_0111_left_page_03.png": {
+                "text": "Ballot Beaupr\u00e9/Alfred/77/P /\u00a4/M/ch/\u00a4/Publiciste/19389"
+            },
+            "AD075DP_D2M8_244_0111_left_page_04.png": {
+                "text": "Jarrige/Gabriel/98/Corr\u00e8ze/\u00a4/\u00a4/ch/\u00a4/maitre d'hotel/18373"
+            },
+            "AD075DP_D2M8_244_0111_left_page_05.png": {
+                "text": "G\u00e9rard/Maurice/06/Rhone/\u00a4/\u00a4/ch/\u00a4/stagiaire/22408"
+            },
+            "AD075DP_D2M8_244_0111_left_page_06.png": {
+                "text": "Blan\u00e7on/Germain/06/Cantal/\u00a4/\u00a4/ch/\u00a4/Bonne/21399"
+            },
+            "AD075DP_D2M8_244_0111_left_page_07.png": {
+                "text": "Donetta/Pierre/93/Alpes maritimes/\u00a4/\u00a4/ch/\u00a4/journaliste/19389"
+            },
+            "AD075DP_D2M8_244_0111_left_page_09.png": {
+                "text": "\u00a4/Maria/83/Tarn/\u00a4/M/ep/\u00a4/Hotelier/18371"
+            },
+            "AD075DP_D2M8_244_0111_left_page_10.png": {
+                "text": "\u00a4/\u00a4/05/P /\u00a4/\u00a4/f /\u00a4/s/18371"
+            },
+            "AD075DP_D2M8_244_0111_left_page_11.png": {
+                "text": "Bigot/Aline/02/Loiret/\u00a4/\u00a4/ch /\u00a4/couturi\u00e8re/9132"
+            },
+            "AD075DP_D2M8_244_0111_left_page_12.png": {
+                "text": "Fedon Lacombe/Marguerite/95/H Vienne/\u00a4/M/ep /\u00a4/concierge/21399"
+            },
+            "AD075DP_D2M8_244_0111_left_page_13.png": {
+                "text": "\u00a4/Georges/\u00a4/\u00a4/\u00a4/\u00a4/\u00a4/\u00a4/\u00a4/abs"
+            },
+            "AD075DP_D2M8_244_0111_left_page_14.png": {
+                "text": "Peprion/Ren\u00e9/90/S et o /\u00a4/M/ch/\u00a4/cr\u00e9mier/450"
+            },
+            "AD075DP_D2M8_244_0111_left_page_16.png": {
+                "text": "Pecquet/Joseph/90/Oise/\u00a4/\u00a4/ch/Ing\u00e9nieur/12176"
+            },
+            "AD075DP_D2M8_244_0111_left_page_17.png": {
+                "text": "Boiscourt/Paul/76/P /\u00a4/M/ch /\u00a4/journaliste/19389"
+            },
+            "AD075DP_D2M8_244_0111_left_page_18.png": {
+                "text": "Szvaic/Joel/84/Pologne/\u00a4/M/ch /\u00a4/Couturier/9132"
+            },
+            "AD075DP_D2M8_244_0111_left_page_19.png": {
+                "text": "\u00a4/Fanny/88/Pologne/\u00a4/M/ep/\u00a4/s /9132"
+            },
+            "AD075DP_D2M8_244_0111_left_page_20.png": {
+                "text": "\u00a4/Victor/12/P /\u00a4/\u00a4/f /\u00a4/s /\u00a4"
+            },
+            "AD075DP_D2M8_244_0111_left_page_21.png": {
+                "text": "Bigot/Pierre/07/Loiret/\u00a4/\u00a4/ch/\u00a4/Commis/18377"
+            },
+            "AD075DP_D2M8_244_0111_left_page_22.png": {
+                "text": "Vincent/Eug\u00e8ne/66/Indre/\u00a4/V/ch/\u00a4/Md de vins/18371"
+            },
+            "AD075DP_D2M8_244_0111_left_page_23.png": {
+                "text": "Marneluch/Maurice/82/P /\u00a4/M/ch /\u00a4/Plisseur/9133"
+            },
+            "AD075DP_D2M8_244_0111_left_page_24.png": {
+                "text": "\u00a4/Jeanne/84/S /\u00a4/M/ep /\u00a4/s /9133"
+            },
+            "AD075DP_D2M8_244_0111_left_page_28.png": {
+                "text": "Constant/Louis/03/Cantal/\u00a4/\u00a4/ch/\u00a4/\u00a4/11159"
+            },
+            "AD075DP_D2M8_244_0111_left_page_29.png": {
+                "text": "Blaplain/Emma/88/ille et Vilaine/\u00a4/\u00a4/ch/\u00a4/couturiere/9132"
+            },
+            "AD075DP_D2M8_244_0120_right_page_01.png": {
+                "text": "Gabin/Ren\u00e9e/09/S /\u00a4/\u00a4/D/\u00a4/Domestique/21399"
+            },
+            "AD075DP_D2M8_244_0120_right_page_02.png": {
+                "text": "Rahie/Hector/59/Belgique/\u00a4/M /ch /\u00a4/Brocanteur/18374"
+            },
+            "AD075DP_D2M8_244_0120_right_page_03.png": {
+                "text": "\u00a4/Georgette/89/Belgique/\u00a4/M/ep/\u00a4/s /18374"
+            },
+            "AD075DP_D2M8_244_0120_right_page_05.png": {
+                "text": "\u00a4/Andr\u00e9e/21/P/\u00a4/\u00a4/f /\u00a4/s /\u00a4"
+            },
+            "AD075DP_D2M8_244_0120_right_page_06.png": {
+                "text": "Stoliarewski/Arnold/79/Russie/\u00a4/M/ch /\u00a4/\u00a4/9132"
+            },
+            "AD075DP_D2M8_244_0120_right_page_07.png": {
+                "text": "\u00a4/Fanny/86/Russie/\u00a4/M/ep/\u00a4/Couturiere/9132"
+            },
+            "AD075DP_D2M8_244_0120_right_page_08.png": {
+                "text": "\u00a4/Esther/10/P/\u00a4/\u00a4/f /\u00a4/Ecoli\u00e8re/abs"
+            },
+            "AD075DP_D2M8_244_0120_right_page_09.png": {
+                "text": "\u00a4/Robert/15/P /\u00a4/\u00a4/f /\u00a4/s /\u00a4"
+            },
+            "AD075DP_D2M8_244_0120_right_page_11.png": {
+                "text": "Porcher/Antoinette/08/Mayenne/\u00a4/M/D/\u00a4/Domestique/21399"
+            },
+            "AD075DP_D2M8_244_0120_right_page_12.png": {
+                "text": "\u00a4/Henri/54/Mayenne/\u00a4/D/A/\u00a4/s /\u00a4"
+            },
+            "AD075DP_D2M8_244_0120_right_page_13.png": {
+                "text": "Reitz/Jean/84/P/\u00a4/M/ch /\u00a4/Commer\u00e7ant/18374"
+            },
+            "AD075DP_D2M8_244_0120_right_page_15.png": {
+                "text": "\u00a4/Suzanne/80/P/\u00a4/\u00a4/f /\u00a4/s /18374"
+            },
+            "AD075DP_D2M8_244_0120_right_page_16.png": {
+                "text": "Hoche/Jules/56/Eure et Loir/\u00a4/V/ch/\u00a4/Directeur de /18374"
+            },
+            "AD075DP_D2M8_244_0120_right_page_18.png": {
+                "text": "Cavoret/Clothilde/71/Savoie/\u00a4/\u00a4/ch/\u00a4/Employ\u00e9e/18377"
+            },
+            "AD075DP_D2M8_244_0120_right_page_19.png": {
+                "text": "Dauto/Jeanne/97/Ille et Villaine/\u00a4/ch/\u00a4/Vendeuse/18377"
+            },
+            "AD075DP_D2M8_244_0120_right_page_20.png": {
+                "text": "Laurent/Perrine/76/Finist\u00e8re/\u00a4/\u00a4/ch/\u00a4/Cuisini\u00e8re/18372"
+            },
+            "AD075DP_D2M8_244_0120_right_page_21.png": {
+                "text": "Tertrand/Marie/83/Hte Alpes/\u00a4/\u00a4/ch /\u00a4/Cuisini\u00e8re/18372"
+            },
+            "AD075DP_D2M8_244_0120_right_page_22.png": {
+                "text": "Arti\u00e8cle/Isabelle/57/Bse Pyr\u00e9n\u00e9es/\u00a4/\u00a4/ch /\u00a4/couturi\u00e8re/9132"
+            },
+            "AD075DP_D2M8_244_0120_right_page_24.png": {
+                "text": "Baphanel/Fran\u00e7ois/81/Cantal/\u00a4/M/ch/\u00a4/Tailleur/9132"
+            },
+            "AD075DP_D2M8_244_0120_right_page_25.png": {
+                "text": "\u00a4/Marie/93/Mayenne/\u00a4/M/ep /\u00a4/Couturi\u00e8re/9132"
+            },
+            "AD075DP_D2M8_244_0120_right_page_27.png": {
+                "text": "Buckingham/Tom Taylor/75/P /\u00a4/M/Ch /\u00a4/sellier/10146"
+            },
+            "AD075DP_D2M8_244_0120_right_page_28.png": {
+                "text": "\u00a4/Lucien/\u00a4/\u00a4/\u00a4/\u00a4/\u00a4/\u00a4/\u00a4/abs"
+            },
+            "AD075DP_D2M8_244_0120_right_page_29.png": {
+                "text": "/Hélène/¤/¤/¤/¤/¤/¤/¤/abs"
+            },
+            "AD075DP_D2M8_244_0123_right_page_01.png": {
+                "text": "Armand/Marie/92/Is\u00e8re/\u00a4/\u00a4/Ch/\u00a4/Employ\u00e9e/18377"
+            },
+            "AD075DP_D2M8_244_0123_right_page_02.png": {
+                "text": "Chanson/Matilde/81/Fran\u00e7aise/\u00a4/\u00a4/Ch/\u00a4/f m\u00e9nage/21399"
+            },
+            "AD075DP_D2M8_244_0123_right_page_03.png": {
+                "text": "Destreil/Henri/81/Charente/\u00a4/M/Ch/\u00a4/Menuisier/11159"
+            },
+            "AD075DP_D2M8_244_0123_right_page_04.png": {
+                "text": "\"/Camille/82/Lot/\u00a4/M/Ep/\u00a4/Sp/11159"
+            },
+            "AD075DP_D2M8_244_0123_right_page_05.png": {
+                "text": "\"/Lucienne/09/P /\u00a4/\u00a4/f/\u00a4/Sp/11159"
+            },
+            "AD075DP_D2M8_244_0123_right_page_06.png": {
+                "text": "\"/Clotilde/50/\u00a4/\u00a4/\u00a4/\u00a4/\u00a4/\u00a4/Abs"
+            },
+            "AD075DP_D2M8_244_0123_right_page_07.png": {
+                "text": "Salanie/Elie/98/Lot/\u00a4/\u00a4/ami/\u00a4/Journalier/16352"
+            },
+            "AD075DP_D2M8_244_0123_right_page_10.png": {
+                "text": "\u00a4/H\u00e9l\u00e8ne/21/P /\u00a4/\u00a4/f/\u00a4/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0123_right_page_11.png": {
+                "text": "Ramage/Madeleine/03/Orne/\u00a4/\u00a4/a/\u00a4/domestique/21399"
+            },
+            "AD075DP_D2M8_244_0123_right_page_13.png": {
+                "text": "\"/Louise/72/Hte Garonne/\u00a4/M/Ep/\u00a4/Sp/\u00a4"
+            },
+            "AD075DP_D2M8_244_0123_right_page_14.png": {
+                "text": "\"/Louis/99/Gironde/\u00a4/\u00a4/f/\u00a4/Employ\u00e9/18377"
+            },
+            "AD075DP_D2M8_244_0123_right_page_15.png": {
+                "text": "Bayard/Claire/49/Allier/\u00a4/\u00a4/par/\u00a4/Sp/\u00a4"
+            },
+            "AD075DP_D2M8_244_0123_right_page_16.png": {
+                "text": "Maindion/Alfred/96/Vend\u00e9e/\u00a4/M/Ch/\u00a4/Chauffeur/17356"
+            },
+            "AD075DP_D2M8_244_0123_right_page_18.png": {
+                "text": "Laurent/Jules/69/Vosges/\u00a4/M/Ch/\u00a4/Concierge/21399"
+            },
+            "AD075DP_D2M8_244_0123_right_page_21.png": {
+                "text": "Cusin/Paul/92/Cotes d'Or/\u00a4/M/Ch/\u00a4/Emp Ch Fer/\u00a4"
+            },
+            "AD075DP_D2M8_244_0123_right_page_23.png": {
+                "text": "\"/Georges/20/P/\u00a4/\u00a4/f/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0123_right_page_24.png": {
+                "text": "\"/Cecile/21/P/\u00a4/\u00a4/f/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0123_right_page_25.png": {
+                "text": "\"/Andr\u00e9/23/\u00a4/\u00a4/\u00a4/f/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0123_right_page_27.png": {
+                "text": "\"/Justine/85/Ni\u00e8vre/\u00a4/M/Ep/\u00a4/f Chambre/21399"
+            },
+            "AD075DP_D2M8_244_0123_right_page_28.png": {
+                "text": "\"/Charles/19/S /\u00a4/\u00a4/f/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0123_right_page_29.png": {
+                "text": "Gehin/l\u00e9on/78/Vosges/\u00a4/M/Ch/\u00a4/Employ\u00e9/18377"
+            },
+            "AD075DP_D2M8_244_0140_right_page_00.png": {
+                "text": "Cavalerie/Josephine/12/Aveyron/\u00a4/\u00a4/d/\u00a4/employ\u00e9e/18371"
+            },
+            "AD075DP_D2M8_244_0140_right_page_01.png": {
+                "text": "Lecorneur/Maurice/93/Calvados/\u00a4/M/Ch/\u00a4/Restaurant/18371"
+            },
+            "AD075DP_D2M8_244_0140_right_page_02.png": {
+                "text": "''/Marie/86/Loir Cher/\u00a4/M/Ep/\u00a4/Sp/18371"
+            },
+            "AD075DP_D2M8_244_0140_right_page_03.png": {
+                "text": "''/Lucienne/19/P/\u00a4/\u00a4/f/\u00a4/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0140_right_page_04.png": {
+                "text": "Gandon/Marie/10/Fran\u00e7aise/\u00a4/\u00a4/par/\u00a4/Sp/22408"
+            },
+            "AD075DP_D2M8_244_0140_right_page_05.png": {
+                "text": "Buscanie/Maria/76/Cantal/\u00a4/V/Ch/\u00a4/Herboriste/20892"
+            },
+            "AD075DP_D2M8_244_0140_right_page_07.png": {
+                "text": "''/Germaine/88/Doubs/\u00a4/M/Ep/\u00a4/Couturi\u00e8re/9132"
+            },
+            "AD075DP_D2M8_244_0140_right_page_09.png": {
+                "text": "Brunel/Louis/74/Ard\u00e8che/\u00a4/M/Ch/\u00a4/Boulangerie/437"
+            },
+            "AD075DP_D2M8_244_0140_right_page_11.png": {
+                "text": "Calos/Angelo/54/Gr\u00e8ce/\u00a4/V/Ch/\u00a4/Interprete/19389"
+            },
+            "AD075DP_D2M8_244_0140_right_page_12.png": {
+                "text": "Leroy/May/80/Angleterre/Fran\u00e7/V/Ch/\u00a4/Employee/18377"
+            },
+            "AD075DP_D2M8_244_0140_right_page_13.png": {
+                "text": "''/Maurice/1900/\u00a4/\u00a4/\u00a4/f/\u00a4/aide magasinier/16351"
+            },
+            "AD075DP_D2M8_244_0140_right_page_15.png": {
+                "text": "Henin/Hel\u00e8ne/92/P/\u00a4/D/Ch/\u00a4/Couturi\u00e8re/9132"
+            },
+            "AD075DP_D2M8_244_0140_right_page_17.png": {
+                "text": "Tilleul/Roger/22/\u00a4/\u00a4/\u00a4/par/\u00a4/\u00a4/abs"
+            },
+            "AD075DP_D2M8_244_0140_right_page_18.png": {
+                "text": "Bachelet/Lazare/76/Saone Loire/\u00a4/M/Ch/\u00a4/Concierge/21399"
+            },
+            "AD075DP_D2M8_244_0140_right_page_19.png": {
+                "text": "''/marie/75/Ctes du Nord/\u00a4/M/Ep/\u00a4/'' ''/21399"
+            },
+            "AD075DP_D2M8_244_0140_right_page_20.png": {
+                "text": "''/Guy/06/\u00a4/\u00a4/\u00a4/f/\u00a4/\u00a4/21399"
+            },
+            "AD075DP_D2M8_244_0140_right_page_21.png": {
+                "text": "''/Raymond/10/P/\u00a4/\u00a4/f/\u00a4/ap Ebeniste/11158"
+            },
+            "AD075DP_D2M8_244_0140_right_page_22.png": {
+                "text": "''/Henri/18/P/\u00a4/\u00a4/f/\u00a4/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0140_right_page_23.png": {
+                "text": "Agogu\u00e9/Emile/74/Cher/\u00a4/M/Ch/\u00a4/Concierge/21399"
+            },
+            "AD075DP_D2M8_244_0140_right_page_24.png": {
+                "text": "''/Clotilde/78/Saone Loire/\u00a4/M/Ep/\u00a4/'' ''/21399"
+            },
+            "AD075DP_D2M8_244_0140_right_page_25.png": {
+                "text": "''/Louise/07/P/\u00a4/\u00a4/f/\u00a4/Employ\u00e9e/18377"
+            },
+            "AD075DP_D2M8_244_0140_right_page_26.png": {
+                "text": "Gravier/Emile/73/Allier/\u00a4/M/Ch/\u00a4/Gon Recettes/18375"
+            },
+            "AD075DP_D2M8_244_0140_right_page_28.png": {
+                "text": "''/Henri/18/Puy D\u00f4me/\u00a4/\u00a4/f/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0140_right_page_29.png": {
+                "text": "Dutel/Jeanne/60/Loire/\u00a4/\u00a4/Ch/\u00a4/f m\u00e9nage/21399"
+            },
+            "AD075DP_D2M8_244_0143_left_page_00.png": {
+                "text": "Mackenthun/Charles/78/Allemagne/\u00a4/M/Ch/\u00a4/Employ\u00e9/18377"
+            },
+            "AD075DP_D2M8_244_0143_left_page_01.png": {
+                "text": "\u00a4/Anne/77/Luxembourg/\u00a4/M/Ep/\u00a4/Concierge/21399"
+            },
+            "AD075DP_D2M8_244_0143_left_page_02.png": {
+                "text": "\u00a4/Ren\u00e9/13/P/\u00a4/\u00a4/f/\u00a4/S p /\u00a4"
+            },
+            "AD075DP_D2M8_244_0143_left_page_03.png": {
+                "text": "\u00a4/Germaine/18/P/\u00a4/\u00a4/f/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0143_left_page_05.png": {
+                "text": "Brion/Pierre/87/Sarthe/\u00a4/\u00a4/Ch/\u00a4/gar\u00e7n Bureau/16352"
+            },
+            "AD075DP_D2M8_244_0143_left_page_06.png": {
+                "text": "Devaux/Georges/85/Jura/\u00a4/M/Ch/\u00a4/d\u00b0/16352"
+            },
+            "AD075DP_D2M8_244_0143_left_page_07.png": {
+                "text": "\u00a4/Augustine/88/P/\u00a4/M/Ep/\u00a4/S p /16352"
+            },
+            "AD075DP_D2M8_244_0143_left_page_08.png": {
+                "text": "\u00a4/Georgine/10/P/\u00a4/\u00a4/f/\u00a4/o couturi\u00e8re/9132"
+            },
+            "AD075DP_D2M8_244_0143_left_page_09.png": {
+                "text": "Houguet/Alphonsine/86/Manche/\u00a4/V/Ch/\u00a4/Couturi\u00e8re/9132"
+            },
+            "AD075DP_D2M8_244_0143_left_page_10.png": {
+                "text": "\u00a4/Louis/10/P/\u00a4/\u00a4/f/\u00a4/Employ\u00e9/18377"
+            },
+            "AD075DP_D2M8_244_0143_left_page_11.png": {
+                "text": "\u00a4/Raymond/13/P/\u00a4/\u00a4/f/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0143_left_page_12.png": {
+                "text": "Michaud/Roger/01/Indre/\u00a4/\u00a4/Ch /\u00a4/C Changeur/18377"
+            },
+            "AD075DP_D2M8_244_0143_left_page_13.png": {
+                "text": "\u00a4/\u00a4/79/\u00a4/\u00a4/V/par/\u00a4/s p /18377"
+            },
+            "AD075DP_D2M8_244_0143_left_page_14.png": {
+                "text": "Plisson/Andr\u00e9/97/Indre/\u00a4/M/Ch/\u00a4/Gar\u00e7on Beau/\u00a4"
+            },
+            "AD075DP_D2M8_244_0143_left_page_15.png": {
+                "text": "¤/angèle/98/d°/¤/M/Ep/¤/domestique/21399"
+            },
+            "AD075DP_D2M8_244_0143_left_page_16.png": {
+                "text": "\u00a4/Jean/\u00a4/\u00a4/\u00a4/\u00a4/\u00a4/\u00a4/\u00a4/abs"
+            },
+            "AD075DP_D2M8_244_0143_left_page_17.png": {
+                "text": "\u00a4/Georges/\u00a4/\u00a4/\u00a4/\u00a4/\u00a4/\u00a4/\u00a4/abs"
+            },
+            "AD075DP_D2M8_244_0143_left_page_18.png": {
+                "text": "Denaud/\u00a4/\u00a4/\u00a4/\u00a4/\u00a4/Ch /\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0143_left_page_19.png": {
+                "text": "Poirier/L\u00e9ontine/1900/I V /\u00a4/\u00a4/Ch/\u00a4/Sp /22408"
+            },
+            "AD075DP_D2M8_244_0143_left_page_21.png": {
+                "text": "Cardeilhae/Jacques/85/P/\u00a4/M/Gar/\u00a4/Orf\u00e8vre/13318"
+            },
+            "AD075DP_D2M8_244_0143_left_page_22.png": {
+                "text": "\u00a4/H\u00e9l\u00e8ne/93/Seine/\u00a4/M/f/\u00a4/S p /13318"
+            },
+            "AD075DP_D2M8_244_0143_left_page_23.png": {
+                "text": "Bernard/Pierre/73/Charente/\u00a4/M/d/\u00a4/domestique/21399"
+            },
+            "AD075DP_D2M8_244_0143_left_page_24.png": {
+                "text": "\u00a4/Anna/74/Corr\u00e8ze/\u00a4/M/d/\u00a4/d\u00b0/21399"
+            },
+            "AD075DP_D2M8_244_0143_left_page_26.png": {
+                "text": "Bouchez/Henri/84/Ardennes/\u00a4/M/Ch/\u00a4/assurance/18377"
+            },
+            "AD075DP_D2M8_244_0143_left_page_27.png": {
+                "text": "\u00a4/Juliette/85/Marne/\u00a4/M/Ep/\u00a4/d\u00b0/18377"
+            },
+            "AD075DP_D2M8_244_0143_left_page_28.png": {
+                "text": "\u00a4/Robert/09/Seine/\u00a4/\u00a4/f/\u00a4/Employ\u00e9 Ce/18377"
+            },
+            "AD075DP_D2M8_244_0168_left_page_02.png": {
+                "text": "Malle/Eug\u00e9nie/79/Cher/\u00a4/\u00a4/Ch/\u00a4/Infirmi\u00e8re/20392"
+            },
+            "AD075DP_D2M8_244_0168_left_page_04.png": {
+                "text": "\u00a4/Am\u00e9lie/80/d\u00b0/\u00a4/\u00a4/f/\u00a4/Dactylo/18376"
+            },
+            "AD075DP_D2M8_244_0168_left_page_05.png": {
+                "text": "Sibronver/Henry/08/B Rh\u00f4ne/\u00a4/\u00a4/f/\u00a4/Employ\u00e9/18317"
+            },
+            "AD075DP_D2M8_244_0168_left_page_06.png": {
+                "text": "\u00a4/Isidore/09/d\u00b0/\u00a4/\u00a4/f/\u00a4/o bijoutier/13317"
+            },
+            "AD075DP_D2M8_244_0168_left_page_07.png": {
+                "text": "Bourliouse/Joseph/91/Cantal/\u00a4/M/Ch/\u00a4/E assur /18377"
+            },
+            "AD075DP_D2M8_244_0168_left_page_08.png": {
+                "text": "\u00a4/Honorine/1900/Aveyron/\u00a4/M/Ep/\u00a4/S p /18377"
+            },
+            "AD075DP_D2M8_244_0168_left_page_09.png": {
+                "text": "Bondeuse/Eug\u00e9nie/73/Indre/\u00a4/\u00a4/Ch/\u00a4/Infirmi\u00e8re/20392"
+            },
+            "AD075DP_D2M8_244_0168_left_page_10.png": {
+                "text": "Espaze/Isidore/83/Gard/\u00a4/M/Ch/\u00a4/Sommelier/18373"
+            },
+            "AD075DP_D2M8_244_0168_left_page_11.png": {
+                "text": "\u00a4/Marie/85/Gard/\u00a4/M/Ep/\u00a4/S p/18373"
+            },
+            "AD075DP_D2M8_244_0168_left_page_12.png": {
+                "text": "Bondeuse/L\u00e9on/85/Indre/\u00a4/M/Ch/\u00a4/Chauffeur/17356"
+            },
+            "AD075DP_D2M8_244_0168_left_page_13.png": {
+                "text": "\u00a4/Marie/89/Morbihan/\u00a4/M/Ep/\u00a4/o Couturi\u00e8re/9132"
+            },
+            "AD075DP_D2M8_244_0168_left_page_14.png": {
+                "text": "\u00a4/Pierre/\u00a4/\u00a4/\u00a4/\u00a4/f/\u00a4/\u00a4/abs"
+            },
+            "AD075DP_D2M8_244_0168_left_page_15.png": {
+                "text": "Florquin/L\u00e9on/92/Nord/\u00a4/M/Ch/\u00a4/Employ\u00e9/18377"
+            },
+            "AD075DP_D2M8_244_0168_left_page_16.png": {
+                "text": "\u00a4/Augustine/96/Mayenne/\u00a4/M/Ep/\u00a4/s p /18377"
+            },
+            "AD075DP_D2M8_244_0168_left_page_17.png": {
+                "text": "\u00a4/Jeanne/21/P/\u00a4/\u00a4/f/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0168_left_page_18.png": {
+                "text": "\u00a4/Odette/25/P/\u00a4/\u00a4/f/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0168_left_page_19.png": {
+                "text": "Yrau/Eug\u00e9nie/70/Seine/\u00a4/V/Ch/\u00a4/m\u00e9nag\u00e8re/21399"
+            },
+            "AD075DP_D2M8_244_0168_left_page_21.png": {
+                "text": "\u00a4/Eug\u00e8ne/08/P/\u00a4/\u00a4/f/\u00a4/Chasseur/18373"
+            },
+            "AD075DP_D2M8_244_0168_left_page_24.png": {
+                "text": "Balestri\u00e9/Marc/04/\u00a4/\u00a4/\u00a4/Ch/\u00a4/E assur /18377"
+            },
+            "AD075DP_D2M8_244_0168_left_page_25.png": {
+                "text": "Gaillard/Robert/02/I Vne/\u00a4/\u00a4/Ch/\u00a4/E pharmacie/18377"
+            },
+            "AD075DP_D2M8_244_0168_left_page_26.png": {
+                "text": "Sorius/Adelphe/02/Italie/\u00a4/Ch/\u00a4/Etudiant/19389"
+            },
+            "AD075DP_D2M8_244_0168_left_page_27.png": {
+                "text": "Peign\u00e9e/Virginie/81/Loiret/\u00a4/\u00a4/Ch/\u00a4/Employ\u00e9/8377"
+            },
+            "AD075DP_D2M8_244_0168_left_page_29.png": {
+                "text": "Kechichuan/Hrand/99/Perse/\u00a4/\u00a4/ch/\u00a4/Etudiant/19389"
+            },
+            "AD075DP_D2M8_244_0173_left_page_00.png": {
+                "text": "Jolivet/Georges/56/Loiret/\u00a4/m/ch/\u00a4/adr immeuble/18374"
+            },
+            "AD075DP_D2M8_244_0173_left_page_01.png": {
+                "text": "''/Alice/60/S & O /\u00a4/m/\u00e9p/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0173_left_page_02.png": {
+                "text": "''/Maurice/89/S /\u00a4/m/f/\u00a4/p chirurgien dentiste/193813"
+            },
+            "AD075DP_D2M8_244_0173_left_page_03.png": {
+                "text": "''/Jeanne/87/P/\u00a4/m/par/\u00a4/e dentiste/18377 f"
+            },
+            "AD075DP_D2M8_244_0173_left_page_04.png": {
+                "text": "Marin/Marie-Th\u00e9r\u00e8se/99/\u00a4/Vosges/\u00a4/\u00a4/d/\u00a4/d/21399 f"
+            },
+            "AD075DP_D2M8_244_0173_left_page_05.png": {
+                "text": "Chabrol/Marguerite/71/P/\u00a4/v/ch/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0173_left_page_06.png": {
+                "text": "\u00a4/Suzanne/90/L & Gne/\u00a4/\u00a4/f/\u00a4/\u00a4/22408 f"
+            },
+            "AD075DP_D2M8_244_0173_left_page_07.png": {
+                "text": "''/Marie-Madeleine/98/L & Cher/\u00a4/\u00a4/f/\u00a4/\u00a4/22408 f"
+            },
+            "AD075DP_D2M8_244_0173_left_page_08.png": {
+                "text": "Asseray/Ludovic/48/M & Loire/\u00a4/m/ch/\u00a4/e concierge/21399"
+            },
+            "AD075DP_D2M8_244_0173_left_page_10.png": {
+                "text": "S\u00e9r\u00e9ni/Ang\u00e8le/80/Corse/\u00a4/\u00a4/ch/\u00a4/e m\u00e9nages/21399 f"
+            },
+            "AD075DP_D2M8_244_0173_left_page_11.png": {
+                "text": "Birrer/Henri/95/Suisse/\u00a4/m/ch/\u00a4/e coiffeur/20340 D"
+            },
+            "AD075DP_D2M8_244_0173_left_page_13.png": {
+                "text": "Troncin/Ren\u00e9/93/Doubs/\u00a4/m/ch/\u00a4/e m\u00e9tro/\u00a4"
+            },
+            "AD075DP_D2M8_244_0173_left_page_15.png": {
+                "text": "Biasse/Jeanne/90/P/\u00a4/\u00a4/ch/\u00a4/e philat\u00e9liste/18374 f"
+            },
+            "AD075DP_D2M8_244_0173_left_page_16.png": {
+                "text": "Dantas/Stella/87/Br\u00e9sil/\u00a4/\u00a4/ch/\u00a4/\u00a4/22408"
+            },
+            "AD075DP_D2M8_244_0173_left_page_17.png": {
+                "text": "Monnot/Marie/62/C d'Or/\u00a4/\u00a4/ch/\u00a4/o couture/9132"
+            },
+            "AD075DP_D2M8_244_0173_left_page_18.png": {
+                "text": "Magnavacca/Laurent/74/Corse/\u00a4/m/ch/\u00a4/e retrait\u00e9/224081"
+            },
+            "AD075DP_D2M8_244_0173_left_page_19.png": {
+                "text": "''/Alexandrine/72/P/\u00a4/m/\u00e9p/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0173_left_page_20.png": {
+                "text": "''/H\u00e9lyett/08/P/\u00a4/\u00a4/f/\u00a4/e vendeuse/18877"
+            },
+            "AD075DP_D2M8_244_0173_left_page_21.png": {
+                "text": "Crini\u00e8re/Maurice/98/S & M/\u00a4/m/ch/\u00a4/e gon recettes/18375"
+            },
+            "AD075DP_D2M8_244_0173_left_page_22.png": {
+                "text": "''/Jeanne/84/S Infre/\u00a4/m/\u00e9p/\u00a4/o posticheuse/9139"
+            },
+            "AD075DP_D2M8_244_0173_left_page_27.png": {
+                "text": "Pichot/Maurice/89/S & Marne/\u00a4/m/ch/\u00a4/e comce/183773"
+            },
+            "AD075DP_D2M8_244_0173_left_page_28.png": {
+                "text": "\u00a4/Jeanne/93/Jura/\u00a4/m/\u00e9p/\u00a4/e comce/18377"
+            },
+            "AD075DP_D2M8_244_0173_left_page_29.png": {
+                "text": "\u00a4/odette/18/P/\u00a4/\u00a4/f/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0185_left_page_00.png": {
+                "text": "-w-/Maurice/97/P/naturalis\u00e9/\u00a4/f /\u00a4/e de cce/183773"
+            },
+            "AD075DP_D2M8_244_0185_left_page_01.png": {
+                "text": "Recullez/Alfred/68/S & o /\u00a4/m/ch /fond\u00e9 pouvoir ag de change/183741"
+            },
+            "AD075DP_D2M8_244_0185_left_page_02.png": {
+                "text": "-w-/Juliette/80/S & o /\u00a4/m/\u00e9p /\u00a4/\u00a4/18374 fs"
+            },
+            "AD075DP_D2M8_244_0185_left_page_03.png": {
+                "text": "Lecourt/Florestine/75/Mayenne/\u00a4/\u00a4/d /\u00a4/d cuisini\u00e8re/21399"
+            },
+            "AD075DP_D2M8_244_0185_left_page_04.png": {
+                "text": "Marlet/Paul/04/Ind & L/\u00a4/\u00a4/ch/\u00a4/o boucher/4362"
+            },
+            "AD075DP_D2M8_244_0185_left_page_05.png": {
+                "text": "Dufoug\u00e8re/William/78/Martinique/\u00a4/m/ch /\u00a4/Dr dentiste/143817"
+            },
+            "AD075DP_D2M8_244_0185_left_page_06.png": {
+                "text": "-w-/Aur\u00e9lie/92/P/\u00a4/m/\u00e9p /\u00a4/\u00a4/14381 f"
+            },
+            "AD075DP_D2M8_244_0185_left_page_07.png": {
+                "text": "Ausher/Georgette/00/B Rhin/\u00a4/\u00a4/d/\u00a4/d fem chambre/21349 f"
+            },
+            "AD075DP_D2M8_244_0185_left_page_09.png": {
+                "text": "Bazelaire/Andr\u00e9/93/Ardennes/\u00a4/m/ch/\u00a4/gardien paix/\u00a4"
+            },
+            "AD075DP_D2M8_244_0185_left_page_10.png": {
+                "text": "\u00a4/Carmen/03/M & Lre/\u00a4/m/ep /\u00a4/\u00a4/22408 f"
+            },
+            "AD075DP_D2M8_244_0185_left_page_11.png": {
+                "text": "\u00a4/Roger/22/P/\u00a4/\u00a4/f/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0185_left_page_12.png": {
+                "text": "Chrempreis/L\u00e9on/80/Pologne/naturalis\u00e9/m/ch /\u00a4/Dr m\u00e9decin/143813"
+            },
+            "AD075DP_D2M8_244_0185_left_page_13.png": {
+                "text": "-w-/Marie/91/Angleterre/d\u00b0/m/ep/\u00a4/\u00a4/13381 f"
+            },
+            "AD075DP_D2M8_244_0185_left_page_15.png": {
+                "text": "Lamand\u00e9/Anna/93/Finist\u00e8re/\u00a4/\u00a4/d/\u00a4/d/21549 f"
+            },
+            "AD075DP_D2M8_244_0185_left_page_17.png": {
+                "text": "Bill\u00e8re/Prosper/85/Htes Pyr/\u00a4/\u00a4/a /\u00a4/courtier en /18374 3"
+            },
+            "AD075DP_D2M8_244_0185_left_page_19.png": {
+                "text": "Leclercy/Juliette/81/Deux S\u00e8vres/\u00a4/\u00a4/ch /\u00a4/e concierge/21399 f"
+            },
+            "AD075DP_D2M8_244_0185_left_page_22.png": {
+                "text": "Deslandes/Marguerite/98/S & M /\u00a4/\u00a4/ch /\u00a4/o teinturi\u00e8re/8121 f"
+            },
+            "AD075DP_D2M8_244_0185_left_page_23.png": {
+                "text": "Partoy/Emile/78/M & M /\u00a4/m/ch/\u00a4/\u00a4/224081"
+            },
+            "AD075DP_D2M8_244_0185_left_page_24.png": {
+                "text": "-w-/Marthe/83/P/\u00a4/m/\u00e9p /\u00a4/\u00a4/22408 f"
+            },
+            "AD075DP_D2M8_244_0185_left_page_25.png": {
+                "text": "D\u00e9champ/Cl\u00e9mentine/10/P/\u00a4/\u00a4/par/\u00a4/\u00a4/22408 f"
+            },
+            "AD075DP_D2M8_244_0185_left_page_26.png": {
+                "text": "Partoy/Marie/61/\u00a4/\u00a4/\u00a4/par/\u00a4/\u00a4/Abs"
+            },
+            "AD075DP_D2M8_244_0185_left_page_27.png": {
+                "text": "B\u00e9atrix/Gustave/61/L Infre/\u00a4/m/ch /\u00a4/n\u00e9gts commissre/18374"
+            },
+            "AD075DP_D2M8_244_0185_left_page_28.png": {
+                "text": "\u00a4/Juliette/64/Eure/\u00a4/m/\u00e9p /\u00a4/\u00a4/18374"
+            },
+            "AD075DP_D2M8_244_0185_right_page_00.png": {
+                "text": "Rosenfeld/Emmanuel/79/Russie/\u00a4/m/ch/\u00a4/p tapissier/9136"
+            },
+            "AD075DP_D2M8_244_0185_right_page_01.png": {
+                "text": "''/Rachel/84/Turquie/Russie/m/ep/\u00a4/\u00a4/9136"
+            },
+            "AD075DP_D2M8_244_0185_right_page_02.png": {
+                "text": "''/Rapha\u00ebl/11/P /naturalis\u00e9/\u00a4/f/\u00a4/a tapissier/91361"
+            },
+            "AD075DP_D2M8_244_0185_right_page_05.png": {
+                "text": "\u00a4/Guy/12/P /\u00a4/\u00a4/f/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0185_right_page_06.png": {
+                "text": "Masselter/Marguerite/04/Luxembourg/\u00a4/\u00a4/d/\u00a4/d/21399"
+            },
+            "AD075DP_D2M8_244_0185_right_page_07.png": {
+                "text": "Gabeau/Olivier/88/Indre & Le/\u00a4/m/ch/\u00a4/p blanchisseuse/91333"
+            },
+            "AD075DP_D2M8_244_0185_right_page_08.png": {
+                "text": "''/Camille/84/Moselle/\u00a4/m/\u00e9p/\u00a4/d\u00b0/9133"
+            },
+            "AD075DP_D2M8_244_0185_right_page_09.png": {
+                "text": "Thomas/Charles/65/Vosges/\u00a4/m/ch/\u00a4/e fact PTT/\u00a4"
+            },
+            "AD075DP_D2M8_244_0185_right_page_10.png": {
+                "text": "''/El\u00e9onore/63/d\u00b0/\u00a4/m/\u00e9p/\u00a4/e concierge/21399"
+            },
+            "AD075DP_D2M8_244_0185_right_page_11.png": {
+                "text": "''/Charles/00/P /\u00a4/\u00a4/f/\u00a4/e comptable/183752"
+            },
+            "AD075DP_D2M8_244_0185_right_page_12.png": {
+                "text": "Weil/Jules/62/P/\u00a4/m/ch/\u00a4/negt pierres fines/133191"
+            },
+            "AD075DP_D2M8_244_0185_right_page_13.png": {
+                "text": "''/Jenny/72/\u00a4/\u00a4/m/\u00e9p/\u00a4/\u00a4/abs"
+            },
+            "AD075DP_D2M8_244_0185_right_page_14.png": {
+                "text": "Kahn/Jane/96/P /\u00a4/m/f/\u00a4/\u00a4/13319 f"
+            },
+            "AD075DP_D2M8_244_0185_right_page_15.png": {
+                "text": "\u00a4/Andr\u00e9/88/S & O /\u00a4/m/par/\u00a4/rept commerce/183743"
+            },
+            "AD075DP_D2M8_244_0185_right_page_16.png": {
+                "text": "Bouttier/Augustine/00/Mayenne/\u00a4/\u00a4/d/\u00a4/d/21399 f"
+            },
+            "AD075DP_D2M8_244_0185_right_page_17.png": {
+                "text": "Ticoulat/Germaine/07/B Pyr\u00e9n\u00e9es/\u00a4/\u00a4/d/\u00a4/d/21399 f"
+            },
+            "AD075DP_D2M8_244_0185_right_page_18.png": {
+                "text": "Mal\u00e9zieux/Georges/56/Meuse/\u00a4/m/ch/\u00a4/avocat/193801"
+            },
+            "AD075DP_D2M8_244_0185_right_page_19.png": {
+                "text": "''/Louise/64/d\u00b0/\u00a4/m/\u00e9p/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0185_right_page_20.png": {
+                "text": "Fichot/Anna/73/C d'Or/\u00a4/v/d/\u00a4/d/21399 f"
+            },
+            "AD075DP_D2M8_244_0185_right_page_22.png": {
+                "text": "Urrabieta/Elisa/49/Espagne/\u00a4/v/ch/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0185_right_page_25.png": {
+                "text": "Renaud/Pierre/08/Sne Infre/\u00a4/\u00a4/ch/\u00a4/e boucher/4342"
+            },
+            "AD075DP_D2M8_244_0185_right_page_26.png": {
+                "text": "Peter/Michel/84/B Rhin/\u00a4/m/ch/\u00a4/p boulanger/4372"
+            },
+            "AD075DP_D2M8_244_0185_right_page_27.png": {
+                "text": "''/Marie Louise/87/Ille & Vil/\u00a4/m/ep/\u00a4/d\u00b0/437"
+            },
+            "AD075DP_D2M8_244_0185_right_page_28.png": {
+                "text": "''/Marie Louise/24/P /\u00a4/\u00a4/f/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0185_right_page_29.png": {
+                "text": "Gringeat/Simonne/11/P /\u00a4/\u00a4/par/\u00a4/\u00a4/22408"
+            },
+            "AD075DP_D2M8_244_0189_left_page_00.png": {
+                "text": "''/Marguerite/74/P /\u00a4/m/ep/\u00a4/\u00a4/22408 fs"
+            },
+            "AD075DP_D2M8_244_0189_left_page_01.png": {
+                "text": "''/Jacques/97/P /\u00a4/\u00a4/f/\u00a4/e commerce/183773"
+            },
+            "AD075DP_D2M8_244_0189_left_page_02.png": {
+                "text": "''/Odette/04/P /\u00a4/\u00a4/f/\u00a4/\u00a4/18377 f"
+            },
+            "AD075DP_D2M8_244_0189_left_page_03.png": {
+                "text": "Blondeau/Germaine/00/S & Me/\u00a4/\u00a4/d/\u00a4/d/21399 f"
+            },
+            "AD075DP_D2M8_244_0189_left_page_05.png": {
+                "text": "Bailly/Hermance/85/Sa\u00f6ne & Le /\u00a4/v/d/\u00a4/d/21399 f"
+            },
+            "AD075DP_D2M8_244_0189_left_page_06.png": {
+                "text": "''/Marcelle/08/d\u00b0/\u00a4/\u00a4/d/\u00a4/a couturi\u00e8re/9152 f"
+            },
+            "AD075DP_D2M8_244_0189_left_page_07.png": {
+                "text": "Kahn/Jules/47/Me & Me /\u00a4/m/ch/\u00a4/n\u00e9gociant/183741"
+            },
+            "AD075DP_D2M8_244_0189_left_page_08.png": {
+                "text": "''/Adeline/56/Am\u00e9rique/\u00a4/m/\u00e9p/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0189_left_page_10.png": {
+                "text": "Fougereux/Rose/99/Le & Cher/\u00a4/\u00a4/d/\u00a4/d/21399 f"
+            },
+            "AD075DP_D2M8_244_0189_left_page_11.png": {
+                "text": "Barbier/Raymonde/98/Rh\u00f4ne/\u00a4/\u00a4/d/\u00a4/d/21399 f"
+            },
+            "AD075DP_D2M8_244_0189_left_page_12.png": {
+                "text": "Seyrat/Fran\u00e7ois/72/Dordogne/\u00a4/m/ch/e gcon bureau/163521"
+            },
+            "AD075DP_D2M8_244_0189_left_page_13.png": {
+                "text": "''/Nathalie/80/Htes Pyr/\u00a4/m/\u00e9p/\u00a4/\u00a4/16352 f"
+            },
+            "AD075DP_D2M8_244_0189_left_page_14.png": {
+                "text": "''/Pierre/17/d\u00b0/\u00a4/\u00a4/f/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0189_left_page_15.png": {
+                "text": "Grangier/Suzanne/99/P/\u00a4/\u00a4/ch/\u00a4/\u00a4/22408 f"
+            },
+            "AD075DP_D2M8_244_0189_left_page_16.png": {
+                "text": "Girard/Marie/49/P/\u00a4/v/ch/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0189_left_page_17.png": {
+                "text": "Salgues/L\u00e9onie/77/Loz\u00e8re/\u00a4/\u00a4/d/\u00a4/d/21399 f"
+            },
+            "AD075DP_D2M8_244_0189_left_page_18.png": {
+                "text": "Cretaine/Armande/74/C d'Or/\u00a4/v/d/\u00a4/d/21399 f"
+            },
+            "AD075DP_D2M8_244_0189_left_page_19.png": {
+                "text": "Garnier/Charles/61/Eure/\u00a4/v/ch/\u00a4/avou\u00e9/143791"
+            },
+            "AD075DP_D2M8_244_0189_left_page_21.png": {
+                "text": "Frantzer/M\u00e9lanie/07/d\u00b0/\u00a4/\u00a4/d/\u00a4/d/21399"
+            },
+            "AD075DP_D2M8_244_0189_left_page_22.png": {
+                "text": "Delvigne/Albert/67/Aisne/\u00a4/m/ch/\u00a4/commissaire priseur/193791"
+            },
+            "AD075DP_D2M8_244_0189_left_page_23.png": {
+                "text": "''/Jeanne/75/P/\u00a4/m/\u00e9p/\u00a4/\u00a4/19379 fs"
+            },
+            "AD075DP_D2M8_244_0189_left_page_24.png": {
+                "text": "''/Marguerite/01/P /\u00a4/\u00a4/f/\u00a4/\u00a4/19379 f"
+            },
+            "AD075DP_D2M8_244_0189_left_page_25.png": {
+                "text": "Taupin/Solange/75/Cher/\u00a4/v/d/\u00a4/d/21349 f"
+            },
+            "AD075DP_D2M8_244_0189_left_page_26.png": {
+                "text": "Bauer/Simone/03/P/\u00a4/d/\u00a4/\u00a4/d/21399 f"
+            },
+            "AD075DP_D2M8_244_0189_left_page_28.png": {
+                "text": "''/Marie/91/B Pyren\u00e9es/\u00a4/m/\u00e9p/\u00a4/\u00a4/16352 f"
+            },
+            "AD075DP_D2M8_244_0189_left_page_29.png": {
+                "text": "Delavenne/Paul/01/Gers/\u00a4/\u00a4/ch/\u00a4/e clerc notaire/143802"
+            },
+            "AD075DP_D2M8_244_0192_left_page_01.png": {
+                "text": "Perret /Fernand/96/P/\u00a4/m/ch/e quincaillerie/183742"
+            },
+            "AD075DP_D2M8_244_0192_left_page_02.png": {
+                "text": "\u00a4/Genevi\u00e8ve/98/Seine/\u00a4/m/ep /\u00a4/\u00a4/18374"
+            },
+            "AD075DP_D2M8_244_0192_left_page_03.png": {
+                "text": "\u00a4/Janine/23/P/\u00a4/\u00a4/f/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0192_left_page_04.png": {
+                "text": "\u00a4/Claude/25/P/\u00a4/\u00a4/f /\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0192_left_page_07.png": {
+                "text": "Jonier/Marie/04 /S Infre/\u00a4/\u00a4/ch /\u00a4/d bonne \u00e0 tt faire/21399 f"
+            },
+            "AD075DP_D2M8_244_0192_left_page_09.png": {
+                "text": "-w-/Camille/70/Ni\u00e8vre/\u00a4/m/\u00e9p /\u00a4/\u00a4/14321"
+            },
+            "AD075DP_D2M8_244_0192_left_page_10.png": {
+                "text": "Lejeune/Marguerite/03 /P/\u00a4/\u00a4/ch/\u00a4/d fem chambre/21399"
+            },
+            "AD075DP_D2M8_244_0192_left_page_12.png": {
+                "text": "-w-/H\u00e9l\u00e8ne/58/w-/\u00a4/m/ep /\u00a4/\u00a4/14382 f"
+            },
+            "AD075DP_D2M8_244_0192_left_page_13.png": {
+                "text": "Schmitt /Marie/57/P/\u00a4/\u00a4/ch/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0192_left_page_14.png": {
+                "text": "-w-/Elisabeth/92/S /\u00a4/\u00a4/f /\u00a4/\u00a4/22408"
+            },
+            "AD075DP_D2M8_244_0192_left_page_17.png": {
+                "text": "Nauzille/Celine/74/Eure /\u00a4/v/ch /\u00a4/e caissi\u00e8re/18375 f"
+            },
+            "AD075DP_D2M8_244_0192_left_page_18.png": {
+                "text": "-w-/Eva /92/P/\u00a4/\u00a4/f /\u00a4/-w-/18375 f"
+            },
+            "AD075DP_D2M8_244_0192_left_page_19.png": {
+                "text": "Marcellier/Jacques /97 /P /\u00a4/m/ch /\u00a4/e clerc notaire/193802"
+            },
+            "AD075DP_D2M8_244_0192_left_page_20.png": {
+                "text": "\u00a4/Madeleine/00/P/\u00a4/m/ep /\u00a4/\u00a4/19380 f"
+            },
+            "AD075DP_D2M8_244_0192_left_page_21.png": {
+                "text": "\u00a4/Th\u00e9r\u00e8se/22/P/\u00a4/\u00a4/f/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0192_left_page_23.png": {
+                "text": "Picot /Joseph/73/Hte Marne/\u00a4/m/ch /\u00a4/p libraire/1183741"
+            },
+            "AD075DP_D2M8_244_0192_left_page_24.png": {
+                "text": "\u00a4/Gabrielle/74/P /\u00a4/m/ep /\u00a4/-w-/18374 f"
+            },
+            "AD075DP_D2M8_244_0192_left_page_26.png": {
+                "text": "\u00a4/Jean/01/P/\u00a4/\u00a4/f/\u00a4/o imprimeur/7922"
+            },
+            "AD075DP_D2M8_244_0192_left_page_27.png": {
+                "text": "\u00a4/Odette /03/P/\u00a4/\u00a4/f/\u00a4/e librairie/18374 f"
+            },
+            "AD075DP_D2M8_244_0192_left_page_28.png": {
+                "text": "Bayer/Roger/05/P /\u00a4/m/ch/\u00a4/clerc d'avou\u00e9/193802"
+            },
+            "AD075DP_D2M8_244_0192_left_page_29.png": {
+                "text": "-w-/Madeleine/04/P/\u00a4/m/\u00e9p /\u00a4/\u00a4/19380 fs"
+            },
+            "AD075DP_D2M8_244_0204_right_page_00.png": {
+                "text": "Charles/maurice/84/P/\u00a4/m/ch /\u00a4/e chauffeur/123073"
+            },
+            "AD075DP_D2M8_244_0204_right_page_01.png": {
+                "text": "-w-/L\u00e9ontine/85/Aube/\u00a4/m/\u00e9p /\u00a4/\u00a4/12307 fs"
+            },
+            "AD075DP_D2M8_244_0204_right_page_02.png": {
+                "text": "Maudiret/Raoul/75/P/\u00a4/m/ch /\u00a4/e de cce/183771"
+            },
+            "AD075DP_D2M8_244_0204_right_page_03.png": {
+                "text": "-w-/Nathalie/74/Manche/\u00a4/m/ep /\u00a4/e concierge/21399 f"
+            },
+            "AD075DP_D2M8_244_0204_right_page_04.png": {
+                "text": "Baptiste/Marie/90/Vosges/\u00a4/D/ch /\u00a4/o brodeuse/9153 f"
+            },
+            "AD075DP_D2M8_244_0204_right_page_05.png": {
+                "text": "Samin/Ren\u00e9/91/Calvados/\u00a4/m/ch /\u00a4/e d'assurance/18377 2"
+            },
+            "AD075DP_D2M8_244_0204_right_page_06.png": {
+                "text": "w-/H\u00e9l\u00e8ne/92/-w-/\u00a4/m/\u00e9p /\u00a4/\u00a4/18377 fs"
+            },
+            "AD075DP_D2M8_244_0204_right_page_09.png": {
+                "text": "Malchrowich/Stanislas/73/Pologne/\u00a4/ch /\u00a4/e gardien /16352 P"
+            },
+            "AD075DP_D2M8_244_0204_right_page_10.png": {
+                "text": "Lugan /Baptistine/96 /Aude/\u00a4/ch /\u00a4/e de cce/18377 f"
+            },
+            "AD075DP_D2M8_244_0204_right_page_12.png": {
+                "text": "Moss /Robert/70 /Etats Unis/\u00a4/\u00a4/ch /\u00a4/commer\u00e7ant/18374 D"
+            },
+            "AD075DP_D2M8_244_0204_right_page_14.png": {
+                "text": "-w-/Marie/90/Corr\u00e8ze:/\u00a4/m/ep/\u00a4/\u00a4/18373 f"
+            },
+            "AD075DP_D2M8_244_0204_right_page_15.png": {
+                "text": "Guittard /Philom\u00e8ne/95/Aude/\u00a4/\u00a4/d /\u00a4/\u00a4/21399 f"
+            },
+            "AD075DP_D2M8_244_0204_right_page_16.png": {
+                "text": "Maugy/H\u00e9l\u00e8ne/90/S Infre/\u00a4/\u00a4/d/\u00a4/\u00a4/21399 f"
+            },
+            "AD075DP_D2M8_244_0204_right_page_18.png": {
+                "text": "Lithmann/Gilbert/86/Roumanie/\u00a4/\u00a4/a/\u00a4/\u00a4/22408 D"
+            },
+            "AD075DP_D2M8_244_0204_right_page_20.png": {
+                "text": "Masson/Antoine/76 /Indre/\u00a4/m/ch /\u00a4/e pharmacie/183771"
+            },
+            "AD075DP_D2M8_244_0204_right_page_21.png": {
+                "text": "\u00a4/C\u00e9line/79/\u00a4/\u00a4/m/\u00e9p /\u00a4/e concierge/21399 f"
+            },
+            "AD075DP_D2M8_244_0204_right_page_22.png": {
+                "text": "\u00a4/Maurice/07/\u00a4/\u00a4/\u00a4/f /\u00a4/\u00e9tudiant/224082"
+            },
+            "AD075DP_D2M8_244_0204_right_page_23.png": {
+                "text": "Bauget/Ren\u00e9e/94 /\u00a4/\u00a4/\u00a4/par /\u00a4/o couiti\u00e8re/9132"
+            },
+            "AD075DP_D2M8_244_0204_right_page_24.png": {
+                "text": "Gormet/Joseph/Rh\u00f4ne/\u00a4/m/ch /\u00a4/p pharmacien/19381 1"
+            },
+            "AD075DP_D2M8_244_0204_right_page_25.png": {
+                "text": "-w-/Adeline/75/d\u00b0/\u00a4/m/\u00e9p /\u00a4/\u00a4/19381 f"
+            },
+            "AD075DP_D2M8_244_0204_right_page_26.png": {
+                "text": "Blanchet/Henri/70 /P/\u00a4/\u00a4/\u00a4/\u00a4/p joaillier orf\u00e8vre/133191"
+            },
+            "AD075DP_D2M8_244_0204_right_page_27.png": {
+                "text": "\u00a4/Simone/00/P /\u00a4/\u00a4/\u00a4/\u00a4/e de cce/18377 f"
+            },
+            "AD075DP_D2M8_244_0204_right_page_29.png": {
+                "text": "\u00a4/Jacques/03/P /\u00a4/\u00a4/\u00a4/\u00a4/e bijoutier/133172"
+            },
+            "AD075DP_D2M8_244_0208_left_page_00.png": {
+                "text": "Boulonnois/Georgette/95/Marne/\u00a4/m/ch /\u00a4/emp commerce/18377"
+            },
+            "AD075DP_D2M8_244_0208_left_page_02.png": {
+                "text": "Damery/Gaston/87/Marne/\u00a4/\u00a4/par/\u00a4/emp de commerce/183773"
+            },
+            "AD075DP_D2M8_244_0208_left_page_03.png": {
+                "text": "Gallopin/Andr\u00e9/99/\u00a4/\u00a4/m/ch /\u00a4/d\u00b0/183771"
+            },
+            "AD075DP_D2M8_244_0208_left_page_04.png": {
+                "text": "Baconel/Eug\u00e8ne/70/\u00a4/\u00a4/V /par /\u00a4/comptable/18374"
+            },
+            "AD075DP_D2M8_244_0208_left_page_05.png": {
+                "text": "Qu\u00e9lennec/F\u00e9lix/78/Finist\u00e8re/\u00a4/m/ch/\u00a4/h de lettres/193891"
+            },
+            "AD075DP_D2M8_244_0208_left_page_06.png": {
+                "text": "\u00a4/Jeanne/80/Hte Garonne/\u00a4/m/ep/\u00a4/sp/193892"
+            },
+            "AD075DP_D2M8_244_0208_left_page_07.png": {
+                "text": "Duvernet/Edmond/89/Rh\u00f4ne/\u00a4/\u00a4/ch /\u00a4/p coiffeur/2039021"
+            },
+            "AD075DP_D2M8_244_0208_left_page_08.png": {
+                "text": "Baillargeat/Jacques/77/Vienne/\u00a4/m/ch /\u00a4/g de magasin/163921"
+            },
+            "AD075DP_D2M8_244_0208_left_page_09.png": {
+                "text": "\u00a4/Rachel/84/Vienne/\u00a4/m/ep/\u00a4/concierge/21399"
+            },
+            "AD075DP_D2M8_244_0208_left_page_10.png": {
+                "text": "\u00a4/Jeanne/03/Vienne/\u00a4/\u00a4/f/\u00a4/\u00a4/16352"
+            },
+            "AD075DP_D2M8_244_0208_left_page_11.png": {
+                "text": "Bourgeois/Am\u00e9d\u00e9e/68/Pas de Calais/\u00a4/m/ch /\u00a4/emp PTT/\u00a4"
+            },
+            "AD075DP_D2M8_244_0208_left_page_12.png": {
+                "text": "\u00a4/Louise/80/Finist\u00e8re/\u00a4/m/ep /\u00a4/sp/22408"
+            },
+            "AD075DP_D2M8_244_0208_left_page_13.png": {
+                "text": "\u00a4/Eug\u00e8ne/01/Finist\u00e8re/\u00a4/\u00a4/f/\u00a4/ing\u00e9nieur/121742"
+            },
+            "AD075DP_D2M8_244_0208_left_page_14.png": {
+                "text": "\u00a4/Suzanne/09/P/\u00a4/\u00a4/f/\u00a4/224081"
+            },
+            "AD075DP_D2M8_244_0208_left_page_17.png": {
+                "text": "Fargeas/Albert/95/Corr\u00e8ze/\u00a4/m/ch /\u00a4/o jardinier/\u00a4"
+            },
+            "AD075DP_D2M8_244_0208_left_page_18.png": {
+                "text": "\u00a4/Germaine/01/P/\u00a4/m/ep/\u00a4/secretaire/18377"
+            },
+            "AD075DP_D2M8_244_0208_left_page_19.png": {
+                "text": "Fabbiani/Dalila/64/Gers/\u00a4/V/ch /\u00a4/sp/\u00a4"
+            },
+            "AD075DP_D2M8_244_0208_left_page_20.png": {
+                "text": "\u00a4/Claire/94/Gers/\u00a4/\u00a4/f /\u00a4/sp/22408"
+            },
+            "AD075DP_D2M8_244_0208_left_page_21.png": {
+                "text": "Caplet/Marie/70/P/\u00a4/V/ch /\u00a4/sp /2"
+            },
+            "AD075DP_D2M8_244_0208_left_page_22.png": {
+                "text": "Renault/Louis/02/P/\u00a4/\u00a4/ch /o mecanicien dentiste/20395"
+            },
+            "AD075DP_D2M8_244_0208_left_page_23.png": {
+                "text": "Duplessix/Adrienne/87/P/\u00a4/\u00a4/ch /\u00a4/p ling\u00e8re/9133"
+            },
+            "AD075DP_D2M8_244_0208_left_page_24.png": {
+                "text": "Roger/Camille/87/Jura/\u00a4/\u00a4/ch/\u00a4/p modiste/91393"
+            },
+            "AD075DP_D2M8_244_0208_left_page_25.png": {
+                "text": "Mah\u00e9/Louis/81/P/\u00a4/m/ch/\u00a4/emp de banque/18377"
+            },
+            "AD075DP_D2M8_244_0208_left_page_26.png": {
+                "text": "\u00a4/Madeleine/78/P/\u00a4/m/ep/\u00a4/p couturi\u00e8re/9132"
+            },
+            "AD075DP_D2M8_244_0208_left_page_27.png": {
+                "text": "\u00a4/Jean/13/P/\u00a4/\u00a4/f /\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0208_left_page_29.png": {
+                "text": "Gauthier/Marie/86/Lot et Garonne/\u00a4/\u00a4/ch/\u00a4/cuisini\u00e8re/21399"
+            },
+            "AD075DP_D2M8_244_0210_right_page_00.png": {
+                "text": "Hecq/Camille/86/Meuse/\u00a4/v/ch/\u00a4/p de fami/437"
+            },
+            "AD075DP_D2M8_244_0210_right_page_01.png": {
+                "text": "\u00a4/andr\u00e9a/11/Hte Mne/\u00a4/\u00a4/f/\u00a4/a couture/9132"
+            },
+            "AD075DP_D2M8_244_0210_right_page_02.png": {
+                "text": "\u00a4/Gilbert/13/\u00a4/\u00a4/\u00a4/f/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0210_right_page_04.png": {
+                "text": "Armengaud/Georges/77/Herault/\u00a4/m/ch/\u00a4/representant/18374"
+            },
+            "AD075DP_D2M8_244_0210_right_page_05.png": {
+                "text": "\u00a4/Marie/77/C d'Or/\u00a4/m/\u00e9p/\u00a4/sp/18374"
+            },
+            "AD075DP_D2M8_244_0210_right_page_06.png": {
+                "text": "Goillot/Louis/01/P /\u00a4/\u00a4/f/\u00a4/m telephon/224012"
+            },
+            "AD075DP_D2M8_244_0210_right_page_07.png": {
+                "text": "Rauch/Henriette/82/Luxembourg/\u00a4/\u00a4/ch/\u00a4/f o menage/213992"
+            },
+            "AD075DP_D2M8_244_0210_right_page_08.png": {
+                "text": "Le Hay/Emile/94/Morbihan/\u00a4/m/ch/\u00a4/o cordonnier/161472"
+            },
+            "AD075DP_D2M8_244_0210_right_page_09.png": {
+                "text": "\u00a4/Marie/92/Manche/\u00a4/m/ep/\u00a4/s p/16147"
+            },
+            "AD075DP_D2M8_244_0210_right_page_10.png": {
+                "text": "Guehoul/Marie Louise/61/Morbihan/\u00a4/\u00a4/pa/\u00a4/sp/\u00a4"
+            },
+            "AD075DP_D2M8_244_0210_right_page_11.png": {
+                "text": "Thom\u00e9/Jeanne/97/Ardennes/\u00a4/\u00a4/ch/\u00a4/e banque/18377"
+            },
+            "AD075DP_D2M8_244_0210_right_page_12.png": {
+                "text": "Caudoux/Th\u00e9r\u00e8se/94/S Inf/\u00a4/m/ch/\u00a4/f o menage/21399"
+            },
+            "AD075DP_D2M8_244_0210_right_page_13.png": {
+                "text": "\u00a4/Casimir/13/''/\u00a4/\u00a4/f/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0210_right_page_14.png": {
+                "text": "\u00a4/Maxime/14/\u00a4/\u00a4/\u00a4/f/\u00a4/\u00a4/3"
+            },
+            "AD075DP_D2M8_244_0210_right_page_15.png": {
+                "text": "Salard/Andr\u00e9/86/P /\u00a4/d/ch/\u00a4/sp/22408"
+            },
+            "AD075DP_D2M8_244_0210_right_page_16.png": {
+                "text": "Molarde/Amelie/91/Cher/\u00a4/\u00a4/ch/\u00a4/employ\u00e9/18377"
+            },
+            "AD075DP_D2M8_244_0210_right_page_19.png": {
+                "text": "Maldet/Formin/83/Morbihan/\u00a4/m/ch/\u00a4/e d gaz/18377"
+            },
+            "AD075DP_D2M8_244_0210_right_page_20.png": {
+                "text": "Ledar/maria/83/Lot/\u00a4/m/\u00a4/\u00a4/concierge/213992"
+            },
+            "AD075DP_D2M8_244_0210_right_page_22.png": {
+                "text": "\u00a4/Victoria/96/Cantal/\u00a4/m/ep/\u00a4/sp/18371"
+            },
+            "AD075DP_D2M8_244_0210_right_page_23.png": {
+                "text": "Pantin/Annette/88/Ain/\u00a4/\u00a4/ch/\u00a4/o couture/9132"
+            },
+            "AD075DP_D2M8_244_0210_right_page_24.png": {
+                "text": "Fons/Charles/78/Drome/\u00a4/\u00a4/ch/\u00a4/e emballeur/163501"
+            },
+            "AD075DP_D2M8_244_0210_right_page_25.png": {
+                "text": "Molarde/Berthe/85/Cher/\u00a4/\u00a4/a/\u00a4/o couture/9132"
+            },
+            "AD075DP_D2M8_244_0210_right_page_28.png": {
+                "text": "\u00a4/Marie/02/S et O/\u00a4/m/ep/\u00a4/sp/18375"
+            },
+            "AD075DP_D2M8_244_0210_right_page_29.png": {
+                "text": "\u00a4/Elisabeth/2 26/P /\u00a4/\u00a4/f/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0214_left_page_00.png": {
+                "text": "Texia/Camille/94/P/\u00a4/\u00a4/ch /\u00a4/emp de banque/183772"
+            },
+            "AD075DP_D2M8_244_0214_left_page_02.png": {
+                "text": "\u00a4/Charlotte/91/P/\u00a4/\u00a4/soeur/\u00a4/o couturiere/9132"
+            },
+            "AD075DP_D2M8_244_0214_left_page_03.png": {
+                "text": "Pouteau/Marie/76/Savoie/\u00a4/V/ch/\u00a4/o confection/9133"
+            },
+            "AD075DP_D2M8_244_0214_left_page_04.png": {
+                "text": "Crassat/Jean/82/Lot/\u00a4/m/ch/\u00a4/cr\u00eamier/4503"
+            },
+            "AD075DP_D2M8_244_0214_left_page_05.png": {
+                "text": "\u00a4/Marie-Louise/80/Eure/\u00a4/m/ep/\u00a4/d/4401"
+            },
+            "AD075DP_D2M8_244_0214_left_page_06.png": {
+                "text": "\u00a4/Ren\u00e9/09/P/\u00a4/\u00a4/f/\u00a4/4501"
+            },
+            "AD075DP_D2M8_244_0214_left_page_07.png": {
+                "text": "Tassain/Jeanne/05/Cher/\u00a4/\u00a4/employ\u00e9e/\u00a4/Emp de commerce/18377"
+            },
+            "AD075DP_D2M8_244_0214_left_page_08.png": {
+                "text": "Tripiano/Antonio/88/Italie/\u00a4/\u00a4/ch/\u00a4/o tailleur/91321"
+            },
+            "AD075DP_D2M8_244_0214_left_page_09.png": {
+                "text": "Desilli\u00e8re/Auguste/80/Mayenne/\u00a4/m/ch/\u00a4/emp d'h\u00f4tel/183731"
+            },
+            "AD075DP_D2M8_244_0214_left_page_10.png": {
+                "text": "\u00a4/Jos\u00e9phine/83/\u00a4/\u00a4/m/ep/\u00a4/d/183731"
+            },
+            "AD075DP_D2M8_244_0214_left_page_13.png": {
+                "text": "\u00a4/Ren\u00e9e/00/P/\u00a4/\u00a4/f /\u00a4/dactylo/18376"
+            },
+            "AD075DP_D2M8_244_0214_left_page_14.png": {
+                "text": "Cremmydas-Gay/Camille/98/P/\u00a4/\u00a4/f/\u00a4/dactylo/183762"
+            },
+            "AD075DP_D2M8_244_0214_left_page_15.png": {
+                "text": "Denne/Jean Baptiste/89/Nord/\u00a4/m/ch/\u00a4/g magasin/163522"
+            },
+            "AD075DP_D2M8_244_0214_left_page_16.png": {
+                "text": "\u00a4/Elisa/86/Nord/\u00a4/m/ep/\u00a4/concierge/213992"
+            },
+            "AD075DP_D2M8_244_0214_left_page_17.png": {
+                "text": "Goisset/Georges/92/P/\u00a4/\u00a4/ch/\u00a4/emp banque/183772"
+            },
+            "AD075DP_D2M8_244_0214_left_page_19.png": {
+                "text": "Boudet/Pierre/72/Puy de D\u00f4me/\u00a4/m/ch/\u00a4/cafetier/183711"
+            },
+            "AD075DP_D2M8_244_0214_left_page_20.png": {
+                "text": "\u00a4/Marie/74/Allier/\u00a4/m/ep/\u00a4/d/18371"
+            },
+            "AD075DP_D2M8_244_0214_left_page_21.png": {
+                "text": "\u00a4/Andr\u00e9/05P/\u00a4/\u00a4/f/\u00a4/emp commerce/183772"
+            },
+            "AD075DP_D2M8_244_0214_left_page_23.png": {
+                "text": "\u00a4/MArie/90/P/\u00a4/m/ep/\u00a4/sp/9132"
+            },
+            "AD075DP_D2M8_244_0214_left_page_24.png": {
+                "text": "Carr\u00e9/Jeanne/76/Morbihan/\u00a4/V/ch/\u00a4/cuisini\u00e8re/21399"
+            },
+            "AD075DP_D2M8_244_0214_left_page_25.png": {
+                "text": "Carpentier/Estelle/84/Pas de Calais/\u00a4/V/ch/\u00a4/ling\u00e8re/21399"
+            },
+            "AD075DP_D2M8_244_0214_left_page_26.png": {
+                "text": "\u00a4/Louise/06/Nord/\u00a4/\u00a4/f/\u00a4/steno dactylo/18376"
+            },
+            "AD075DP_D2M8_244_0214_left_page_27.png": {
+                "text": "Royant/Gustave/74/Oise/\u00a4/d/ch/\u00a4/g de bureau/163521"
+            },
+            "AD075DP_D2M8_244_0214_left_page_28.png": {
+                "text": "Mallez/Albert/68/Nord/\u00a4/m/ch/\u00a4/Dr Cie d'assurances/18374"
+            },
+            "AD075DP_D2M8_244_0214_left_page_29.png": {
+                "text": "\u00a4/Magdeleine/85/Rh\u00f4ne/\u00a4/m/ep /\u00a4/sp/18374"
+            }
+        },
+        "valid": {
+            "AD075DP_D2M8_244_0021_right_page_10.png": {
+                "text": "Chambalon/Abel/1904/Indre & Loire/\u00a4/\u00a4/fils/\u00a4/Electricien/12255"
+            },
+            "AD075DP_D2M8_244_0021_right_page_18.png": {
+                "text": "Le Marchand/\u00a4/\u00a4/\u00a4/\u00a4/m/Chef/\u00a4/\u00a4/abs"
+            },
+            "AD075DP_D2M8_244_0022_right_page_16.png": {
+                "text": "Bel/Marie/70/Hte Sa\u00f4ne/\u00a4/m/Chef/\u00a4/E/18377"
+            },
+            "AD075DP_D2M8_244_0022_right_page_17.png": {
+                "text": "\u00a4/fran\u00e7oise/72/Puy de D/\u00a4/m/Ep/\u00a4/Concierge/21399"
+            },
+            "AD075DP_D2M8_244_0022_right_page_25.png": {
+                "text": "Cabourg/Jeanne/94/Eure & L/\u00a4/m/D/\u00a4/d\u00b0/21399"
+            },
+            "AD075DP_D2M8_244_0022_right_page_26.png": {
+                "text": "Gauthier/Marie/67/Hte Sa\u00f4ne/\u00a4/\u00a4/D/\u00a4/fe chambre/21399"
+            },
+            "AD075DP_D2M8_244_0022_right_page_28.png": {
+                "text": "Cabourg/Simone/1915/P/\u00a4/\u00a4/\u00a4/\u00a4/E /18377"
+            },
+            "AD075DP_D2M8_244_0023_left_page_19.png": {
+                "text": "Gobert/Eug\u00e8ne/75/Belgique/\u00a4/m/Chef/\u00a4/chauf auto/17356"
+            },
+            "AD075DP_D2M8_244_0023_right_page_01.png": {
+                "text": "\u00a4/Chafika/99/\u00a4/\u00a4/m/Ep/\u00a4/\u00a4/abs"
+            },
+            "AD075DP_D2M8_244_0023_right_page_16.png": {
+                "text": "Delorme/Edouard/57/P/\u00a4/V/Chef/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0023_right_page_17.png": {
+                "text": "\u00a4/Paul/1900/Sne & o/\u00a4/\u00a4/fils/\u00a4/Etudt/19389"
+            },
+            "AD075DP_D2M8_244_0023_right_page_25.png": {
+                "text": "Aubert/Armande/1902/Loiret/\u00a4/\u00a4/D/\u00a4/fe chambre/21399"
+            },
+            "AD075DP_D2M8_244_0024_left_page_15.png": {
+                "text": "Batmale/Marie/80/Bses pyr\u00e9es/\u00a4/\u00a4/Chef/\u00a4/m\u00e9ang\u00e8re/21399"
+            },
+            "AD075DP_D2M8_244_0024_right_page_05.png": {
+                "text": "Naudin/\u00a4/\u00a4/\u00a4/\u00a4/\u00a4/\u00a4/\u00a4/\u00a4/abs"
+            },
+            "AD075DP_D2M8_244_0024_right_page_09.png": {
+                "text": "\u00a4/Louise/1913/P/\u00a4/\u00a4/fil/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0025_left_page_08.png": {
+                "text": "\u00a4/Marie/1900/P/\u00a4/\u00a4/fil/\u00a4/E /18377"
+            },
+            "AD075DP_D2M8_244_0025_left_page_09.png": {
+                "text": "Gelly/Marius/79/ard\u00e8che/\u00a4/m/Chef/\u00a4/E /18377"
+            },
+            "AD075DP_D2M8_244_0025_left_page_13.png": {
+                "text": "Cl\u00e9ment/Arnamnd/79/P/\u00a4/D/\u00a4/\u00a4/dentiste/19381"
+            },
+            "AD075DP_D2M8_244_0025_left_page_19.png": {
+                "text": "\u00a4/Louise/90/aisne/\u00a4/m/Ep/\u00a4/d\u00b0/21399"
+            },
+            "AD075DP_D2M8_244_0025_right_page_06.png": {
+                "text": "\u00a4/Jeanne/85/Landes/\u00a4/m/Ep/\u00a4/\u00a4/16352"
+            },
+            "AD075DP_D2M8_244_0025_right_page_11.png": {
+                "text": "Tellier/Paul/86/Nord/\u00a4/m/Chef/\u00a4/Concierge/21399"
+            },
+            "AD075DP_D2M8_244_0025_right_page_13.png": {
+                "text": "\u00a4/Paulette/1913/P/\u00a4/\u00a4/fil/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0025_right_page_18.png": {
+                "text": "Pardeilhan/fernande/1900/Bses Pyres/\u00a4/m/D/\u00a4/fe chambre/21399"
+            },
+            "AD075DP_D2M8_244_0025_right_page_21.png": {
+                "text": "\u00a4/Marthe/79/P/\u00a4/m/Ep/\u00a4/\u00a4/22408"
+            },
+            "AD075DP_D2M8_244_0081_left_page_03.png": {
+                "text": "Meral/Engel/\u00a4/\u00a4/\u00a4/m/ch/\u00a4/\u00a4/Abs"
+            },
+            "AD075DP_D2M8_244_0081_left_page_21.png": {
+                "text": "\u00a4/Jeanne/99/Yonne/\u00a4/m/Ep/\u00a4/sp/18377"
+            },
+            "AD075DP_D2M8_244_0108_right_page_04.png": {
+                "text": "\" \"/Genevieve/06/P/\u00a4/\u00a4/f/\u00a4/\u00a4/18371"
+            },
+            "AD075DP_D2M8_244_0108_right_page_18.png": {
+                "text": "Bravin/Anselme/03/Italien/\u00a4/D/Ch/\u00a4/Etudiant/19389"
+            },
+            "AD075DP_D2M8_244_0108_right_page_20.png": {
+                "text": "Boschi/Gelindo/87/Italien/\u00a4/D/Ch/\u00a4/Barmen/18371"
+            },
+            "AD075DP_D2M8_244_0111_left_page_15.png": {
+                "text": "\u00a4/Albertine/90/Savoie/\u00a4/M/ep/\u00a4/Cr\u00e9mi\u00e8re/450"
+            },
+            "AD075DP_D2M8_244_0111_left_page_25.png": {
+                "text": "\u00a4/Raymond/13/Russie/\u00a4/\u00a4/f /\u00a4/s /\u00a4"
+            },
+            "AD075DP_D2M8_244_0111_left_page_26.png": {
+                "text": "Dernchen Kova/Marie/93/Russie/\u00a4/\u00a4/ch /\u00a4/Modiste/9139"
+            },
+            "AD075DP_D2M8_244_0111_left_page_27.png": {
+                "text": "Rigaud/Louise/82/H Loire/\u00a4/\u00a4/ch/\u00a4/Caissi\u00e8re/18375"
+            },
+            "AD075DP_D2M8_244_0120_right_page_17.png": {
+                "text": "Chuisset/Charlotte/57/Loiret/\u00a4/V/ch /\u00a4/\u00a4/22408"
+            },
+            "AD075DP_D2M8_244_0123_right_page_00.png": {
+                "text": "Laporte/L\u00e9a/76/Eure Loir/\u00a4/\u00a4/Ch/\u00a4/f m\u00e9nage/21399"
+            },
+            "AD075DP_D2M8_244_0123_right_page_08.png": {
+                "text": "Simkin/Alfred/76/Russie/Fran\u00e7/M/Ch/\u00a4/Tailleur/9132"
+            },
+            "AD075DP_D2M8_244_0123_right_page_09.png": {
+                "text": "\u00a4/Fanny/93/S /\u00a4/M/Ep/\u00a4/Sp/9132"
+            },
+            "AD075DP_D2M8_244_0123_right_page_17.png": {
+                "text": "Bourquin/Marie L/01/Fran\u00e7aise/\u00a4/\u00a4/Ch/\u00a4/Sp/22408"
+            },
+            "AD075DP_D2M8_244_0123_right_page_20.png": {
+                "text": "\"/Yvonne/06/P /\u00a4/\u00a4/f/\u00a4/Modiste/9139"
+            },
+            "AD075DP_D2M8_244_0123_right_page_22.png": {
+                "text": "\"/Marie/96/Fran\u00e7aise/\u00a4/M/Ep/\u00a4/Sp/22408"
+            },
+            "AD075DP_D2M8_244_0123_right_page_26.png": {
+                "text": "Bouchu/Arthus/84/Ctes d'Or/\u00a4/M/Ch/\u00a4/Gcon Bureau/16352"
+            },
+            "AD075DP_D2M8_244_0140_right_page_08.png": {
+                "text": "''/Andr\u00e9/17/S/\u00a4/\u00a4/f/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0140_right_page_10.png": {
+                "text": "''/Marie/74/Ain/\u00a4/M/Ep/'' ''/437"
+            },
+            "AD075DP_D2M8_244_0140_right_page_14.png": {
+                "text": "''/Odette/04/S/\u00a4/\u00a4/f/\u00a4/Vendeuse/18377"
+            },
+            "AD075DP_D2M8_244_0140_right_page_16.png": {
+                "text": "Calos/Hel\u00e8ne/09/Fran\u00e7aise/\u00a4/\u00a4/Ch/\u00a4/Professeur violon/19385"
+            },
+            "AD075DP_D2M8_244_0140_right_page_27.png": {
+                "text": "''/Suzanne/78/Ni\u00e8vre/\u00a4/M/Ep/\u00a4/Sp/18375"
+            },
+            "AD075DP_D2M8_244_0168_left_page_03.png": {
+                "text": "Segall/Esther/44/Russie/\u00a4/V/Ch/\u00a4/s p /\u00a4"
+            },
+            "AD075DP_D2M8_244_0168_left_page_20.png": {
+                "text": "\u00a4/Antoinette/06/P/\u00a4/\u00a4/f/\u00a4/o Couturi\u00e8re/9132"
+            },
+            "AD075DP_D2M8_244_0168_left_page_23.png": {
+                "text": "Stroobants/Max/02/d\u00b0/\u00a4/\u00a4/Ch/\u00a4/Docteur/19282"
+            },
+            "AD075DP_D2M8_244_0173_left_page_09.png": {
+                "text": "''/Alice/76/P/\u00a4/m/\u00e9p/\u00a4/e concierge/21399"
+            },
+            "AD075DP_D2M8_244_0173_left_page_14.png": {
+                "text": "''/Alice/97/Ni\u00e8vre/\u00a4/m/\u00e9p/\u00a4/e magasin/18377 f"
+            },
+            "AD075DP_D2M8_244_0173_left_page_24.png": {
+                "text": "Ducartier/Andr\u00e9e/98/Cher/\u00a4/\u00a4/ac/\u00a4/e contr\u00f4leuse/22408 f"
+            },
+            "AD075DP_D2M8_244_0185_left_page_16.png": {
+                "text": "Terwagne/Julia/75/Indre/\u00a4/V /ch /\u00a4/\u00a4/224081"
+            },
+            "AD075DP_D2M8_244_0185_left_page_21.png": {
+                "text": "Novion/Anna/64/Landes/\u00a4/\u00a4/d/\u00a4/d gouvernante/20348 f"
+            },
+            "AD075DP_D2M8_244_0185_left_page_29.png": {
+                "text": "Le Roy/Louise/89/Finist\u00e8re/\u00a4/\u00a4/d /\u00a4/d cuisini\u00e8re/21399"
+            },
+            "AD075DP_D2M8_244_0185_right_page_03.png": {
+                "text": "Plessix/Lucie/83/P /\u00a4/v/ch/\u00a4/\u00a4/22408 f"
+            },
+            "AD075DP_D2M8_244_0185_right_page_04.png": {
+                "text": "\u00a4/Jacques/07/P /\u00a4/\u00a4/f/\u00a4/e clerc d'avou\u00e9/193802"
+            },
+            "AD075DP_D2M8_244_0185_right_page_21.png": {
+                "text": "Marschal/Ketty/00/Allemagne/\u00a4/\u00a4/d/\u00a4/d/21399"
+            },
+            "AD075DP_D2M8_244_0185_right_page_24.png": {
+                "text": "''/Maria/73/d\u00b0/\u00a4/\u00a4/f/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0189_left_page_04.png": {
+                "text": "Ferret/Agn\u00e8s/97/Lot/\u00a4/\u00a4/d/\u00a4/d/21399 f"
+            },
+            "AD075DP_D2M8_244_0189_left_page_09.png": {
+                "text": "Cridelich/C\u00e9lestine/89/Moselle/\u00a4/\u00a4/d/\u00a4/d/21399 f"
+            },
+            "AD075DP_D2M8_244_0189_left_page_20.png": {
+                "text": "Lott/Anna/82/Luxembourg/\u00a4/d/\u00a4/d/2134"
+            },
+            "AD075DP_D2M8_244_0189_left_page_27.png": {
+                "text": "Penin/Jules/78/indre/\u00a4/m/ch/\u00a4/e gon bureau/163521"
+            },
+            "AD075DP_D2M8_244_0192_left_page_05.png": {
+                "text": "Perret/Henri/65/P/\u00a4/m/ch /\u00a4/p quicaillier/183741"
+            },
+            "AD075DP_D2M8_244_0192_left_page_06.png": {
+                "text": "-w-/Henriette /73/P/\u00a4/m/ep /\u00a4/\u00a4/18374 f"
+            },
+            "AD075DP_D2M8_244_0192_left_page_08.png": {
+                "text": "Archambault/Achille/44/S /\u00a4/m/ch /\u00a4/p architecte/143212"
+            },
+            "AD075DP_D2M8_244_0192_left_page_11.png": {
+                "text": "Delplanque/Pierre/62/Nord /\u00a4/m/ch /\u00a4/Dr m\u00e9decin/193821"
+            },
+            "AD075DP_D2M8_244_0192_left_page_22.png": {
+                "text": "\u00a4/Jean/24/P/\u00a4/\u00a4/f /\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0204_right_page_07.png": {
+                "text": "Robinet/Juliette/95 /M & L/\u00a4/\u00a4/ch /\u00a4/p brodeuse/9133 f"
+            },
+            "AD075DP_D2M8_244_0204_right_page_28.png": {
+                "text": "\u00a4/Germaine/02/P /\u00a4/\u00a4/\u00a4/\u00a4/-w-/18377 f"
+            },
+            "AD075DP_D2M8_244_0208_left_page_01.png": {
+                "text": "\u00a4/Marie-Th\u00e9r\u00e8se/20/P/\u00a4/\u00a4/f/\u00a4/\u00a4/3"
+            },
+            "AD075DP_D2M8_244_0208_left_page_15.png": {
+                "text": "Caby/Ernest/79/Indre et Loire/m /ch/\u00a4/sp /224081"
+            },
+            "AD075DP_D2M8_244_0208_left_page_16.png": {
+                "text": "\u00a4/Ang\u00e8le/77/indre et Loire/\u00a4/m/ep/\u00a4/sp/22408"
+            },
+            "AD075DP_D2M8_244_0208_left_page_28.png": {
+                "text": "Cartier/Yvonne/04/S et O)/\u00a4/\u00a4/par /\u00a4/o couturi\u00e8re/9132"
+            },
+            "AD075DP_D2M8_244_0210_right_page_03.png": {
+                "text": "\u00a4/Yvonne/14/Seine/\u00a4/\u00a4/f/\u00a4/\u00a4/1"
+            },
+            "AD075DP_D2M8_244_0210_right_page_17.png": {
+                "text": "Vienne/Edouard/57/S et L/\u00a4/m/ch/\u00a4/e ch de fer/\u00a4"
+            },
+            "AD075DP_D2M8_244_0210_right_page_18.png": {
+                "text": "\u00a4/Elisa/73/Suisse/\u00a4/m/ep/\u00a4/cuisini\u00e8re/18372"
+            },
+            "AD075DP_D2M8_244_0214_left_page_01.png": {
+                "text": "\u00a4/Josephine/66/P/\u00a4/V/m\u00e8re/\u00a4/d/18377"
+            }
+        },
+        "test": {
+            "AD075DP_D2M8_244_0021_right_page_04.png": {
+                "text": "Duret/Yvonne/1907/Hte Savoie/\u00a4/\u00a4/D/\u00a4/fe chambre/21399"
+            },
+            "AD075DP_D2M8_244_0021_right_page_25.png": {
+                "text": "\u00a4/Robert/1900/d\u00b0/\u00a4/\u00a4/fils/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0022_left_page_09.png": {
+                "text": "Meillon/felix/60/B du R /\u00a4/m/Chef/\u00a4/Journaliste/19389"
+            },
+            "AD075DP_D2M8_244_0022_left_page_17.png": {
+                "text": "Armand/Roger/1906/ard\u00e8che/\u00a4/\u00a4/\u00a4/\u00a4/E /18377"
+            },
+            "AD075DP_D2M8_244_0022_left_page_23.png": {
+                "text": "Weynandt/Jn Bte/69/Luxembourg/\u00a4/V/Chef/\u00a4/Sert caf\u00e9/18371"
+            },
+            "AD075DP_D2M8_244_0022_left_page_29.png": {
+                "text": "Picard/francine/72/Sne & Loire/\u00a4/\u00a4/\u00a4/\u00a4/Infirmi\u00e8re/20392"
+            },
+            "AD075DP_D2M8_244_0022_right_page_05.png": {
+                "text": "Moreau/Marie/96/Mayenne/\u00a4/\u00a4/amie/\u00a4/fe m\u00e9nage/21399"
+            },
+            "AD075DP_D2M8_244_0022_right_page_15.png": {
+                "text": "Jarny/Julien/1915/P/\u00a4/\u00a4/petit fils/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0022_right_page_21.png": {
+                "text": "Vallut/Andr\u00e9/61/Sne & o/\u00a4/m/Chef/\u00a4/ppre/\u00a4"
+            },
+            "AD075DP_D2M8_244_0022_right_page_24.png": {
+                "text": "Cabourg/Victor/86/L & chef/\u00a4/m/D/\u00a4/dom/21399"
+            },
+            "AD075DP_D2M8_244_0023_left_page_04.png": {
+                "text": "Nilles/Marguerite/1906/Luxembourg/\u00a4/\u00a4/D/\u00a4/fe chambre/21399"
+            },
+            "AD075DP_D2M8_244_0023_left_page_14.png": {
+                "text": "Grundland/Maurice/82/Russier/\u00a4/m/Chef/\u00a4/negoct/18374"
+            },
+            "AD075DP_D2M8_244_0023_left_page_22.png": {
+                "text": "Hauquet/Alexandre/86/\u00a4/\u00a4/m/chef/\u00a4/cuisinier/18372"
+            },
+            "AD075DP_D2M8_244_0023_right_page_04.png": {
+                "text": "Plassot/Louise/99/\u00a4/\u00a4/\u00a4/\u00a4/\u00a4/bonne/21399"
+            },
+            "AD075DP_D2M8_244_0023_right_page_07.png": {
+                "text": "\u00a4/Roger/1911/oise/\u00a4/\u00a4/fils/\u00a4/tapissier/9136"
+            },
+            "AD075DP_D2M8_244_0023_right_page_08.png": {
+                "text": "Cauqereau/Emile/98/Yonne/\u00a4/\u00a4/\u00a4/\u00a4/E /18377"
+            },
+            "AD075DP_D2M8_244_0023_right_page_19.png": {
+                "text": "Belliard/Elise/68/manche/\u00a4/\u00a4/D/\u00a4/cuisini\u00e8-re/18372"
+            },
+            "AD075DP_D2M8_244_0023_right_page_24.png": {
+                "text": "\u00a4/Elisabeth/67/Mthe & Mlle/\u00a4/m/Ep/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0023_right_page_28.png": {
+                "text": "\u00a4/Marie/86/d\u00b0/\u00a4/m/Ep/\u00a4/fe chambre/21399"
+            },
+            "AD075DP_D2M8_244_0024_left_page_01.png": {
+                "text": "Potier/Th\u00e9ophile/92/Belgique/\u00a4/m/chef/\u00a4/Concierge/21399"
+            },
+            "AD075DP_D2M8_244_0024_left_page_14.png": {
+                "text": "Pinault/Berthe/85/Indre/\u00a4/\u00a4/\u00a4/\u00a4/o chapeli\u00e8re/9139"
+            },
+            "AD075DP_D2M8_244_0024_left_page_23.png": {
+                "text": "havarot/Joseph/96/Puy de D /\u00a4/m/Chef/\u00a4/E /18377"
+            },
+            "AD075DP_D2M8_244_0024_right_page_21.png": {
+                "text": "Pacoud/Jos\u00e9phine/72/Ain/\u00a4/\u00a4/\u00a4/\u00a4/E/18377"
+            },
+            "AD075DP_D2M8_244_0025_left_page_06.png": {
+                "text": "Bastien/Simon/55/Moselle/\u00a4/m/Chef/\u00a4/Gon magin/16352"
+            },
+            "AD075DP_D2M8_244_0025_left_page_22.png": {
+                "text": "\u00a4/Georgette/87/Alg\u00e9rie/\u00a4/m/Ep/\u00a4/\u00a4/18377"
+            },
+            "AD075DP_D2M8_244_0025_right_page_15.png": {
+                "text": "\u00a4/Jean/76/d\u00b0/\u00a4/D/oncle/\u00a4/\u00a4/22408"
+            },
+            "AD075DP_D2M8_244_0025_right_page_16.png": {
+                "text": "Lacam/l\u00e9onie/77/alsace/\u00a4/\u00a4/D/\u00a4/dom/21399"
+            },
+            "AD075DP_D2M8_244_0081_left_page_00.png": {
+                "text": "Pr\u00e9vot/Louis/90/P/\u00a4/m/ch /\u00a4/Empl/183772"
+            },
+            "AD075DP_D2M8_244_0081_left_page_07.png": {
+                "text": "Deprost/Eug\u00e8ne/90 /Jura/\u00a4/\u00a4/ch/Represt Cce/183722"
+            },
+            "AD075DP_D2M8_244_0081_left_page_15.png": {
+                "text": "\u00a4/Zelie/74/Jura/\u00a4/m/ep /\u00a4/concierge/21399"
+            },
+            "AD075DP_D2M8_244_0108_right_page_09.png": {
+                "text": "Verdelet/Clotaire/93/Eure et Loir/\u00a4/M/Ch/\u00a4/\u00a4/22408"
+            },
+            "AD075DP_D2M8_244_0108_right_page_15.png": {
+                "text": "\" \"/Jean Louis/14/P /\u00a4/\u00a4/f/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0108_right_page_29.png": {
+                "text": "Le Govic/Mathurin/76/Morbihan/\u00a4/Ch/\u00a4/Ep\u00e9 Magasin/18377"
+            },
+            "AD075DP_D2M8_244_0111_left_page_00.png": {
+                "text": "Gilardo/Dario/04/Italie/\u00a4/\u00a4/ch/\u00a4/Employ\u00e9/18377"
+            },
+            "AD075DP_D2M8_244_0111_left_page_08.png": {
+                "text": "Gely/Georges/80/H\u00e9rault/\u00a4/M/ch/\u00a4/Hotelier/18379"
+            },
+            "AD075DP_D2M8_244_0120_right_page_00.png": {
+                "text": "Fourr\u00e9/Fran\u00e7oise/63/Ni\u00e8vre/\u00a4/M /D /\u00a4/Domestique/21399"
+            },
+            "AD075DP_D2M8_244_0120_right_page_04.png": {
+                "text": "Wackenhut/Charlotte/77/P/\u00a4/V/ch/\u00a4/Corsetiere/9133"
+            },
+            "AD075DP_D2M8_244_0120_right_page_10.png": {
+                "text": "Giraux/\u00a4/66/s et o /\u00a4/M /ch /\u00a4/s /\u00a4"
+            },
+            "AD075DP_D2M8_244_0120_right_page_14.png": {
+                "text": "\u00a4/Jeanne/83/P/\u00a4/M/ep /\u00a4/s /18374"
+            },
+            "AD075DP_D2M8_244_0120_right_page_23.png": {
+                "text": "Cimet/Arthur/53/Belgique/\u00a4/\u00a4/ch /\u00a4/s /\u00a4"
+            },
+            "AD075DP_D2M8_244_0120_right_page_26.png": {
+                "text": "\u00a4/Paul/12/Mayenne/\u00a4/\u00a4/f /\u00a4/s /\u00a4"
+            },
+            "AD075DP_D2M8_244_0123_right_page_12.png": {
+                "text": "Gorce/Gabriel/63/Francais/\u00a4/M/Ch/Photograph/7100"
+            },
+            "AD075DP_D2M8_244_0123_right_page_19.png": {
+                "text": "\"/Th\u00e9r\u00e8se/78/Loiret/\u00a4/M/Ep/\u00a4/Sp/21399"
+            },
+            "AD075DP_D2M8_244_0140_right_page_06.png": {
+                "text": "Caussin/Camille/91/Meuse/\u00a4/M/Ch/\u00a4/Employ\u00e9/18377"
+            },
+            "AD075DP_D2M8_244_0143_left_page_04.png": {
+                "text": "\u00a4/Marcel/16/P/\u00a4/\u00a4/f/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0143_left_page_20.png": {
+                "text": "Paget/Th\u00e9r\u00e8se/63/P/\u00a4/V/Ch/\u00a4/S p /\u00a4"
+            },
+            "AD075DP_D2M8_244_0143_left_page_25.png": {
+                "text": "Faget/Yvonne/98/Landes/\u00a4/\u00a4/d/\u00a4/d\u00b0/21399"
+            },
+            "AD075DP_D2M8_244_0143_left_page_29.png": {
+                "text": "Vincent/Maria/57/Oise/\u00a4/V/Ch/\u00a4/S p /\u00a4"
+            },
+            "AD075DP_D2M8_244_0168_left_page_00.png": {
+                "text": "de la Barre/Suzanne/05/S Ire/\u00a4/\u00a4/Ch/\u00a4/Vendeuse/18377"
+            },
+            "AD075DP_D2M8_244_0168_left_page_01.png": {
+                "text": "\u00a4/Christiane/02/P/\u00a4/\u00a4/par/\u00a4/d\u00b0/18371"
+            },
+            "AD075DP_D2M8_244_0168_left_page_22.png": {
+                "text": "Van Eyken/Hubert/69/Belgique/\u00a4/D/Ch/\u00a4/Hotelier/18371"
+            },
+            "AD075DP_D2M8_244_0168_left_page_28.png": {
+                "text": "Medred/Josko/06/Italie/\u00a4/\u00a4/Ch/\u00a4/Etudiant/19389"
+            },
+            "AD075DP_D2M8_244_0173_left_page_12.png": {
+                "text": "''/Marie/97/Nord/Suisse/m/\u00e9p/\u00a4/\u00a4/20390 D"
+            },
+            "AD075DP_D2M8_244_0173_left_page_23.png": {
+                "text": "Vass\u00e9/Adrien/74/Mthe & Mlle/\u00a4/d/ch/\u00a4/e comptable/183751"
+            },
+            "AD075DP_D2M8_244_0173_left_page_25.png": {
+                "text": "Baudoin/Marie/81/L & Cher/\u00a4/\u00a4/ch/\u00a4/o modiste/9139"
+            },
+            "AD075DP_D2M8_244_0173_left_page_26.png": {
+                "text": "Cochet/Marie/51/Is\u00e8re/\u00a4/v/ch/\u00a4/e retrait\u00e9e/\u00a4"
+            },
+            "AD075DP_D2M8_244_0185_left_page_08.png": {
+                "text": "-w-/Maria/02/d\u00b0/\u00a4/\u00a4/d /\u00a4/d cuisini\u00e8re/21399 f"
+            },
+            "AD075DP_D2M8_244_0185_left_page_14.png": {
+                "text": "Catella/Odile/84/Savoie/\u00a4/\u00a4/d/\u00a4/d fem chambre/21399 f"
+            },
+            "AD075DP_D2M8_244_0185_left_page_18.png": {
+                "text": "Didion/Mariette/05/P/\u00a4/\u00a4/d/\u00a4/d cuisini\u00e8re/21399 f"
+            },
+            "AD075DP_D2M8_244_0185_left_page_20.png": {
+                "text": "Moreau de Tours/Marguerite/51/P/\u00a4/V /ch /\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0185_right_page_23.png": {
+                "text": "''/Julia/67/d\u00b0/\u00a4/\u00a4/f/\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0192_left_page_00.png": {
+                "text": "-w /Henri/14/Loiret/\u00a4/\u00a4/f /\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0192_left_page_15.png": {
+                "text": "Morice/Alice/61/Constantine/\u00a4/V /ch /\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0192_left_page_16.png": {
+                "text": "Giraud/Philippine/40 /Ht Rhin/\u00a4/V /ch /\u00a4/\u00a4/\u00a4"
+            },
+            "AD075DP_D2M8_244_0192_left_page_25.png": {
+                "text": "\u00a4/Marcel/99/P/\u00a4/\u00a4/f/\u00a4/e librairie/18374 2"
+            },
+            "AD075DP_D2M8_244_0204_right_page_08.png": {
+                "text": "Beuthault/Ren\u00e9e/82/S /\u00a4/\u00a4/ch /\u00a4/e comptable/18375 f"
+            },
+            "AD075DP_D2M8_244_0204_right_page_11.png": {
+                "text": "Hillairet/Lucien/05/Ch Infre/\u00a4/\u00a4/ch /\u00a4/e cr\u00e9mier/4502"
+            },
+            "AD075DP_D2M8_244_0204_right_page_13.png": {
+                "text": "Albisson/Antoine/80/Cantal/\u00a4/m/ch/g\u00e9rant d'h\u00f4tel/183731"
+            },
+            "AD075DP_D2M8_244_0204_right_page_17.png": {
+                "text": "Piettre/Odette/03/S & M /\u00a4/\u00a4/d/\u00a4/\u00a4/21399 f"
+            },
+            "AD075DP_D2M8_244_0204_right_page_19.png": {
+                "text": "w-/Charles/80/-w-/\u00a4/\u00a4/a /\u00a4/terrains p\u00e9trolif\u00e8re/22408 D"
+            },
+            "AD075DP_D2M8_244_0210_right_page_21.png": {
+                "text": "Ashuc/Urbain/1900/Lozere/\u00a4/m/ch/\u00a4/md de vins/183772"
+            },
+            "AD075DP_D2M8_244_0210_right_page_26.png": {
+                "text": "Brumont/Rose/96/\u00a4/\u00a4/d /ch/\u00a4/danseuse/19388"
+            },
+            "AD075DP_D2M8_244_0210_right_page_27.png": {
+                "text": "Parmobseziau/Redoih/95/Asie/\u00a4/m/ch/\u00a4/e comptable/18375"
+            },
+            "AD075DP_D2M8_244_0214_left_page_11.png": {
+                "text": "Gay/Hippolyte/61/Doubs/\u00a4/m/ch/\u00a4/g de recettes/183751"
+            },
+            "AD075DP_D2M8_244_0214_left_page_12.png": {
+                "text": "\u00a4/Adeline/66/Sarthe/\u00a4/m/ep/\u00a4/sp /\u00a4"
+            },
+            "AD075DP_D2M8_244_0214_left_page_18.png": {
+                "text": "Grucker/Maurice/04/Bas Rhin/\u00a4/\u00a4/ch/\u00a4/repres commerce/183742"
+            },
+            "AD075DP_D2M8_244_0214_left_page_22.png": {
+                "text": "Gieudes/Elie/88/Tarn/\u00a4/m/ch/\u00a4/o tailleur/91323"
+            }
+        }
+    }
+}
