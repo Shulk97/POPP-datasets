@@ -11,7 +11,7 @@ The scructure of each dataset is the following:
 - pages:
   - images: images of the pages
   - xml: METS and ALTO files of each page containing the coordinates of the bounding boxes of each line
-  - lines: contains the labels in the file ```labels.json``` and the line images splitted into the folders *train*, *valid* and *test*.
+- lines: contains the labels in the file ```labels.json``` and the line images splitted into the folders *train*, *valid* and *test*.
 
 The double pages were scanned at a resolution of 200dpi and saved as PNG images with 256 gray levels.
 The line and page images are shared in the TIFF format, also with 256 gray levels.
