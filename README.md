@@ -46,8 +46,6 @@ This dataset is a mono-writer dataset made of 1470 lines (49 pages) from the *Be
 This dataset is a multi-writer dataset made of 780 lines (26 pages) from the *Chaussée d'Antin* district census of 1926 and written by 10 different writers.
 
 ## Terms of Use and Citation Request
-This dataset is for non-commercial research purpose. 
-
-License:  This dataset and the corresponding annotations are licensed under a Attribution-NonCommercial-ShareAlike 4.0 International License.
+License: This dataset and the corresponding annotations are licensed under a Attribution 4.0 International License.
 
 If you publish material based on this database, we request you to include a reference to paper `T. Constum, N. Kempf, T. Paquet, P. Tranouez, C. Chatelain, S. Brée, and F. Merveille,Recognition and information extraction in historical handwritten tables: toward understanding early 20th century Paris census ,Document Analysis Systems (DAS), pp. 143- 157, La Rochelle, 2022.`
