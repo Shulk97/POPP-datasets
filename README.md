@@ -50,4 +50,4 @@ This dataset is for non-commercial research purpose.
 
 License:  This dataset and the corresponding annotations are licensed under a Attribution-NonCommercial-ShareAlike 4.0 International License.
 
-If you publish material based on this database, we request you to include a reference to paper `Constum Thomas, Kempf Nicolas, Paquet Thierry, Traounez Pierrick, Chatelain Clément, Brée Sandra, Merveille François, 2022, “Recognition and information extraction in historical handwritten tables: toward understanding early 20th century Paris census", DAS 2022: 15th IAPR International Workshop on Document Analysis Systems`
+If you publish material based on this database, we request you to include a reference to paper `T. Constum, N. Kempf, T. Paquet, P. Tranouez, C. Chatelain, S. Brée, and F. Merveille,Recognition and information extraction in historical handwritten tables: toward understanding early 20th century Paris census ,Document Analysis Systems (DAS), pp. 143- 157, La Rochelle, 2022.`
