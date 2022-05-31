@@ -5,7 +5,7 @@ These datasets have been publised in [*Recognition and information extraction in
 
 The 3 datasets are called "Generic dataset", "Belleville", and "Chaussée d'Antin" and contains lines made from the extracted rows of census tables from 1926. Each table in the Paris census contains 30 rows, thus each page in these datasets corresponds to 30 lines.
 
-The images are stored in a separate [Git LFS repository](https://git.litislab.fr/tconstum/popp-datasets).
+The images are stored in a separate [Git LFS repository](https://git.litislab.fr/tconstum/popp-datasets). The datasets are also available [on Zenodo](https://zenodo.org/record/6581158).
 The structure of each dataset is the following:
 - double-pages : images of the double pages
 - pages:
@@ -22,7 +22,7 @@ Since the lines are extracted from table rows, we defined 4 special characters t
 - ? : indicates that the content of the cell following this symbol is written above the regular baseline
 - ! : indicates that the content of the cell following this symbol is written below the regular baseline
 
-We provide a script ```format_dataset.py``` to define which special character you want to use.
+We provide a script ```format_dataset.py``` to define which special character you want to use in the ground-truth.
 
 
 The split for the *Generic Dataset* and *Belleville* have been made at the double-page level so that each writer only appears in one subset among train, evaluation and test. The following table summarizes the splits and the number of writers for each dataset:
