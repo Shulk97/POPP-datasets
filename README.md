@@ -45,6 +45,10 @@ This dataset is a mono-writer dataset made of 1470 lines (49 pages) from the *Be
 
 This dataset is a multi-writer dataset made of 780 lines (26 pages) from the *Chaussée d'Antin* district census of 1926 and written by 10 different writers.
 
+## Error reporting
+
+It is possible that errors persist in the ground truth, so any suggestions for correction are welcome. To do so, please make a merge request and include the correction in both the labels.json file and in the XML file concerned.
+
 ## Terms of Use and Citation Request
 License: This dataset and the corresponding annotations are licensed under a Attribution 4.0 International License.
 
