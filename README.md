@@ -1,7 +1,7 @@
 # POPP datasets
 
-This repository contains 3 datasets created within the POPP project ([Project for the Oceration of the Paris Population Census](https://popp.hypotheses.org/#ancre2)) for the task of handwriting text recognition.
-These datasets have been publised in [*Recognition and information extraction in historical handwritten tables: toward understanding early 20th century Paris census* at DAS 2022](https://link.springer.com/chapter/10.1007/978-3-031-06555-2_10).
+This repository contains 3 datasets created by the LITIS lab (University of Rouen Normandie, France) within the POPP project ([Project for the Oceration of the Paris Population Census](https://popp.hypotheses.org/#ancre2)) for the task of handwriting text recognition.
+These datasets have been publised in [*Recognition and information extraction in historical handwritten tables: toward understanding early 20th century Paris census* at DAS 2022](https://link.springer.com/chapter/10.1007/978-3-031-06555-2_10) by T. Constum et al.
 
 The 3 datasets are called "Generic dataset", "Belleville", and "Chaussée d'Antin" and contains lines made from the extracted rows of census tables from 1926. Each table in the Paris census contains 30 rows, thus each page in these datasets corresponds to 30 lines.
 
